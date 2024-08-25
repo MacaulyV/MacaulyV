@@ -45,18 +45,16 @@ Sou um Desenvolvedor Full Stack em formação, com boa base de conhecimentos em 
 
 🎓 **Educação:**
 - **FIAP** - Análise e Desenvolvimento de Sistemas (em andamento)
-- Cursos adicionais:
-  - Introdução à Ciência de Dados (Coursera)
-  - Fundamentos de Big Data (Udacity)
-  - Machine Learning Básico (DataCamp)
+- Cursos adicionais em plataformas como:
+  - **Devmedia**: Desenvolvimento web e mobile
+  - **Alura**: Programação e ciência de dados
+  - **DIO (Digital Innovation One)**: Tecnologias diversas e projetos práticos
 
-💼 **Experiência:**
-- **Estágio em Desenvolvimento Web** - TechSolutions Inc.
-  - Desenvolvimento de interfaces responsivas com React
-  - Colaboração em projetos de e-commerce utilizando Node.js e MySQL
-- **Projeto Acadêmico** - Sistema de Análise de Dados
-  - Criação de dashboard para visualização de dados usando Python e Matplotlib
-  - Implementação de algoritmos de machine learning para previsão de tendências
+💼 **Experiência e Realizações:**
+- Liderança e participação em projetos acadêmicos desafiadores:
+  - Desenvolvimento de soluções para empresas como **Salesforce**, **Hapvida** e **NotreDame Intermédica**
+  - Utilização de **Trello** para gerenciamento de projetos, garantindo entregas pontuais e de alta qualidade
+- Fortalecimento de habilidades em trabalho em equipe e gestão de projetos
 
 🌱 **O que estou aprendendo atualmente:**
 Estou focado em aprimorar meus conhecimentos em **Microsoft Azure** para oferecer soluções em nuvem escaláveis e seguras. Também estou dedicando tempo ao estudo de **Inteligência Artificial** e **Análise Preditiva**, com o objetivo de aplicar essas tecnologias em **Engenharia de Dados**.
