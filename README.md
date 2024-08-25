@@ -31,27 +31,10 @@
 
     
 👨‍💻 **Desenvolvedor Full Stack em Formação:**
-Estou em formação como Desenvolvedor Full Stack, combinando uma sólida base teórica com experiência prática em diversos projetos. Tenho um interesse especial em criar soluções tecnológicas que sejam ao mesmo tempo eficientes e escaláveis, utilizando as melhores práticas do mercado. Minha abordagem ao desenvolvimento é guiada pela curiosidade, inovação e uma constante busca por aprimoramento.
+## 👨‍💻 Desenvolvedor Full Stack em Formação:
 
-### Front-end:
-- **Linguagens:** HTML, CSS, JavaScript
-- **Frameworks e Bibliotecas:** React, Next.js
-- **Design Responsivo:** Tailwind CSS, Bootstrap
-- **Ferramentas:** Figma (para prototipagem e design)
+Sou um Desenvolvedor Full Stack em formação, com boa base de conhecimentos em desenvolvimento Front-end, Back-end e Ciência de Dados. Minha experiência abrange desde o desenvolvimento de interfaces modernas com **React**, **Next.js** e **TypeScript**, até o desenvolvimento de sistemas back-end, utilizando **Java**, **Python** e **Flask** como framework para design de APIs e ciência de dados utilizando **Python** e bibliotecas como **Matplotlib**, **Seaborn**, **Pandas** e **ScikitLearn**.
 
-### Back-end:
-- **Linguagens:** Python, JavaScript (Node.js)
-- **Frameworks:** Flask, Express.js
-- **Banco de Dados:** MySQL, PostgreSQL, MongoDB
-- **APIs:** RESTful, GraphQL
-- **Segurança e Autenticação:** JWT, OAuth
-
-### Ciência de Dados:
-- **Linguagens:** Python, R
-- **Bibliotecas:** Pandas, NumPy, Scikit-learn, TensorFlow
-- **Visualização de Dados:** Matplotlib, Seaborn, Plotly
-- **Análise Preditiva:** Modelos de Machine Learning para previsão e otimização de processos
-- **Big Data:** Hadoop, Spark
 
 📚 **Educação:**
 - **FIAP** - Análise e Desenvolvimento de Sistemas
