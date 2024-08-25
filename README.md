@@ -83,9 +83,9 @@ Próximos passos de aprendizagem incluem:
 
 ## 🚀 Todas as Tecnologias e Ferramentas
 
-### Main Languages:
-![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=ffffff&labelColor=6DB33F)&nbsp;
-![Java](https://img.shields.io/badge/-Python-5c1bf5?style=for-the-badge&logo=python&logoColor=ffffff&labelColor=5c1bf5)
+### Principais linguagens:
+![React](https://img.shields.io/badge/-React%20Boot-6DB33F?style=for-the-badge&logo=react-boot&logoColor=ffffff&labelColor=6DB33F)&nbsp;
+![Python](https://img.shields.io/badge/-Python-5c1bf5?style=for-the-badge&logo=python&logoColor=ffffff&labelColor=5c1bf5)
 
 ### Tools:
 ![IntelliJ](https://img.shields.io/badge/-IntelliJ%20IDEA-5c1bf5?style=for-the-badge&logo=intellij-idea&labelColor=5c1bf5)
