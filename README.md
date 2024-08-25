@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=180&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=150&section=header"/>
 
 <img width="100%" src="https://github.com/MacaulyV/MacaulyV/blob/main/Innovating%20Software%20Solutions%20for%20the%20Future.png?raw=true"/>
 
@@ -7,13 +7,12 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a marketplace**
- 
- 🌱 I’m currently learning **Docker, Supabase, AWS**
-
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/salesp07/salesp07/issues)**
-
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+ ### Sobre Mim
+- 🔭 Atualmente, estou aprimorando minhas habilidades em **Desenvolvimento Full Stack** e **Ciência de Dados**.
+- 🌱 Estudando **Microsoft Azure** para soluções em nuvem escaláveis e seguras.
+- 🎓 Estudante de Análise e Desenvolvimento de Sistemas na **FIAP**.
+- 👯 Interessado em colaborar em projetos de **Desenvolvimento Web** e **Data Science**.
+- 📫 Como me contatar: [Seu Email](mailto:seuemail@exemplo.com)
 
  </div>
 
