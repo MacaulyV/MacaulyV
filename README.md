@@ -21,9 +21,7 @@
  
  👯 Interessado em colaborar em projetos de **Desenvolvimento Web** e **Data Science**.
 
- 🚀 Apaixonado por Engenharia de Dados, focado em transformar dados em insights estratégicos.
-
- 💡 Explorando Inteligência Artificial e Análise Preditiva para otimizar processos de negócios.
+ 💡 Explorando soluções de **Inteligência Artificial** focadas em Análise Preditiva para **Engenharia de Dados em Negócios**.
 
  </div>
 
