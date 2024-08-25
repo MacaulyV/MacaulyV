@@ -31,7 +31,6 @@
   </p>
 </details>
 
-<br>
 
 ## 🚀 Tecnologias e Ferramentas
 
