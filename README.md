@@ -84,7 +84,7 @@ Próximos passos de aprendizagem incluem:
 ## 🚀 Todas as Tecnologias e Ferramentas
 
 ### Principais linguagens:
-![React](https://img.shields.io/badge/-React%20-00BFFF?style=for-the-badge&logo=react-boot&logoColor=ffffff&labelColor=6DB33F)&nbsp;
+![React](https://img.shields.io/badge/-React-JS%20-00BFFF?style=for-the-badge&logo=react-boot&logoColor=ffffff&labelColor=6DB33F)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-5c1bf5?style=for-the-badge&logo=python&logoColor=ffffff&labelColor=5c1bf5)
 
 ### Tools:
