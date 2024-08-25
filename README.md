@@ -1,6 +1,6 @@
 <p align="center">
   <a href="">
-    <img src="https://i.pinimg.com/736x/9c/52/eb/9c52eb5ad87053b29cb121a89565a586.jpg" alt="MasterHead" width="100%" />
+    <img src="https://i.pinimg.com/736x/ce/18/9a/ce189abe5669189fef6132f082f701fb.jpg" alt="MasterHead" width="100%" />
   </a>
 </p>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0000FF&height=120&section=header"/>
