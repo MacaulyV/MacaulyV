@@ -10,20 +10,20 @@
 
 <div align="center"><br>
 
- 
- # Sobre Mim
+# Sobre Mim
 
-🔭 Atualmente, estou aprimorando minhas habilidades em **Desenvolvimento Full Stack** e **Ciência de Dados**.
+🔭 Atualmente, estou aprimorando minhas habilidades em **Desenvolvimento Full Stack** e **Ciência de Dados**.<br>
 
- 🌱 Estudando **Microsoft Azure** para soluções em nuvem escaláveis e seguras.
- 
- 🎓 Estudante de Análise e Desenvolvimento de Sistemas na **FIAP**.
- 
- 👯 Interessado em colaborar em projetos de **Desenvolvimento Web** e **Data Science**.
+🌱 Estudando **Microsoft Azure** para soluções em nuvem escaláveis e seguras.<br>
 
- 💡 Explorando soluções de **Inteligência Artificial** focadas em Análise Preditiva para **Engenharia de Dados** em Negócios.
+🎓 Estudante de Análise e Desenvolvimento de Sistemas na **FIAP**.<br>
 
- </div>
+👯 Interessado em colaborar em projetos de **Desenvolvimento Web** e **Data Science**.<br>
+
+💡 Explorando soluções de **Inteligência Artificial** focadas em Análise Preditiva para **Engenharia de Dados** em Negócios.<br>
+
+</div>
+
 
  <details>
   <summary><h2 align="left">Mais sobre mim/h2></summary>
