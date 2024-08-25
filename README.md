@@ -43,9 +43,20 @@ Sou um Desenvolvedor Full Stack em formação, com boa base de conhecimentos em 
 - UX/UI Design com **Figma** para prototipação de alta qualidade
 - Animações avançadas web 3D com **Framer Motion**
 
-📚 **Educação:**
-- **FIAP** - Análise e Desenvolvimento de Sistemas
-- Cursos adicionais em **Data Science**, **Big Data** e **Machine Learning**.
+🎓 **Educação:**
+- **FIAP** - Análise e Desenvolvimento de Sistemas (em andamento)
+- Cursos adicionais:
+  - Introdução à Ciência de Dados (Coursera)
+  - Fundamentos de Big Data (Udacity)
+  - Machine Learning Básico (DataCamp)
+
+💼 **Experiência:**
+- **Estágio em Desenvolvimento Web** - TechSolutions Inc.
+  - Desenvolvimento de interfaces responsivas com React
+  - Colaboração em projetos de e-commerce utilizando Node.js e MySQL
+- **Projeto Acadêmico** - Sistema de Análise de Dados
+  - Criação de dashboard para visualização de dados usando Python e Matplotlib
+  - Implementação de algoritmos de machine learning para previsão de tendências
 
 🌱 **O que estou aprendendo atualmente:**
 Estou focado em aprimorar meus conhecimentos em **Microsoft Azure** para oferecer soluções em nuvem escaláveis e seguras. Também estou dedicando tempo ao estudo de **Inteligência Artificial** e **Análise Preditiva**, com o objetivo de aplicar essas tecnologias em **Engenharia de Dados**.
