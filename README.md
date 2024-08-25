@@ -58,7 +58,16 @@ Sou um Desenvolvedor Full Stack em formação, com boa base de conhecimentos em 
 - Fortalecimento de habilidades em trabalho em equipe e gestão de projetos ultilizando Scrum
 
 🌱 **O que estou aprendendo atualmente:**
-Estou focado em aprimorar meus conhecimentos em **Microsoft Azure** para oferecer soluções em nuvem escaláveis e seguras. Também estou dedicando tempo ao estudo de **Inteligência Artificial** e **Análise Preditiva**, com o objetivo de aplicar essas tecnologias em **Engenharia de Dados**.
+Atualmente, estou expandindo meus conhecimentos em:
+
+- **Microsoft Azure**: Aprofundando-me em soluções de computação em nuvem para desenvolver aplicações escaláveis e robustas.
+- **Inteligência Artificial**: Explorando conceitos e aplicações práticas em projetos de desenvolvimento.
+
+Próximos passos de aprendizagem incluem:
+
+- **DevOps**: Práticas de integração e entrega contínua (CI/CD)
+- **Blockchain**: Fundamentos e aplicações em sistemas descentralizados
+- **Internet das Coisas (IoT)**: Desenvolvimento de soluções conectadas
 
 🎯 **Objetivos:**
 Tenho 20 anos e estou sempre buscando aprender e aplicar novas tecnologias, com foco em criar soluções inovadoras e eficientes. Nos próximos anos, pretendo me especializar ainda mais em **Desenvolvimento Web** e **Ciência de Dados**, visando atender às demandas do mercado global.
