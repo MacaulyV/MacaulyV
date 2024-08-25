@@ -62,23 +62,17 @@ Atualmente, estou expandindo meus conhecimentos em:
 
 - **Microsoft Azure**: Aprofundando-me em soluções de computação em nuvem para desenvolver aplicações escaláveis e robustas.
 - **Desenvolvimento Mobile com Kotlin**: Para desenvolvimento mobile nativo
+- **Inglês**: Dedicando 1 hora por dia para aprimorar minhas habilidades no idioma.
 
 Próximos passos de aprendizagem incluem:
 
 - **Cloud Computing (AWS)**: Aprofundando-me em serviços de nuvem AWS, com foco em arquiteturas de plataformas de dados para integração, ingestão, orquestração e processamento eficiente.
+
 - **Engenharia de Dados**: Explorando tecnologias Big Data como Hadoop, Spark e Airflow para desenvolver pipelines de dados robustos e escaláveis. Também iniciando estudos em SAS para análise avançada de dados.
+ 
 - **Spring Framework**: Aprofundando-me neste poderoso framework para Java, visando o desenvolvimento de aplicações empresariais robustas e escaláveis.
 
-🎯 **Objetivos:**
-Tenho 20 anos e estou sempre buscando aprender e aplicar novas tecnologias, com foco em criar soluções inovadoras e eficientes. Nos próximos anos, pretendo me especializar ainda mais em **Desenvolvimento Web** e **Ciência de Dados**, visando atender às demandas do mercado global.
 
-💡 **Interesses Pessoais:**
-No meu tempo livre, gosto de me dedicar ao estudo contínuo de novas ferramentas e ao aperfeiçoamento do meu inglês, sempre visando a adaptação às exigências globais.
-
-🌟 **Valores:**
-- **Inovação:** Sempre em busca de novas maneiras de resolver problemas complexos.
-- **Eficiência:** Otimização de processos para obter os melhores resultados.
-- **Aprendizado Contínuo:** Comprometido com o desenvolvimento pessoal e profissional.
   </p>
 </details>
 
