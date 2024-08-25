@@ -1,7 +1,7 @@
 [![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://rishavchanda.io)
 <p align="center">
   <a href="">
-    <img src="https://steamuserimages-a.akamaihd.net/ugc/2065504037806940635/AD309D42022094483E8020D20E0E75BC04F19BC7/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true" alt="MasterHead" width="100%" />
+    <img src="https://i.pinimg.com/736x/ea/33/16/ea33169b1101b532468076a00f75e16a.jpg" alt="MasterHead" width="100%" />
   </a>
 </p>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0000FF&height=140&section=header"/>
