@@ -85,18 +85,17 @@ Próximos passos de aprendizagem incluem:
 
 ### Principais linguagens:
 ![Python](https://img.shields.io/badge/-Python-5c1bf5?style=for-the-badge&logo=python&logoColor=ffffff&labelColor=5c1bf5)
-![React JS](https://img.shields.io/badge/-React%20JS-00BFFF?style=for-the-badge&logo=React-JS&logoColor=ffffff&labelColor=6DB33F)&nbsp;
 ![Typerscript](https://img.shields.io/badge/-Typerscript-1E90FF?style=for-the-badge&logo=Typerscript&logoColor=ffffff&labelColor=5c1bf5)
 
-### Tools:
-![IntelliJ](https://img.shields.io/badge/-IntelliJ%20IDEA-5c1bf5?style=for-the-badge&logo=intellij-idea&labelColor=5c1bf5)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white&labelColor=FF6C37)
+### Frameworks e Bibliotecas:
+![React JS](https://img.shields.io/badge/-React%20JS-00BFFF?style=for-the-badge&logo=React-JS&logoColor=ffffff&labelColor=6DB33F)&nbsp;
+![Flask](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=white&labelColor=000000)
 
-
+### Ferramentas:
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-000000?style=for-the-badge&logo=visual-studio-code&logoColor=ffffff&labelColor=000000)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=git&logoColor=ffffff&labelColor=000000)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=github&labelColor=000000)&nbsp;
-
+![IntelliJ](https://img.shields.io/badge/-IntelliJ%20IDEA-5c1bf5?style=for-the-badge&logo=intellij-idea&labelColor=5c1bf5)
 
  ### Other Knowledge:
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=for-the-badge&logo=html5&logoColor=white&labelColor=000000)
