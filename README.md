@@ -77,50 +77,31 @@ Próximos passos de aprendizagem incluem:
 <br>
 
 ## 🚀 Todas as Tecnologias e Ferramentas
-<p align="left">
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="60" height="60"/>
-    </a>
-    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="60" height="60"/>
-    </a>
-    <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-        <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="60" height="60"/>
-    </a>
-    <a href="https://www.javascript.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="60" height="60"/>
-    </a>
-    <a href="https://www.python.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="60" height="60"/>
-    </a>
-    <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/pallets/pallets-icon.svg" alt="Flask" width="60" height="60"/>
-    </a>
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="60" height="60"/>
-    </a>
-    <a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle" width="60" height="60"/>
-    </a>
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="60" height="60"/>
-    </a>
-    <a href="https://github.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="GitHub" width="60" height="60"/>
-    </a>
-    <a href="https://www.microsoft.com/en-us/azure" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Microsoft Azure" width="60" height="60"/>
-    </a>
-    <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="60" height="60"/>
-    </a>
-    <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" alt="IntelliJ" width="60" height="60"/>
-    </a>
-    <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="60" height="60"/>
-    </a>
-</p>
+
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=ffffff&labelColor=6DB33F)&nbsp;
+![Java](https://img.shields.io/badge/-Java-5c1bf5?style=for-the-badge&logo=java&logoColor=ffffff&labelColor=5c1bf5)
+
+### Tools:
+![IntelliJ](https://img.shields.io/badge/-IntelliJ%20IDEA-5c1bf5?style=for-the-badge&logo=intellij-idea&labelColor=5c1bf5)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white&labelColor=FF6C37)
+
+
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-000000?style=for-the-badge&logo=visual-studio-code&logoColor=ffffff&labelColor=000000)&nbsp;
+![Git](https://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=git&logoColor=ffffff&labelColor=000000)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=github&labelColor=000000)&nbsp;
+
+
+ ### Other Knowledge:
+![HTML5](https://img.shields.io/badge/-HTML5-000000?style=for-the-badge&logo=html5&logoColor=white&labelColor=000000)
+![CSS3](https://img.shields.io/badge/-CSS3-000000?style=for-the-badge&logo=css3&logoColor=white&labelColor=000000)
+![Boostrap](https://img.shields.io/badge/-boostrap-000000?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=000000)&nbsp;
+![PHP](https://img.shields.io/badge/-PHP-000000?style=for-the-badge&logo=php&logoColor=white&labelColor=000000)
+![Python](https://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=python&logoColor=white&labelColor=000000)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=white&labelColor=000000)
+
+![MySQL](https://img.shields.io/badge/-MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white&labelColor=000000)
+![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=000000)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=000000)
 
 <h3 align="left">Contato:</h3>
 <p align="left">
