@@ -42,7 +42,7 @@
     <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" height="40"/>
   </a>
   <a href="https://www.framer.com/motion/" target="_blank" rel="noreferrer">
-    <img src="https://www.framer.com/motion/framer-motion-logo.png" alt="Framer Motion" width="40" height="40"/>
+    <img src="https://cdn.worldvectorlogo.com/logos/framer-motion.svg" alt="Framer Motion" width="40" height="40"/>
   </a>
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
