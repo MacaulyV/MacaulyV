@@ -1,4 +1,4 @@
-<img width="100%" src="https://github.com/MacaulyV/MacaulyV/blob/main/Innovating%20Software%20Solutions%20for%20the%20Future.png?raw=true"/>
+<img width="100%" src="https://cdn.midjourney.com/bdb844af-8888-4f76-95b8-97f99d29c4ab/0_0.png" alt="Descrição da Imagem"/>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=150&section=header"/>
 
