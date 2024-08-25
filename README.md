@@ -3,15 +3,17 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FFFF&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+Nome+é+Macauly+;Eu+Sou+Um+Dev+Front+End;Seja+Bem+Vindo!+:%29)](https://git.io/typing-svg)
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🔭 I’m currently working on **Vexa Web App**
+<div align="center">
+ 
+ 🔭 I’m currently working on **a marketplace**
+ 
+ 🌱 I’m currently learning **Docker, Supabase, AWS**
 
-- 🌱 I’m currently learning **DevOps**
+💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/salesp07/salesp07/issues)**
 
-- 💬 Ask me about **Android , MEARN**
+⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
 
-- 📫 How to reach me **rishavchanda0@gmail.com**
-
-- ⚡ Fun fact **I am Funny**
+ </div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
