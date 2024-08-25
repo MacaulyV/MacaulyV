@@ -46,7 +46,9 @@ Sou um Desenvolvedor Full Stack em formação, com boa base de conhecimentos em 
 🎓 **Educação:**
 - **FIAP** - Análise e Desenvolvimento de Sistemas (em andamento)
 - Cursos adicionais em plataformas como:
-  <br>
+
+  <br> <br>
+  
   - **Devmedia**: Algoritimos e Desenvolvimento web
   - **Alura**: Machine Learning com Python
   - **DIO (Digital Innovation One)**: Tecnologias diversas e projetos práticos
