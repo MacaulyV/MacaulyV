@@ -29,9 +29,9 @@
   <p>
 
 #### 👨‍💻 Desenvolvedor Full Stack em Formação:
+Sou um Desenvolvedor Full Stack em formação, com boa base de conhecimentos em desenvolvimento Front-end, Back-end e Ciência de Dados.
 
-Sou um Desenvolvedor Full Stack em formação, com boa base de conhecimentos em desenvolvimento Front-end, Back-end e Ciência de Dados. Minha experiência abrange desde o desenvolvimento de interfaces modernas com **React**, **Next.js** e **TypeScript**, até o desenvolvimento de sistemas back-end, utilizando **Java**, **Python** e **Flask** como framework para design de APIs e ciência de dados utilizando **Python** e bibliotecas como **Matplotlib**, **Seaborn**, **Pandas** e **ScikitLearn**.
-
+Minha experiência abrange desde o desenvolvimento de interfaces modernas com **React**, **Next.js** e **TypeScript**, até o desenvolvimento de sistemas back-end, utilizando **Java**, **Python** e **Flask** como framework para design de APIs. Além disso, possuo habilidades em ciência de dados, utilizando **Python** e bibliotecas como **Matplotlib**, **Seaborn**, **Pandas** e **ScikitLearn**.
 
 📚 **Educação:**
 - **FIAP** - Análise e Desenvolvimento de Sistemas
