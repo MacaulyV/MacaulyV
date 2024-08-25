@@ -5,22 +5,24 @@
 </p>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0000FF&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FFFF&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+Nome+é+Macauly+;Eu+Sou+Um+Dev+Front+End;Seja+Bem+Vindo!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FFFF&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+Nome+é+Macauly+;Eu+Sou+Um+Dev+Front+End;Seja+Bem+Vindo!+:%29)](https://git.io/typing-svg)<br>
+
+
 
 
 <div align="center"><br>
 
-# Sobre Mim
+## Sobre Mim
 
-🔭 Atualmente, estou aprimorando minhas habilidades em **Desenvolvimento Full Stack** e **Ciência de Dados**.<br>
+🔭 Atualmente, estou aprimorando minhas habilidades em **Desenvolvimento Full Stack** e **Ciência de Dados**.
 
-🌱 Estudando **Microsoft Azure** para soluções em nuvem escaláveis e seguras.<br>
+🌱 Estudando **Microsoft Azure** para soluções em nuvem escaláveis e seguras.
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas na **FIAP**.<br>
+🎓 Estudante de Análise e Desenvolvimento de Sistemas na **FIAP**.
 
-👯 Interessado em colaborar em projetos de **Desenvolvimento Web** e **Data Science**.<br>
+👯 Interessado em colaborar em projetos de **Desenvolvimento Web** e **Data Science**.
 
-💡 Explorando soluções de **Inteligência Artificial** focadas em Análise Preditiva para **Engenharia de Dados** em Negócios.<br>
+💡 Explorando soluções de **Inteligência Artificial** focadas em Análise Preditiva para **Engenharia de Dados** em Negócios.
 
 </div>
 
