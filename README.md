@@ -9,8 +9,9 @@
 
 
 <div align="center">
+
  
- ## Sobre Mim
+ ## Sobre Mim < br
 
 🔭 Atualmente, estou aprimorando minhas habilidades em **Desenvolvimento Full Stack** e **Ciência de Dados**.
 
