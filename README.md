@@ -1,7 +1,7 @@
 
 <p align="center">
   <a href="">
-    <img src="https://i.pinimg.com/564x/cc/b0/45/ccb04518ec0f00015b14db0270eefddf.jpg" alt="MasterHead" width="100%" />
+    <img src="https://i.pinimg.com/736x/4a/3e/fb/4a3efbe2d6d3abf07e5560c0daebf04e.jpg" alt="MasterHead" width="100%" />
   </a>
 </p>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0000FF&height=120&section=header"/>
