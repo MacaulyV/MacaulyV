@@ -10,7 +10,7 @@
 
 <div align="center">
  
- ### Sobre Mim
+ ## Sobre Mim
 
 🔭 Atualmente, estou aprimorando minhas habilidades em **Desenvolvimento Full Stack** e **Ciência de Dados**.
 
@@ -19,6 +19,10 @@
  🎓 Estudante de Análise e Desenvolvimento de Sistemas na **FIAP**.
  
  👯 Interessado em colaborar em projetos de **Desenvolvimento Web** e **Data Science**.
+
+ 🚀 Apaixonado por Engenharia de Dados, focado em transformar dados em insights estratégicos.
+
+ 💡 Explorando Inteligência Artificial e Análise Preditiva para otimizar processos de negócios.
 
  </div>
 
