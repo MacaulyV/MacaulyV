@@ -1,7 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5c1bf5&height=120&section=header"/>
 
-<h1 align="center">Hi 👋, I'm Rishav Chanda</h1>
-<h3 align="center">A passionate FullStack Developer from India</h3>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=02c931&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Amanda+Castro;I+am+a+Back+End+Dev;Be+Welcome!+:%29)](https://git.io/typing-svg)
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
