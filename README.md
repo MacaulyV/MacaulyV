@@ -1,5 +1,5 @@
 [![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://rishavchanda.io)
-[![MasterHead](https://i.pinimg.com/736x/28/91/2a/28912a4fdca84d0ee9f3fea95874145d.jpg](https://cdn.midjourney.com/56255e4b-481a-4b9d-9920-cb5d41f9fcdb/0_0.png)](https://rishavchanda.io)
+[![MasterHead](https://i.pinimg.com/564x/f5/46/91/f54691c0954606f85724c4f3c16921b1.jpg)](https://rishavchanda.io)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0000FF&height=140&section=header"/>
 
