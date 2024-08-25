@@ -8,11 +8,10 @@
 <div align="center">
  
  ### Sobre Mim
-- 🔭 Atualmente, estou aprimorando minhas habilidades em **Desenvolvimento Full Stack** e **Ciência de Dados**.
-- 🌱 Estudando **Microsoft Azure** para soluções em nuvem escaláveis e seguras.
-- 🎓 Estudante de Análise e Desenvolvimento de Sistemas na **FIAP**.
-- 👯 Interessado em colaborar em projetos de **Desenvolvimento Web** e **Data Science**.
-- 📫 Como me contatar: [Seu Email](mailto:seuemail@exemplo.com)
+ 🔭 Atualmente, estou aprimorando minhas habilidades em **Desenvolvimento Full Stack** e **Ciência de Dados**.
+ 🌱 Estudando **Microsoft Azure** para soluções em nuvem escaláveis e seguras.
+ 🎓 Estudante de Análise e Desenvolvimento de Sistemas na **FIAP**.
+ 👯 Interessado em colaborar em projetos de **Desenvolvimento Web** e **Data Science**.
 
  </div>
 
