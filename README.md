@@ -12,13 +12,10 @@
  
  ### Sobre Mim
 
- 🚀 Apaixonado por Tecnologia: Sou um entusiasta de Desenvolvimento Full Stack e Ciência de Dados, sempre em busca de novas maneiras de criar soluções inovadoras que tenham um impacto real.
-
-☁️ Explorador da Nuvem: Atualmente, estou me especializando em Microsoft Azure para construir e gerenciar aplicações em nuvem que sejam seguras, escaláveis e eficientes.
-
-🎓 Formação Sólida: Estudante dedicado de Análise e Desenvolvimento de Sistemas na FIAP, com um foco constante em aprender e aplicar as principais tecnologias do mercado.
-
-🤝 Colaborador Proativo: Tenho um forte interesse em colaborar em projetos que envolvam Desenvolvimento Web e Data Science, buscando sempre agregar valor através de minhas habilidades técnicas e criativas.
+- 🔭 Atualmente, estou aprimorando minhas habilidades em **Desenvolvimento Full Stack** e **Ciência de Dados**.
+- 🌱 Estudando **Microsoft Azure** para soluções em nuvem escaláveis e seguras.
+- 🎓 Estudante de Análise e Desenvolvimento de Sistemas na **FIAP**.
+- 👯 Interessado em colaborar em projetos de **Desenvolvimento Web** e **Data Science**.
 
  </div>
 
