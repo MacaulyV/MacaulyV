@@ -1,9 +1,9 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3333FF&height=120&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FFFF&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+Nome+é+Macauly+;Eu+Sou+Um+Dev+Front+End;Seja+Bem+Vindo!+:%29)](https://git.io/typing-svg)
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
+<div align="center">
  
  🔭 I’m currently working on **a marketplace**
  
@@ -13,7 +13,7 @@
 
 ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
 
-
+ </div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
