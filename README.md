@@ -40,7 +40,6 @@ Sou um Desenvolvedor Full Stack em formação, com boa base de conhecimentos em 
 
 ### 🔧 Conhecimentos Adicionais
 
-#### Front-end
 - UX/UI Design com **Figma** para prototipação de alta qualidade
 - Animações avançadas web 3D com **Framer Motion**
 
