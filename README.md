@@ -61,13 +61,15 @@ Sou um Desenvolvedor Full Stack em formação, com boa base de conhecimentos em 
 Atualmente, estou expandindo meus conhecimentos em:
 
 - **Microsoft Azure**: Aprofundando-me em soluções de computação em nuvem para desenvolver aplicações escaláveis e robustas.
-- **Inteligência Artificial**: Explorando conceitos e aplicações práticas em projetos de desenvolvimento.
+- **Desenvolvimento Mobile com Kotlin**: Para desenvolvimento mobile nativo
 
 Próximos passos de aprendizagem incluem:
 
-- **DevOps**: Práticas de integração e entrega contínua (CI/CD)
-- **Blockchain**: Fundamentos e aplicações em sistemas descentralizados
-- **Internet das Coisas (IoT)**: Desenvolvimento de soluções conectadas
+- **Cloud Computing (AWS)**: Aprofundando-me em serviços de nuvem AWS, com foco em arquiteturas de plataformas de dados para integração, ingestão, orquestração e processamento eficiente.
+
+- **Engenharia de Dados**: Explorando tecnologias Big Data como Hadoop, Spark e Airflow para desenvolver pipelines de dados robustos e escaláveis. Também iniciando estudos em SAS para análise avançada de dados.
+  
+- **Spring Framework**: Aprofundando-me neste poderoso framework para Java, visando o desenvolvimento de aplicações empresariais robustas e escaláveis.
 
 🎯 **Objetivos:**
 Tenho 20 anos e estou sempre buscando aprender e aplicar novas tecnologias, com foco em criar soluções inovadoras e eficientes. Nos próximos anos, pretendo me especializar ainda mais em **Desenvolvimento Web** e **Ciência de Dados**, visando atender às demandas do mercado global.
