@@ -1,5 +1,5 @@
 <div align="center">
-<img width="100%" height="1000" src="https://github.com/MacaulyV/MacaulyV/blob/main/_sudna_web_develope_course_cover_elemntor_website_develope_with_4f51f4b4-42ec-488a-a2ac-c471953b00bd.png?raw=true" alt="Descrição da Imagem"/>
+<img width="100%" height="400" src="Design sem nome (1).png" alt="Descrição da Imagem"/>
 
  </div>
 
