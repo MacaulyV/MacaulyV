@@ -103,7 +103,7 @@
 
 <h3 align="left">Conecte-se Comigo:</h3>
 <p align="left">
-  <a href="mailto:Macaulyv@gmail.com" target="blank">
+  <a https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="gmail" height="30" width="40" />
   </a>
   <a href="https://www.linkedin.com/in/macauly-vivaldo-da-silva-1a1514277" target="blank">
