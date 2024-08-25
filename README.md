@@ -30,7 +30,7 @@
     Sou um Desenvolvedor Full Stack em formação, com sólido conhecimento em Front-end, Back-end e Ciência de Dados. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na FIAP. Minha experiência abrange desde o desenvolvimento de interfaces modernas com React e Next.js, até o design de APIs robustas com Python e Flask. Tenho 20 anos e estou sempre buscando aprender e aplicar novas tecnologias, com foco em criar soluções inovadoras e eficientes. Estou atualmente aprimorando meus conhecimentos em Microsoft Azure para oferecer soluções em nuvem escaláveis e seguras. No meu tempo livre, dedico-me ao estudo contínuo de novas ferramentas e ao aperfeiçoamento do meu inglês, visando atender às demandas do mercado global.
   </p>
 </details>
-
+<br><br>
 ## 🚀 Tecnologias e Ferramentas
 
 ### 🌐 Frontend
