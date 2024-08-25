@@ -10,6 +10,7 @@
 <div align="center">
 
 # Sobre Mim
+<br><br>
 
 🔭 Atualmente, estou aprimorando minhas habilidades em **Desenvolvimento Full Stack** e **Ciência de Dados**.
 
@@ -22,7 +23,7 @@
 💡 Explorando soluções de **Inteligência Artificial** focadas em Análise Preditiva para **Engenharia de Dados** em Negócios.
 
 </div>
-<br><br>
+<br>
 
  <details>
   <summary><h2 align="left">Mais sobre mim</h2></summary>
