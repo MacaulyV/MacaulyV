@@ -66,9 +66,7 @@ Atualmente, estou expandindo meus conhecimentos em:
 Próximos passos de aprendizagem incluem:
 
 - **Cloud Computing (AWS)**: Aprofundando-me em serviços de nuvem AWS, com foco em arquiteturas de plataformas de dados para integração, ingestão, orquestração e processamento eficiente.
-
 - **Engenharia de Dados**: Explorando tecnologias Big Data como Hadoop, Spark e Airflow para desenvolver pipelines de dados robustos e escaláveis. Também iniciando estudos em SAS para análise avançada de dados.
-  
 - **Spring Framework**: Aprofundando-me neste poderoso framework para Java, visando o desenvolvimento de aplicações empresariais robustas e escaláveis.
 
 🎯 **Objetivos:**
