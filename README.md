@@ -28,7 +28,7 @@
   <summary><h2 align="left">Mais sobre mim</h2></summary>
   <p>
 
-#### 👨‍💻 Desenvolvedor Full Stack em Formação:
+### 👨‍💻 Desenvolvedor Full Stack em Formação:
 
 Sou um Desenvolvedor Full Stack em formação, com boa base de conhecimentos em desenvolvimento Front-end, Back-end e Ciência de Dados.
 
