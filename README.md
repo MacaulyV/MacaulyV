@@ -19,6 +19,13 @@
 
  </div>
 
+ <details>
+  <summary><h2 align="left">Sobre Mim</h2></summary>
+  <p>
+    Sou um Desenvolvedor Full Stack em formação, com sólido conhecimento em Front-end, Back-end e Ciência de Dados. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na FIAP. Minha experiência abrange desde o desenvolvimento de interfaces modernas com React e Next.js, até o design de APIs robustas com Python e Flask. Tenho 20 anos e estou sempre buscando aprender e aplicar novas tecnologias, com foco em criar soluções inovadoras e eficientes. Estou atualmente aprimorando meus conhecimentos em Microsoft Azure para oferecer soluções em nuvem escaláveis e seguras. No meu tempo livre, dedico-me ao estudo contínuo de novas ferramentas e ao aperfeiçoamento do meu inglês, visando atender às demandas do mercado global.
+  </p>
+</details>
+
 ## 🚀 Tecnologias e Ferramentas
 
 ### 🌐 Frontend
@@ -87,14 +94,6 @@
     <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Microsoft Azure" width="40" height="40"/>
   </a>
 </p>
-
-<details>
-  <summary><h2 align="left">Sobre Mim</h2></summary>
-  <p>
-    Sou um Desenvolvedor Full Stack em formação, com sólido conhecimento em Front-end, Back-end e Ciência de Dados. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na FIAP. Minha experiência abrange desde o desenvolvimento de interfaces modernas com React e Next.js, até o design de APIs robustas com Python e Flask. Tenho 20 anos e estou sempre buscando aprender e aplicar novas tecnologias, com foco em criar soluções inovadoras e eficientes. Estou atualmente aprimorando meus conhecimentos em Microsoft Azure para oferecer soluções em nuvem escaláveis e seguras. No meu tempo livre, dedico-me ao estudo contínuo de novas ferramentas e ao aperfeiçoamento do meu inglês, visando atender às demandas do mercado global.
-  </p>
-</details>
-
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=MacaulyV&show_icons=true&include_all_commits=true&count_private=true&layout=compact&hide_border=true&title_color=00FFFF&text_color=02c931&bg_color=0d1117" /> 
