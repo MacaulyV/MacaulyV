@@ -46,15 +46,15 @@ Sou um Desenvolvedor Full Stack em formação, com boa base de conhecimentos em 
 🎓 **Educação:**
 - **FIAP** - Análise e Desenvolvimento de Sistemas (em andamento)
 - Cursos adicionais em plataformas como:
-  - **Devmedia**: Desenvolvimento web e mobile
-  - **Alura**: Programação e ciência de dados
+  - **Devmedia**: Algoritimos e Desenvolvimento web
+  - **Alura**: Machine Learning com Python
   - **DIO (Digital Innovation One)**: Tecnologias diversas e projetos práticos
 
 💼 **Experiência e Realizações:**
 - Liderança e participação em projetos acadêmicos desafiadores:
   - Desenvolvimento de soluções para empresas como **Salesforce**, **Hapvida** e **NotreDame Intermédica**
   - Utilização de **Trello** para gerenciamento de projetos, garantindo entregas pontuais e de alta qualidade
-- Fortalecimento de habilidades em trabalho em equipe e gestão de projetos
+- Fortalecimento de habilidades em trabalho em equipe e gestão de projetos ultilizando Scrum
 
 🌱 **O que estou aprendendo atualmente:**
 Estou focado em aprimorar meus conhecimentos em **Microsoft Azure** para oferecer soluções em nuvem escaláveis e seguras. Também estou dedicando tempo ao estudo de **Inteligência Artificial** e **Análise Preditiva**, com o objetivo de aplicar essas tecnologias em **Engenharia de Dados**.
