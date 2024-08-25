@@ -32,10 +32,10 @@
 
 [![Sarthak's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=rishavchanda&&theme=xcode)](https://github.com/rishavchanda)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rishavchanda&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="rishavchanda" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Macaulyv&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="rishavchanda" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rishavchanda&show_icons=true&locale=en&theme=tokyonight" alt="rishavchanda" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Macaulyv&show_icons=true&locale=en&theme=tokyonight" alt="rishavchanda" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rishavchanda&&theme=tokyonight" alt="rishavchanda" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Macaulyv&&theme=tokyonight" alt="rishavchanda" /></p>
 
  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5c1bf5&height=120&section=footer"/>
