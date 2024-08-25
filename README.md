@@ -28,7 +28,7 @@
   <summary><h2 align="left">Mais sobre mim</h2></summary>
   <p>
 
-<br>
+
     
 👨‍💻 **Desenvolvedor Full Stack em Formação:**
 Sou um Desenvolvedor Full Stack em formação, com conhecimentos sólidos em **Front-end**, **Back-end** e **Ciência de Dados**. Atualmente, estou cursando **Análise e Desenvolvimento de Sistemas** na FIAP. Minha experiência abrange desde o desenvolvimento de interfaces modernas com **React** e **Next.js**, até o design de **APIs** robustas com **Python** e **Flask**.
