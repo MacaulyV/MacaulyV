@@ -1,5 +1,8 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3333FF&height=120&section=header"/>
 
+![Capa do GitHub]([https://link-da-imagem.com/caminho-da-imagem.jpg](https://github.com/MacaulyV/MacaulyV/blob/main/Innovating%20Software%20Solutions%20for%20the%20Future.png?raw=true))
+
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FFFF&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+Nome+é+Macauly+;Eu+Sou+Um+Dev+Front+End;Seja+Bem+Vindo!+:%29)](https://git.io/typing-svg)
 
 
