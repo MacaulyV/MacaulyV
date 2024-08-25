@@ -1,6 +1,7 @@
-<img width="50%" height="500" src="https://github.com/MacaulyV/MacaulyV/blob/main/_sudna_web_develope_course_cover_elemntor_website_develope_with_4f51f4b4-42ec-488a-a2ac-c471953b00bd.png?raw=true" alt="Descrição da Imagem"/>
+<div align="center">
+<img width="70%" height="500" src="https://github.com/MacaulyV/MacaulyV/blob/main/_sudna_web_develope_course_cover_elemntor_website_develope_with_4f51f4b4-42ec-488a-a2ac-c471953b00bd.png?raw=true" alt="Descrição da Imagem"/>
 
-
+ </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=150&section=header"/>
 
