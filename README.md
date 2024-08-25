@@ -1,5 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3333FF&height=120&section=header"/>
 
+<img width=100% src="https://link-da-imagem.com/caminho-da-imagem.jpg](https://github.com/MacaulyV/MacaulyV/blob/main/Innovating%20Software%20Solutions%20for%20the%20Future.png?raw=true"/>
 ![Capa do GitHub]([https://link-da-imagem.com/caminho-da-imagem.jpg](https://github.com/MacaulyV/MacaulyV/blob/main/Innovating%20Software%20Solutions%20for%20the%20Future.png?raw=true))
 
 
