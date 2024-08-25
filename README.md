@@ -1,3 +1,35 @@
+<p align="center">
+  <a href="">
+    <img src="https://i.pinimg.com/736x/3f/51/f3/3f51f31e9ffe762d0b0a8b0c38f7c1e7.jpg" alt="MasterHead" width="100%" />
+  </a>
+</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0000FF&height=120&section=header"/>
+
+!Typing SVG<br>
+
+<br>
+<div align="center">
+
+# Sobre Mim
+
+🔭 Atualmente, estou aprimorando minhas habilidades em **Desenvolvimento Full Stack** e **Ciência de Dados**.<br>
+
+🌱 Estudando **Microsoft Azure** para soluções em nuvem escaláveis e seguras.<br>
+
+🎓 Estudante de Análise e Desenvolvimento de Sistemas na **FIAP**.<br>
+
+👯 Interessado em colaborar em projetos de **Desenvolvimento Web** e **Data Science**.<br>
+
+💡 Explorando soluções de **Inteligência Artificial** focadas em Análise Preditiva para **Engenharia de Dados** em Negócios.<br>
+
+</div>
+
+<details>
+  <summary><h2 align="left">Mais sobre mim</h2></summary>
+  <p>
+    Sou um Desenvolvedor Full Stack em formação, com sólido conhecimento em Front-end, Back-end e Ciência de Dados. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na FIAP. Minha experiência abrange desde o desenvolvimento de interfaces modernas com React e Next.js, até o design de APIs robustas com Python e Flask. Tenho 20 anos e estou sempre buscando aprender e aplicar novas tecnologias, com foco em criar soluções inovadoras e eficientes. Estou atualmente aprimorando meus conhecimentos em Microsoft Azure para oferecer soluções em nuvem escaláveis e seguras. No meu tempo livre, dedico-me ao estudo contínuo de novas ferramentas e ao aperfeiçoamento do meu inglês, visando atender às demandas do mercado global.
+  </p>
+</details>
 
 <p align="center">
   <a href="">
