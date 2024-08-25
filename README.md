@@ -28,7 +28,7 @@
   <summary><h2 align="left">Mais sobre mim</h2></summary>
   <p>
 
-### 👨‍💻 Desenvolvedor Full Stack em Formação:
+#### 👨‍💻 Desenvolvedor Full Stack em Formação:
 
 Sou um Desenvolvedor Full Stack em formação, com boa base de conhecimentos em desenvolvimento Front-end, Back-end e Ciência de Dados.
 
@@ -37,6 +37,12 @@ Sou um Desenvolvedor Full Stack em formação, com boa base de conhecimentos em 
 🛠️ Back-end: Criação de sistemas utilizando **Java**, **Python** e **Flask** para design de APIs
 
 📊 Ciência de Dados: Análise e visualização com **Python**, utilizando bibliotecas como **Matplotlib**, **Seaborn**, **Pandas** e **Scikit-learn**, além de conhecimentos em bancos de dados **Oracle** e **MySQL**
+
+### 🔧 Conhecimentos Adicionais
+
+#### Front-end
+- UX/UI Design com **Figma** para prototipação de alta qualidade
+- Animações avançadas web 3D com **Framer Motion**
 
 📚 **Educação:**
 - **FIAP** - Análise e Desenvolvimento de Sistemas
