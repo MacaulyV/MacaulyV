@@ -97,7 +97,7 @@ Próximos passos de aprendizagem incluem:
 ![ScikitLearn](https://img.shields.io/badge/-Scikit%20Learn-FF8C00?style=for-the-badge&logo=scikit-learn&logoColor=ffffff&labelColor=FF8C00)&nbsp;
 ![Pandas](https://img.shields.io/badge/-Pandas-191970?style=for-the-badge&logo=pandas&logoColor=white&labelColor=191970)
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-4682B4?style=for-the-badge&logo=python&logoColor=white&labelColor=4682B4)
-![Seaborn](https://img.shields.io/badge/-Seaborn-483D8B?style=for-the-badge&logo=seaborn&logoColor=white&labelColor=483D8B)
+![Seaborn](https://img.shields.io/badge/-Seaborn-483D8B?style=for-the-badge&logo=python&logoColor=white&labelColor=483D8B)
 
 ### Ferramentas:
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-1E90FF?style=for-the-badge&logo=visualstudiocode&logoColor=ffffff&labelColor=1E90FF)
