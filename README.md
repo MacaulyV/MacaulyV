@@ -70,7 +70,7 @@ Sou um Desenvolvedor Full Stack em formação, com boa base de conhecimentos em 
 
 Próximos passos de aprendizagem incluem:
 
-- **Cloud Computing (AWS)**: Aprofundando-me em serviços de nuvem AWS, com foco em arquiteturas de plataformas de dados para integração, ingestão, orquestração e processamento eficiente.
+- **Cloud Computing (AWS)**: Aprofundar-me em serviços de nuvem AWS, com foco em arquiteturas de plataformas de dados para integração, ingestão, orquestração e processamento eficiente.
 
 - **Engenharia de Dados**: Explorar tecnologias Big Data como Hadoop, Spark e Airflow para desenvolver pipelines de dados robustos e escaláveis. Além de SAS para análise avançada de dados.
  
