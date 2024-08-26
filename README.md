@@ -84,7 +84,7 @@ Próximos passos de aprendizagem incluem:
 ## 🚀 Todas as Tecnologias e Ferramentas
 
 ### Principais linguagens:
-![Python](https://img.shields.io/badge/-Python-5c1bf5?style=for-the-badge&logo=python&logoColor=white&labelColor=000000)
+![Python](https://img.shields.io/badge/-Python-5c1bf5?style=for-the-badge&logo=python&logoColor=white&labelColor=5c1bf5)
 ![Typerscript](https://img.shields.io/badge/-Typerscript-1E90FF?style=for-the-badge&logo=Typerscript&logoColor=ffffff&labelColor=5c1bf5)
 ![Javascript](https://img.shields.io/badge/-Javascript-FFD700?style=for-the-badge&logo=Javascript&logoColor=000000&labelColor=FFD700)
 ![Java](https://img.shields.io/badge/-Java-FF4500?style=for-the-badge&logo=java&logoColor=FFFFFF&labelColor=5c1bf5)
