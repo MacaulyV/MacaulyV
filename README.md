@@ -131,6 +131,10 @@ Próximos passos de aprendizagem incluem:
 - 📫 How to reach me **rishavchanda0@gmail.com**
 
 - ⚡ Fun fact **I am Funny**
+  
+- 💬 Ask me about **Android , MEARN**
+
+- 🔭 I’m currently working on **Vexa Web App**
 
 </details>
 
