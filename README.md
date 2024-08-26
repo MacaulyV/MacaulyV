@@ -60,6 +60,7 @@ Sou um Desenvolvedor Full Stack em formação, com boa base de conhecimentos em 
   - Desenvolvimento de soluções para empresas como **Salesforce**, **Hapvida** e **NotreDame Intermédica**
   - Utilização de **Trello** para gerenciamento de projetos, garantindo entregas pontuais e de alta qualidade
 - Fortalecimento de habilidades em trabalho em equipe e gestão de projetos ultilizando Scrum
+- Desenvolvi habilidades na utilização de ferramentas para controle de versão, como Git, trabalhando em equipe.
 
 🌱 **O que estou aprendendo atualmente:**
 Atualmente, estou expandindo meus conhecimentos em:
