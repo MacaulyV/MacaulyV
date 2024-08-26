@@ -96,7 +96,7 @@ Próximos passos de aprendizagem incluem:
 ![Flask](https://img.shields.io/badge/-Flask-FFFFFF?style=for-the-badge&logo=flask&logoColor=black&labelColor=FFFFFF)
 ![ScikitLearn](https://img.shields.io/badge/-Scikit%20Learn-FF8C00?style=for-the-badge&logo=scikit-learn&logoColor=ffffff&labelColor=FF8C00)&nbsp;
 ![Pandas](https://img.shields.io/badge/-Pandas-191970?style=for-the-badge&logo=pandas&logoColor=white&labelColor=191970)
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-4682B4?style=for-the-badge&logo=matplotlib&logoColor=white&labelColor=4682B4)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-4682B4?style=for-the-badge&logo=python&logoColor=white&labelColor=4682B4)
 ![Seaborn](https://img.shields.io/badge/-Seaborn-483D8B?style=for-the-badge&logo=seaborn&logoColor=white&labelColor=483D8B)
 
 ### Ferramentas:
