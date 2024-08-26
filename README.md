@@ -84,7 +84,7 @@ Próximos passos de aprendizagem incluem:
 ## 🚀 Todas as Tecnologias e Ferramentas
 
 ### Principais linguagens:
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-1E90FF?style=for-the-badge&logo=visual-studio-code&logoColor=ffffff)
+![Python](https://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=python&logoColor=ffffff&labelColor=000000)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-1E90FF?style=for-the-badge&logo=typescript&logoColor=ffffff&labelColor=1E90FF)
 ![Javascript](https://img.shields.io/badge/-Javascript-FFD700?style=for-the-badge&logo=Javascript&logoColor=000000&labelColor=FFD700)
 ![Java](https://img.shields.io/badge/-Java-FFFFFF?style=for-the-badge&logo=coffeescript&logoColor=1E90FF&labelColor=FFFFFF)
@@ -100,7 +100,7 @@ Próximos passos de aprendizagem incluem:
 ![Seaborn](https://img.shields.io/badge/-Seaborn-483D8B?style=for-the-badge&logo=python&logoColor=white&labelColor=483D8B)
 
 ### Ferramentas:
-![Eclipse IDE](https://img.shields.io/badge/-Eclipse%20IDE-000080?style=for-the-badge&logo=eclipseide&labelColor=000080)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-1E90FF?style=for-the-badge&logo=visual-studio-code&logoColor=ffffff)
 ![PyCharm](https://img.shields.io/badge/-PyCharm%20IDEA-32CD32?style=for-the-badge&logo=pycharm-idea&labelColor=32CD32)
 ![Git](https://img.shields.io/badge/-Git-FF6347?style=for-the-badge&logo=git&logoColor=ffffff&labelColor=FF6347)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=github&labelColor=000000)&nbsp;
