@@ -14,7 +14,7 @@
 
 <div align="center" >
    
-![Ashutosh's github activity graph](https://ssr-contributions-svg.vercel.app/_/MacaulyV??chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=1&animation_delay=0.05&animation_amplitude=20&animation_frequency=0.5&animation_wave_center=10_0&format=svg&weeks=30&theme=purple) 
+![Ashutosh's github activity graph](https://ssr-contributions-svg.vercel.app/_/MacaulyV??chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=1&animation_delay=0.05&animation_amplitude=20&animation_frequency=0.5&animation_wave_center=10_0&format=svg&weeks=30&theme=dark) 
 
 </div>
 
@@ -155,7 +155,7 @@ Próximos passos de aprendizagem incluem:
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
- <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Macaulyv/salesp07/output/github-contribution-grid-snake.svg" />
+ <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
   <br/><br/><br/>  
 </div>
 
