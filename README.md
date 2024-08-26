@@ -91,8 +91,7 @@ Próximos passos de aprendizagem incluem:
 ![SQL](https://img.shields.io/badge/-SQL-FFFFFF?style=for-the-badge&logo=java&logoColor=1E90FF&labelColor=1E90FF)
 
 ### Frameworks e Bibliotecas:
-![React](https://img.shields.io/badge/-React-4682B4?style=for-the-badge&logo=react&logoColor=white&labelColor=6DB33F)
-![React JS](https://img.shields.io/badge/-React%20JS-00BFFF?style=for-the-badge&logo=React-JS&logoColor=ffffff&labelColor=6DB33F)&nbsp;
+![React](https://img.shields.io/badge/-React-00BFFF?style=for-the-badge&logo=react&logoColor=white&labelColor=00BFFF)
 ![Next js](https://img.shields.io/badge/-Next%20js-000000?style=for-the-badge&logo=Next-js&logoColor=ffffff&labelColor=6DB33F)&nbsp;
 ![Flask](https://img.shields.io/badge/-Flask-FFFFFF?style=for-the-badge&logo=flask&logoColor=black&labelColor=FFFFFF)
 ![ScikitLearn](https://img.shields.io/badge/-Scikit%20Learn-FF8C00?style=for-the-badge&logo=scikit-learn&logoColor=ffffff&labelColor=FF8C00)&nbsp;
