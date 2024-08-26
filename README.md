@@ -88,6 +88,7 @@ Próximos passos de aprendizagem incluem:
 ![Typerscript](https://img.shields.io/badge/-Typerscript-1E90FF?style=for-the-badge&logo=Typerscript&logoColor=ffffff&labelColor=5c1bf5)
 ![Javascript](https://img.shields.io/badge/-Javascript-FFD700?style=for-the-badge&logo=Javascript&logoColor=000000&labelColor=FFD700)
 ![Java](https://img.shields.io/badge/-Java-FF4500?style=for-the-badge&logo=java&logoColor=FFFFFF&labelColor=5c1bf5)
+![SQL](https://img.shields.io/badge/-SQL-FFFFFF?style=for-the-badge&logo=java&logoColor=FFFFFF&labelColor=5c1bf5)
 
 ### Frameworks e Bibliotecas:
 ![React JS](https://img.shields.io/badge/-React%20JS-00BFFF?style=for-the-badge&logo=React-JS&logoColor=ffffff&labelColor=6DB33F)&nbsp;
@@ -100,7 +101,7 @@ Próximos passos de aprendizagem incluem:
 
 ### Ferramentas:
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-1E90FF?style=for-the-badge&logo=visual-studio-code&logoColor=ffffff&labelColor=1E90FF)&nbsp;
-![PyCharm](https://img.shields.io/badge/-PyCharm%20IDEA-000000?style=for-the-badge&logo=pycharm-idea&labelColor=000000)
+![PyCharm](https://img.shields.io/badge/-PyCharm%20IDEA-00FA9A?style=for-the-badge&logo=pycharm-idea&labelColor=00FA9A)
 ![Git](https://img.shields.io/badge/-Git-FF6347?style=for-the-badge&logo=git&logoColor=ffffff&labelColor=FF6347)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=github&labelColor=000000)&nbsp;
 ![IntelliJ](https://img.shields.io/badge/-IntelliJ%20IDEA-5c1bf5?style=for-the-badge&logo=intellij-idea&labelColor=5c1bf5)
