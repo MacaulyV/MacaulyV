@@ -52,8 +52,8 @@ Sou um Desenvolvedor Full Stack em formação, com boa base de conhecimentos em 
 - **FIAP** - Análise e Desenvolvimento de Sistemas (em andamento)
 - Cursos adicionais em plataformas como:
 
-  - **Devmedia**: Algoritmos e Desenvolvimento Web, Focado em fundamentos de algoritmos e desenvolvimento de aplicações web, cobrindo desde HTML/CSS /JavaScript e frameworks modernos como React e Next.js.
-  - **Alura**: Python para Machine Learning e Ciência de Dados: Abrange técnicas de machine learning, processamento de dados, com bibliotecas como Pandas, Matplotlib, Seaborn e Scikit-learn para a construção de modelos preditivos.
+  - **Devmedia**: Algoritmos e Desenvolvimento Web, Focado desenvolvimento de aplicações web, cobrindo desde HTML/CSS /JavaScript e frameworks modernos como React e Next.js.
+  - **Alura**: Python para Machine Learning e Ciência de Dados: Abrange técnicas de machine learning, processamento de dados.
 
 💼 **Experiência e Realizações:**
 - Liderança e participação em projetos acadêmicos desafiadores:
