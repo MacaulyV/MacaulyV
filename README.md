@@ -58,12 +58,11 @@ Sou um Desenvolvedor Full Stack em formação, com boa base de conhecimentos em 
 💼 **Experiência e Realizações:**
 - Liderança e participação em projetos acadêmicos desafiadores:
   - Desenvolvimento de soluções para empresas como **Salesforce**, **Hapvida** e **NotreDame Intermédica**
-  - Utilização de **Trello** para gerenciamento de projetos, garantindo entregas pontuais e de qualidade.
-- Fortalecimento de habilidades em trabalho em equipe e gestão de projetos ultilizando Scrum
+  - Utilização do **Trello** para gerenciamento de projetos, garantindo entregas pontuais e de qualidade.
+- Fortalecendo assim as habilidades em trabalho em equipe e gestão de projetos ultilizando Scrum
 - Desenvolvi habilidades na utilização de ferramentas para controle de versão, como Git, trabalhando em equipe.
 
 🌱 **O que estou aprendendo atualmente:**
-Atualmente, estou expandindo meus conhecimentos em:
 
 - **Microsoft Azure**: Aprofundando-me em soluções de computação em nuvem para desenvolver aplicações escaláveis e robustas.
 - **Desenvolvimento Mobile com Kotlin**: Para desenvolvimento mobile nativo
@@ -75,7 +74,7 @@ Próximos passos de aprendizagem incluem:
 
 - **Engenharia de Dados**: Explorar tecnologias Big Data como Hadoop, Spark e Airflow para desenvolver pipelines de dados robustos e escaláveis. Além de SAS para análise avançada de dados.
  
-- **Spring Framework**: Aprofundando-me neste poderoso framework para Java, visando o desenvolvimento de aplicações empresariais robustas e escaláveis.
+- **Spring Framework**: Aprofundar-me neste poderoso framework para Java, visando o desenvolvimento de aplicações empresariais robustas e escaláveis.
   </p>
 </details>
 
