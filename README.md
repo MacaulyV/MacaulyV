@@ -109,7 +109,7 @@ Próximos passos de aprendizagem incluem:
 
  ### Outros Conhecimentos:
 ![ORACLE](https://img.shields.io/badge/-ORACLE-FF0000?style=for-the-badge&logo=ORACLE&logoColor=white&labelColor=FF0000)
-![MySQL](https://img.shields.io/badge/-MySQL-FFFFFF?style=for-the-badge&logo=mysql&logoColor=white&labelColor=FFFFFF)
+![MySQL](https://img.shields.io/badge/-MySQL-FFFFFF?style=for-the-badge&logo=mysql&logoColor=black&labelColor=FFFFFF)
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=for-the-badge&logo=html5&logoColor=white&labelColor=000000)
 ![CSS3](https://img.shields.io/badge/-CSS3-000000?style=for-the-badge&logo=css3&logoColor=white&labelColor=000000)
 
