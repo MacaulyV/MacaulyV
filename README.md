@@ -25,7 +25,7 @@
 
 👯 Interessado em colaborar em projetos de **Desenvolvimento Web** e **Data Science**.
 
-💡 Explorando soluções de **Inteligência Artificial** focadas em Análise Preditiva para **Engenharia de Dados** em Negócios.
+💡 Explorando soluções de **Inteligência Artificial com Python** Focando em Análise Preditiva para **Engenharia de Dados** em Negócios.
 
 </div>
 
