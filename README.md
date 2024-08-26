@@ -117,6 +117,9 @@ Próximos passos de aprendizagem incluem:
 
 <details>
   <summary><h2 align="left">Meus Projetos</h2></summary>
+  <div align="center">
+    <h3>dadadadadaddddddddddd</h3>
+  </div>
   <p> 
     
   </p>
