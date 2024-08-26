@@ -87,7 +87,7 @@ Próximos passos de aprendizagem incluem:
 ![Python](https://img.shields.io/badge/-Python-4682B4?style=for-the-badge&logo=python&logoColor=white&labelColor=4682B4)
 ![Typerscript](https://img.shields.io/badge/-Typerscript-1E90FF?style=for-the-badge&logo=Typerscript&logoColor=ffffff&labelColor=5c1bf5)
 ![Javascript](https://img.shields.io/badge/-Javascript-FFD700?style=for-the-badge&logo=Javascript&logoColor=000000&labelColor=FFD700)
-![Java](https://img.shields.io/badge/-Java-4682B4?style=for-the-badge&logo=java&logoColor=white&labelColor=4682B4)
+![JAVA](https://img.shields.io/badge/-JAVA-4682B4?style=for-the-badge&logo=java&logoColor=white&labelColor=4682B4)
 ![Java](https://img.shields.io/badge/-Java-FF4500?style=for-the-badge&logo=java&logoColor=FFFFFF&labelColor=5c1bf5)
 ![SQL](https://img.shields.io/badge/-SQL-FFFFFF?style=for-the-badge&logo=java&logoColor=1E90FF&labelColor=1E90FF)
 
