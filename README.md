@@ -116,7 +116,7 @@ Próximos passos de aprendizagem incluem:
 ![CSS3](https://img.shields.io/badge/-CSS3-00BFFF?style=for-the-badge&logo=css3&logoColor=white&labelColor=00BFFF)
 
 <details>
-  <summary><h3 align="left">Meus Projetos</h2></summary>
+  <summary><h2 align="left">Meus Projetos</h2></summary>
   <p> 
     
   </p>
