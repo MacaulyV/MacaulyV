@@ -39,7 +39,7 @@ Sou um Desenvolvedor Full Stack em formação, com boa base de conhecimentos em 
 
 🚀 Front-end: Desenvolvimento de interfaces modernas com **React**, **Next.js** e **TypeScript**
 
-🛠️ Back-end: Criação de sistemas utilizando **Java**, **Python** e **Flask** para design de APIs
+🛠️ Back-end: Criação de sistemas utilizando **Java**, **Python** e **Flask** para design de APIs para o Front-end 
 
 📊 Ciência de Dados: Análise e visualização com **Python**, utilizando bibliotecas como **Matplotlib**, **Seaborn**, **Pandas** e **Scikit-learn**, além de conhecimentos em bancos de dados **Oracle** e **MySQL**
 
@@ -53,12 +53,12 @@ Sou um Desenvolvedor Full Stack em formação, com boa base de conhecimentos em 
 - Cursos adicionais em plataformas como:
 
   - **Devmedia**: Algoritmos e Desenvolvimento Web, Focado no desenvolvimento de aplicações web, cobrindo desde HTML/CSS /JavaScript e frameworks modernos como React e Next.js.
-  - **Alura**: Python para Machine Learning e Ciência de Dados: Abrange técnicas de machine learning e processamento de dados.
+  - **Alura**: Python para Machine Learning e Ciência de Dados: Abrange técnicas de machine learning para processamento de dados.
 
 💼 **Experiência e Realizações:**
 - Liderança e participação em projetos acadêmicos desafiadores:
   - Desenvolvimento de soluções para empresas como **Salesforce**, **Hapvida** e **NotreDame Intermédica**
-  - Utilização de **Trello** para gerenciamento de projetos, garantindo entregas pontuais e de alta qualidade
+  - Utilização de **Trello** para gerenciamento de projetos, garantindo entregas pontuais e de qualidade.
 - Fortalecimento de habilidades em trabalho em equipe e gestão de projetos ultilizando Scrum
 - Desenvolvi habilidades na utilização de ferramentas para controle de versão, como Git, trabalhando em equipe.
 
