@@ -8,8 +8,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FFFF&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+Nome+é+Macauly+;Eu+Sou+Um+Dev+Front+End;Seja+Bem+Vindo!+:%29)](https://git.io/typing-svg)<br>
 
 <div align="center">  
-   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=MacaulyV&show_icons=true&include_all_commits=true&count_private=true&layout=compact&hide_border=true&title_color=#A020F0&text_color=02c931&bg_color=0d1117" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MacaulyV&layout=compact&hide_border=true&title_color=#A020F0&text_color=02c931&bg_color=0d1117" />
+   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=MacaulyV&show_icons=true&include_all_commits=true&count_private=true&layout=compact&hide_border=true&title_color=A020F0&text_color=02c931&bg_color=0d1117" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MacaulyV&layout=compact&hide_border=true&title_color=A020F0&text_color=02c931&bg_color=0d1117" />
 </div>
 
 <div align="center">
