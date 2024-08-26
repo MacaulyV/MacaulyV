@@ -88,7 +88,7 @@ Próximos passos de aprendizagem incluem:
 ![Typerscript](https://img.shields.io/badge/-Typerscript-1E90FF?style=for-the-badge&logo=Typerscript&logoColor=ffffff&labelColor=5c1bf5)
 ![Javascript](https://img.shields.io/badge/-Javascript-FFD700?style=for-the-badge&logo=Javascript&logoColor=000000&labelColor=FFD700)
 ![Java](https://img.shields.io/badge/-Java-FF4500?style=for-the-badge&logo=java&logoColor=FFFFFF&labelColor=5c1bf5)
-![SQL](https://img.shields.io/badge/-SQL-FFFFFF?style=for-the-badge&logo=java&logoColor=FFFFFF&labelColor=5c1bf5)
+![SQL](https://img.shields.io/badge/-SQL-FFFFFF?style=for-the-badge&logo=java&logoColor=FFFFFF&labelColor=1E90FF)
 
 ### Frameworks e Bibliotecas:
 ![React JS](https://img.shields.io/badge/-React%20JS-00BFFF?style=for-the-badge&logo=React-JS&logoColor=ffffff&labelColor=6DB33F)&nbsp;
