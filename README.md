@@ -4,7 +4,7 @@
   </a>
 </p>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0000FF&height=120&section=header"/>
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=50&duration=4000&pause=1000&color=F73D9F&center=true&vCenter=true&random=false&width=1000&lines=Hello%2C+my+name+is+Caroline;I'm+27+years+old;I'm+a+Software+Developer;I'm+from+Brazil;welcome%3A)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FFFF&size=40&center=true&vCenter=true&width=1000&lines=Olá,+Meu+Nome+é+Macauly+;Eu+Sou+um+Dev+Front+End;Seja+Bem+Vindo!+:%29)](https://git.io/typing-svg)<br>
 
 <div align="center">  
@@ -155,12 +155,9 @@ Próximos passos de aprendizagem incluem:
 
 <div align="center">
 <br>
-
-<p align="centre"><b>Visitors Count</b></p> 
-  
-<p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FMacaulyV&s=50&c=db006a&bg=00000000&no=7&ff=digi&tb=Visits%3A++&ta=" /></p> 
+<p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FMacaulyV&s=50&c=db006a&bg=00000&no=7&ff=digi&tb=Visits%3A++&ta=" /></p> 
 <br>
 </div>
-
+5c1bf5
 
  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0000FF&height=120&section=footer"/>
