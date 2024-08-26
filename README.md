@@ -155,7 +155,7 @@ Próximos passos de aprendizagem incluem:
 
 <div align="center">db006
 <br>
-<p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FMacaulyV&s=50&c=00BFFF&bg=00000000&no=5&ff=sans-serif&tb=Visits%3A++&ta=" /></p> 
+<p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FMacaulyV&s=40&c=00FFFF&bg=00000000&no=5&ff=sans-serif&tb=Visits%3A++&ta=" /></p> 
 <br>
 </div>
 
