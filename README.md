@@ -100,7 +100,7 @@ Próximos passos de aprendizagem incluem:
 ![Seaborn](https://img.shields.io/badge/-Seaborn-483D8B?style=for-the-badge&logo=python&logoColor=white&labelColor=483D8B)
 
 ### Ferramentas:
-![Visual Studio Code](https://img.shields.io/static/v1?label=Visual%20Studio%20Code&message=Visual%20Studio%20Code&color=1E90FF&logo=visualstudiocode&logoColor=ffffff)
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-1E90FF?style=for-the-badge&logo=visualstudiocode&logoColor=ffffff&labelColor=1E90FF)
 ![PyCharm](https://img.shields.io/badge/-PyCharm%20IDEA-32CD32?style=for-the-badge&logo=pycharm-idea&labelColor=32CD32)
 ![Git](https://img.shields.io/badge/-Git-FF6347?style=for-the-badge&logo=git&logoColor=ffffff&labelColor=FF6347)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=github&labelColor=000000)&nbsp;
