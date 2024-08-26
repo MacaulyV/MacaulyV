@@ -110,7 +110,7 @@ Próximos passos de aprendizagem incluem:
  ### Outros Conhecimentos:
 ![ORACLE](https://img.shields.io/badge/-ORACLE-FF0000?style=for-the-badge&logo=ORACLE&logoColor=white&labelColor=FF0000)
 ![MySQL](https://img.shields.io/badge/-MySQL-4682B4?style=for-the-badge&logo=mysql&logoColor=white&labelColor=4682B4)
-![Figma](https://img.shields.io/badge/-Figma-FFFFFF?style=for-the-badge&logo=figma&logoColor=7B68EE&labelColor=FFFFFF)
+![Figma](https://img.shields.io/badge/-Figma-FFFFFF?style=for-the-badge&logo=figma&logoColor=0000FF&labelColor=FFFFFF)
 ![Framer](https://img.shields.io/badge/-Framer-000000?style=for-the-badge&logo=framer&logoColor=00BFFF&labelColor=000000)
 ![HTML5](https://img.shields.io/badge/-HTML5-FF6347?style=for-the-badge&logo=html5&logoColor=white&labelColor=FF6347)
 ![CSS3](https://img.shields.io/badge/-CSS3-00BFFF?style=for-the-badge&logo=css3&logoColor=white&labelColor=00BFFF)
