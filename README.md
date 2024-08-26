@@ -84,7 +84,7 @@ Próximos passos de aprendizagem incluem:
 ## 🚀 Todas as Tecnologias e Ferramentas
 
 ### Principais linguagens:
-![Python](https://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=python&logoColor=white&labelColor=000000)
+![Python](https://img.shields.io/badge/-Python-4682B4?style=for-the-badge&logo=python&logoColor=white&labelColor=4682B4)
 ![Typerscript](https://img.shields.io/badge/-Typerscript-1E90FF?style=for-the-badge&logo=Typerscript&logoColor=ffffff&labelColor=5c1bf5)
 ![Javascript](https://img.shields.io/badge/-Javascript-FFD700?style=for-the-badge&logo=Javascript&logoColor=000000&labelColor=FFD700)
 ![Java](https://img.shields.io/badge/-Java-FF4500?style=for-the-badge&logo=java&logoColor=FFFFFF&labelColor=5c1bf5)
@@ -107,7 +107,8 @@ Próximos passos de aprendizagem incluem:
 ![IntelliJ](https://img.shields.io/badge/-IntelliJ%20IDEA-5c1bf5?style=for-the-badge&logo=intellij-idea&labelColor=5c1bf5)
 ![Eclipse](https://img.shields.io/badge/-Eclipse%20IDEA-000080?style=for-the-badge&logo=eclipse-idea&labelColor=000080)
 
- ### Other Knowledge:
+ ### Outros Conhecimentos:
+![ORACLE](https://img.shields.io/badge/-ORACLE-FF0000?style=for-the-badge&logo=ORACLE&logoColor=white&labelColor=FF0000)
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=for-the-badge&logo=html5&logoColor=white&labelColor=000000)
 ![CSS3](https://img.shields.io/badge/-CSS3-000000?style=for-the-badge&logo=css3&logoColor=white&labelColor=000000)
 ![Boostrap](https://img.shields.io/badge/-boostrap-000000?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=000000)&nbsp;
