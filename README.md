@@ -85,9 +85,9 @@ Próximos passos de aprendizagem incluem:
 
 ### Principais linguagens:
 ![Python](https://img.shields.io/badge/-Python-4682B4?style=for-the-badge&logo=python&logoColor=white&labelColor=4682B4)
-![TypeScript](https://img.shields.io/badge/-TypeScript-FFFFFF?style=for-the-badge&logo=typescript&logoColor=1E90FF&labelColor=5c1bf5)
+![TypeScript](https://img.shields.io/badge/-TypeScript-1E90FF?style=for-the-badge&logo=typescript&logoColor=ffffff&labelColor=5c1bf5)
 ![Javascript](https://img.shields.io/badge/-Javascript-FFD700?style=for-the-badge&logo=Javascript&logoColor=000000&labelColor=FFD700)
-![Java](https://img.shields.io/badge/-Java-FFFFFF?style=for-the-badge&logo=coffeescript&logoColor=1E90FF&labelColor=FF0000)
+![Java](https://img.shields.io/badge/-Java-FFFFFF?style=for-the-badge&logo=coffeescript&logoColor=1E90FF&labelColor=FFFFFF)
 ![SQL](https://img.shields.io/badge/-SQL-FFFFFF?style=for-the-badge&logo=java&logoColor=1E90FF&labelColor=1E90FF)
 
 ### Frameworks e Bibliotecas:
