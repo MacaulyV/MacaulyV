@@ -111,7 +111,7 @@ Próximos passos de aprendizagem incluem:
 ![ORACLE](https://img.shields.io/badge/-ORACLE-FF0000?style=for-the-badge&logo=ORACLE&logoColor=white&labelColor=FF0000)
 ![MySQL](https://img.shields.io/badge/-MySQL-4682B4?style=for-the-badge&logo=mysql&logoColor=white&labelColor=4682B4)
 ![Figma](https://img.shields.io/badge/-Figma-000000?style=for-the-badge&logo=figma&logoColor=white&labelColor=000000)
-![Framer Motion](https://img.shields.io/badge/-Framer-Motion-000000?style=for-the-badge&logo=framer-motion&logoColor=white&labelColor=000000)
+![Framer](https://img.shields.io/badge/-Framer-000000?style=for-the-badge&logo=framer&logoColor=white&labelColor=000000)
 ![HTML5](https://img.shields.io/badge/-HTML5-FF6347?style=for-the-badge&logo=html5&logoColor=white&labelColor=FF6347)
 ![CSS3](https://img.shields.io/badge/-CSS3-00BFFF?style=for-the-badge&logo=css3&logoColor=white&labelColor=00BFFF)
 
