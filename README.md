@@ -92,20 +92,20 @@ Próximos passos de aprendizagem incluem:
 
 ### Frameworks e Bibliotecas:
 ![React](https://img.shields.io/badge/-React-00BFFF?style=for-the-badge&logo=react&logoColor=white&labelColor=00BFFF)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=ffffff&labelColor=6DB33F)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=ffffff&labelColor=000000)
 ![Flask](https://img.shields.io/badge/-Flask-FFFFFF?style=for-the-badge&logo=flask&logoColor=black&labelColor=FFFFFF)
 ![ScikitLearn](https://img.shields.io/badge/-Scikit%20Learn-FF8C00?style=for-the-badge&logo=scikit-learn&logoColor=ffffff&labelColor=FF8C00)&nbsp;
 ![Pandas](https://img.shields.io/badge/-Pandas-191970?style=for-the-badge&logo=pandas&logoColor=white&labelColor=191970)
-![Matplot](https://img.shields.io/badge/-Matplot-4682B4?style=for-the-badge&logo=matplot&logoColor=white&labelColor=4682B4)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-4682B4?style=for-the-badge&logo=matplotlib&logoColor=white&labelColor=4682B4)
 ![Seaborn](https://img.shields.io/badge/-Seaborn-483D8B?style=for-the-badge&logo=seaborn&logoColor=white&labelColor=483D8B)
 
 ### Ferramentas:
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-1E90FF?style=for-the-badge&logo=visual-studio-code&logoColor=ffffff&labelColor=1E90FF)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-1E90FF?style=for-the-badge&logo=visualstudiocode&logoColor=ffffff&labelColor=1E90FF)
 ![PyCharm](https://img.shields.io/badge/-PyCharm%20IDEA-32CD32?style=for-the-badge&logo=pycharm-idea&labelColor=32CD32)
 ![Git](https://img.shields.io/badge/-Git-FF6347?style=for-the-badge&logo=git&logoColor=ffffff&labelColor=FF6347)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=github&labelColor=000000)&nbsp;
 ![IntelliJ](https://img.shields.io/badge/-IntelliJ%20IDEA-5c1bf5?style=for-the-badge&logo=intellij-idea&labelColor=5c1bf5)
-![Eclipse](https://img.shields.io/badge/-Eclipse%20IDEA-000080?style=for-the-badge&logo=eclipse-idea&labelColor=000080)
+![Eclipse IDE](https://img.shields.io/badge/-Eclipse%20IDE-000080?style=for-the-badge&logo=eclipseide&labelColor=000080)
 
  ### Outros Conhecimentos:
 ![ORACLE](https://img.shields.io/badge/-ORACLE-FF0000?style=for-the-badge&logo=ORACLE&logoColor=white&labelColor=FF0000)
