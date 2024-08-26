@@ -115,6 +115,13 @@ Próximos passos de aprendizagem incluem:
 ![HTML5](https://img.shields.io/badge/-HTML5-FF6347?style=for-the-badge&logo=html5&logoColor=white&labelColor=FF6347)
 ![CSS3](https://img.shields.io/badge/-CSS3-00BFFF?style=for-the-badge&logo=css3&logoColor=white&labelColor=00BFFF)
 
+<details>
+  <summary><h2 align="left">Meus Projetos</h2></summary>
+  <p> 
+    
+  </p>
+</details>
+
 <h3 align="left">Contato:</h3>
 <p align="left">
   <a href="mailto:macaulyv@gmail.com">
