@@ -12,6 +12,8 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MacaulyV&layout=compact&hide_border=true&title_color=5c1bf5&text_color=02c931&bg_color=0d1117" />
 </div>
 
+![Ashutosh's github activity graph](https://ssr-contributions-svg.vercel.app/_/MacaulyV?chart=3dbar&gap=0.6&scale=2&gradient=true&flatten=2&animation=wave&animation_duration=1&animation_delay=0.05&animation_amplitude=20&animation_frequency=0.5&animation_wave_center=10_0&weeks=30&theme=green&dark=true) 
+
 <div align="center">
 
 # Sobre Mim
