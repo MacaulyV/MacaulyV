@@ -85,7 +85,7 @@ Próximos passos de aprendizagem incluem:
 
 ### Principais linguagens:
 ![Python](https://img.shields.io/badge/-Python-4682B4?style=for-the-badge&logo=python&logoColor=white&labelColor=4682B4)
-![Typerscript](https://img.shields.io/badge/-Typerscript-4682B4?style=for-the-badge&logo=typerscript&logoColor=white&labelColor=4682B4)
+![typerscript](https://img.shields.io/badge/-typerscript-4682B4?style=for-the-badge&logo=typerscript&logoColor=white&labelColor=4682B4)
 ![Typerscript](https://img.shields.io/badge/-Typerscript-1E90FF?style=for-the-badge&logo=Typerscript&logoColor=ffffff&labelColor=5c1bf5)
 ![Javascript](https://img.shields.io/badge/-Javascript-FFD700?style=for-the-badge&logo=Javascript&logoColor=000000&labelColor=FFD700)
 ![Java](https://img.shields.io/badge/-Java-FF4500?style=for-the-badge&logo=java&logoColor=FFFFFF&labelColor=5c1bf5)
