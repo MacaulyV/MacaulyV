@@ -105,6 +105,7 @@ Próximos passos de aprendizagem incluem:
 ![PyCharm](https://img.shields.io/badge/-PyCharm-32CD32?style=for-the-badge&logo=pycharm&logoColor=ffffff)
 ![Git](https://img.shields.io/badge/-Git-FF6347?style=for-the-badge&logo=git&logoColor=ffffff&labelColor=FF6347)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=github&labelColor=000000)&nbsp;
+![IntelliJ](https://img.shields.io/badge/-IntelliJ%20IDEA-1C1C1C?style=for-the-badge&logo=intellij-idea&labelColor=1C1C1C)
 ![IntelliJ](https://img.shields.io/badge/-IntelliJ%20IDEA-5c1bf5?style=for-the-badge&logo=intellij-idea&labelColor=5c1bf5)
 ![Eclipse IDE](https://img.shields.io/badge/-Eclipse%20IDE-000080?style=for-the-badge&logo=eclipseide&labelColor=000080)
 
