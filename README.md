@@ -53,7 +53,7 @@ Sou um Desenvolvedor Full Stack em formação, com boa base de conhecimentos em 
 - Cursos adicionais em plataformas como:
 
   - **Devmedia**: Algoritimos e Desenvolvimento web
-  - **Alura**: Machine Learning com Python
+  - **Alura**: Python para Machine Learning e Ciencia de Dados
   - **DIO (Digital Innovation One)**: Tecnologias diversas e projetos práticos
 
 💼 **Experiência e Realizações:**
