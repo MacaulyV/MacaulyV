@@ -125,10 +125,8 @@ Próximos passos de aprendizagem incluem:
 <details>
   <summary><h2 align="left">Meus Projetos</h2></summary>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-<img align="right" alt="Coding" width="400" src="https://github.com/user-attachments/assets/e26704a8-7276-433a-a289-a18740bfe591">
-### Portal Salesforce
   
-![Coding GIF](https://github.com/user-attachments/assets/e26704a8-7276-433a-a289-a18740bfe591)
+### Portal Salesforce
   
 - 🔭 I’m currently working on **Vexa Web App**
 
