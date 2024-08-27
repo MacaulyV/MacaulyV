@@ -30,6 +30,15 @@
 
 💡 Explorando soluções de **IA com Python** para previsão em **Engenharia de Dados em Negocios**
 
+<p align="left">
+  <a href="mailto:macaulyv@gmail.com">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="gmail" height="27" width="40" />
+  </a>
+  <a href="https://www.linkedin.com/in/macauly-vivaldo-da-silva-1a1514277" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+</p>
+
 </div>
 
  <details>
@@ -144,16 +153,6 @@ Próximos passos de aprendizagem incluem:
 - 🔭 I’m currently working on **Vexa Web App**
 
 </details>
-
-<h3 align="left">Contato:</h3>
-<p align="left">
-  <a href="mailto:macaulyv@gmail.com">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="gmail" height="27" width="40" />
-  </a>
-  <a href="https://www.linkedin.com/in/macauly-vivaldo-da-silva-1a1514277" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-</p>
 
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
