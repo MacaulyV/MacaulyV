@@ -125,7 +125,7 @@ Próximos passos de aprendizagem incluem:
 <details>
   <summary><h2 align="left">Meus Projetos</h2></summary>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
+<a href="https://icons8.com/illustrations/author/dOteQ3Am7AfN">Dimotion</a> 
 ### Portal Salesforce
 
 - 🔭 I’m currently working on **Vexa Web App**
