@@ -2,8 +2,8 @@
   <a href="">
   </a>
 </p>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0000FF&height=120&section=header"/>
 <img src="https://github.com/user-attachments/assets/71096a8b-15b1-44fe-8811-3ebc99840353" alt="MasterHead" width="100%" />
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0000FF&height=120&section=header"/>
 <br>
 <br>
 
