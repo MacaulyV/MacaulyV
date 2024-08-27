@@ -147,7 +147,7 @@ Próximos passos de aprendizagem incluem:
 <div> 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
   
-### Portal Salesforce
+ <h3>Portal Salesforce</h3>
   
 - 🔭 I’m currently working on **Vexa Web App**
 
@@ -164,10 +164,9 @@ Próximos passos de aprendizagem incluem:
 - 🔭 I’m currently working on **Vexa Web App**
 
  <img align="left" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-</div> 
-<br><br>
+</div><br><br> 
   
-### Dashboard Climatica
+<h3>Dashboard Climatica</h3>
 
 <div align="center"> 
   
