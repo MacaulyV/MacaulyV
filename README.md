@@ -118,7 +118,7 @@ Próximos passos de aprendizagem incluem:
 ![CSS3](https://img.shields.io/badge/-CSS3-00BFFF?style=for-the-badge&logo=css3&logoColor=white&labelColor=00BFFF)
 
 <div align="center">
-<img width=50% height=100% src="https://raw.githubusercontent.com/MacaulyV/MacaulyV/838414b73554f4844018172f5dd15fde709dde97/Animation.svg"/>
+<img width=80% height=100% src="https://raw.githubusercontent.com/MacaulyV/MacaulyV/838414b73554f4844018172f5dd15fde709dde97/Animation.svg"/>
 </div>
 
 <details>
