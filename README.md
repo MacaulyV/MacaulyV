@@ -1,6 +1,6 @@
 <img src="https://github.com/user-attachments/assets/a6d97cc7-c99c-48d7-8094-32a37da7c13e" alt="MasterHead" width="100%" />
 <br><br>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=A020F0&height=120&section=header"/>
 <br>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FFFF&size=40&center=true&vCenter=true&width=1000&lines=Olá,+Meu+Nome+é+Macauly👋+;Eu+Sou+um+Dev+Full+Stack;Seja+Bem+Vindo!+:%29)](https://git.io/typing-svg)<br>
