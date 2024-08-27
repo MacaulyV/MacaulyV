@@ -1,4 +1,3 @@
-<p align="center">
 <img src="https://github.com/user-attachments/assets/a6d97cc7-c99c-48d7-8094-32a37da7c13e" alt="MasterHead" width="100%" />
 <br><br>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0000FF&height=120&section=header"/>
