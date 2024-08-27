@@ -141,10 +141,10 @@ Próximos passos de aprendizagem incluem:
 ![Ashutosh's github activity graph](https://ssr-contributions-svg.vercel.app/_/MacaulyV??chart=3dbar&gap=0.6&scale=6&flatten=2&animation=wave&animation_duration=1&animation_delay=0.05&animation_amplitude=20&animation_frequency=0.5&animation_mess_center=10_0&format=svg&weeks=30&theme=purple&dark=true) 
 </div>
 
-<h1 align="center">Meus Projetos</h2>
+<h2 align="center">Meus Projetos</h2>
 
 <details align="center">
-<summary><h2>Portal Salesforce</h2></summary> 
+<summary><h3>Portal Salesforce</h3></summary> 
   
 <div> 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
@@ -167,7 +167,7 @@ Próximos passos de aprendizagem incluem:
 </details>
 
 <details align="center">
-<summary><h2>Dashboard Climatica</h2></summary> 
+<summary><h3>Dashboard Climatica</h2></summary> 
 
 <div align="center"><br>
 <img align="left" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
