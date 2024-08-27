@@ -30,7 +30,7 @@
 
 💡 Explorando soluções de **IA com Python** para previsão em **Engenharia de Dados em Negocios**
 
-<br>
+<br><br><br>
 <div>
 <h2>Contato</h2>
 </div>
