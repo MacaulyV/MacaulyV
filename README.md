@@ -34,7 +34,6 @@
 <div>
 <h2>Contato</h2>
 </div>
-<br>
 
 <p align="center">
   <a href="mailto:macaulyv@gmail.com">
