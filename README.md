@@ -103,7 +103,7 @@ Próximos passos de aprendizagem incluem:
 
 <br>
 
-##    🚀   Todas as Tecnologias e Ferramentas
+<h2 align="center"> 🛠️ Todas as Tecnologias e Ferramentas 🛠️ </h2>
 
 ### Principais linguagens:
 ![Python](https://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=python&logoColor=ffffff&labelColor=000000)
@@ -143,7 +143,7 @@ Próximos passos de aprendizagem incluem:
 ![Ashutosh's github activity graph](https://ssr-contributions-svg.vercel.app/_/MacaulyV??chart=3dbar&gap=0.6&scale=6&flatten=2&animation=wave&animation_duration=1&animation_delay=0.05&animation_amplitude=20&animation_frequency=0.5&animation_mess_center=10_0&format=svg&weeks=30&theme=purple&dark=true) 
 </div>
 
-<h2 align="center">Meus Projetos</h2>
+<h2 align="center"> 📁 Meus Projetos</h2>
 
 <details>
 <summary align="center"><h3>Portal Salesforce</h3></summary> 
