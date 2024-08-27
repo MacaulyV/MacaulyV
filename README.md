@@ -19,7 +19,7 @@
 
 # Sobre Mim
 <br>
-<img width=100% src="https://github.com/user-attachments/assets/e47fe893-1580-4a7a-b132-4ec0614599bd"/>
+
 🔭 Atualmente, estou aprimorando minhas habilidades em **Desenvolvimento Full Stack** e **Ciência de Dados**.
 
 🌱 Estudando **Microsoft Azure** para soluções em nuvem escaláveis e seguras.
