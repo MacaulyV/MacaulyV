@@ -52,8 +52,8 @@
 
 </div>
 
- <details align="center">
-  <summary><h2>👀 Mais sobre mim</h2></summary>
+ <details>
+  <summary align="center"><h2>👀 Mais sobre mim</h2></summary>
   <p>
 
 ### 👨‍💻 Desenvolvedor Full Stack em Formação:
@@ -145,8 +145,8 @@ Próximos passos de aprendizagem incluem:
 
 <h2 align="center">Meus Projetos</h2>
 
-<details align="center">
-<summary><h3>Portal Salesforce</h3></summary> 
+<details>
+<summary align="center"><h3>Portal Salesforce</h3></summary> 
   
 <div> 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
@@ -168,8 +168,8 @@ Próximos passos de aprendizagem incluem:
 </div><br><br><br><br>
 </details>
 
-<details align="center">
-<summary><h3>Dashboard Climatica</h2></summary> 
+<details>
+<summary align="center"><h3>Dashboard Climatica</h2></summary> 
 
 <div align="center"><br>
 <img align="left" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
