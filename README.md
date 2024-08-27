@@ -118,7 +118,7 @@ Próximos passos de aprendizagem incluem:
 ![CSS3](https://img.shields.io/badge/-CSS3-00BFFF?style=for-the-badge&logo=css3&logoColor=white&labelColor=00BFFF)
 
   <div align="center" > 
-
+<br>
     
 ![Ashutosh's github activity graph](https://ssr-contributions-svg.vercel.app/_/MacaulyV??chart=3dbar&gap=0.6&scale=6&flatten=2&animation=wave&animation_duration=1&animation_delay=0.05&animation_amplitude=20&animation_frequency=0.5&animation_mess_center=10_0&format=svg&weeks=30&theme=purple&dark=true) 
 </div>
