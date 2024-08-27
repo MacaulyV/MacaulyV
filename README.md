@@ -166,7 +166,9 @@ Próximos passos de aprendizagem incluem:
 </div><br>
 </details>
 
-<h3>Dashboard Climatica</h3>
+<details align="center">
+<summary><h2>Dashboard Climatica<</h2></summary> 
+
 <div align="center"><br>
 <img align="left" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
   
@@ -185,6 +187,7 @@ Próximos passos de aprendizagem incluem:
 - 🔭 I’m currently working on **Vexa Web App**
 
 </div><br><br>
+</details>
 
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
