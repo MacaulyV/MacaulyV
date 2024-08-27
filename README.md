@@ -163,7 +163,7 @@ Próximos passos de aprendizagem incluem:
 
 - 🔭 I’m currently working on **Vexa Web App**
 
-</div>
+</div><br>
 </details>
 
 <details align="center">
