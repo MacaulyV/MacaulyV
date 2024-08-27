@@ -164,6 +164,8 @@ Próximos passos de aprendizagem incluem:
  <img align="left" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
   
 ### Dashboard Climatica
+
+<div align="right"> 
   
 - 🔭 I’m currently working on **Vexa Web App**
 
@@ -178,6 +180,8 @@ Próximos passos de aprendizagem incluem:
 - 💬 Ask me about **Android , MEARN**
 
 - 🔭 I’m currently working on **Vexa Web App**
+
+</div>
 
 </details>
 
