@@ -38,9 +38,9 @@
   <a href="https://www.linkedin.com/in/macauly-vivaldo-da-silva-1a1514277" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  <a href="" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/Portfolio-1C1C1C?style=popout-square&logo=github&logoColor=white" alt="LinkedIn" height="35" />
-  </a>
+  
+[![GitHub](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg)](https://github.com/MacaulyV)
+
 </p>
 
 </div>
