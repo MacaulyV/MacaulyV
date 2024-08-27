@@ -15,7 +15,7 @@
 <div align="center" >
    
 ![Ashutosh's github activity graph](https://ssr-contributions-svg.vercel.app/_/MacaulyV??chart=3dbar&gap=0.6&scale=6&flatten=2&animation=wave&animation_duration=1&animation_delay=0.05&animation_amplitude=20&animation_frequency=0.5&animation_wave_center=10_0&format=svg&weeks=30&theme=purple&empty_color=000000) 
-https://raw.githubusercontent.com/MacaulyV/MacaulyV/6717a107d2a174d397a1f771e5a540be364b3813/MacaulyV.svg
+
 </div>
 
 <div align="center">
