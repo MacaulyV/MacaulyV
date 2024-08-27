@@ -32,8 +32,10 @@
 
 <br>
 <div>
-## Contato
+<h2>Contato</h2>
 </div>
+<br>
+
 <p align="center">
   <a href="mailto:macaulyv@gmail.com">
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="gmail" height="27" width="40" />
