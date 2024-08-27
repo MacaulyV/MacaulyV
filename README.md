@@ -30,8 +30,6 @@
 
 💡 Explorando soluções de **IA com Python** para previsão em **Engenharia de Dados em Negocios**
 
-💡 Explorando soluções de **Inteligência Artificial com Python** Focando em Análise Preditiva para **Engenharia de Dados** em Negócios.
-
 </div>
 
  <details>
