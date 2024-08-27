@@ -1,4 +1,4 @@
-<img src="https://github.com/user-attachments/assets/0b53bee7-04f2-4380-a186-32befb94315c" alt="MasterHead" width="100%" />
+<img src="https://github.com/user-attachments/assets/60299b3b-0398-4f93-97c3-841467acc188" />
 <br><br>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5c1bf5&height=120&section=header"/>
 <br>
