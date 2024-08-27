@@ -119,7 +119,7 @@ Próximos passos de aprendizagem incluem:
 
 <div align="center">
   
-![Ashutosh's github activity graph](https://ssr-contributions-svg.vercel.app/_/MacaulyV??chart=3dbar&gap=0.6&scale=6&flatten=2&animation=fadeIn&animation_duration=1&animation_delay=0.05&format=svg&weeks=30&theme=purple&dark=true)
+![Ashutosh's github activity graph](https://ssr-contributions-svg.vercel.app/_/MacaulyV??chart=3dbar&gap=0.6&scale=6&flatten=2&animation=fadeIn&animation_duration=1&animation_delay=0.05&animation_repeat=infinite&format=svg&weeks=30&theme=purple&dark=true)
 </div>
 
 <details>
