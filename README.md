@@ -165,7 +165,7 @@ Próximos passos de aprendizagem incluem:
   
 ### Dashboard Climatica
 
-<div align="right"> 
+<div align="center"> 
   
 - 🔭 I’m currently working on **Vexa Web App**
 
