@@ -34,7 +34,7 @@
 
 <br>
 <div>
-<h2>Contato</h2>
+<h2> ✉️  Contato</h2>
 </div>
 
 <p align="center">
