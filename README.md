@@ -143,8 +143,8 @@ Próximos passos de aprendizagem incluem:
 
 <h2 align="center">Meus Projetos</h2>
 
-<details>
-<summary><h2 align="center">Portal Salesforce</h2></summary> 
+<details align="center">
+<summary><h2>Portal Salesforce</h2></summary> 
   
 <div> 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
