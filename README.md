@@ -117,13 +117,16 @@ Próximos passos de aprendizagem incluem:
 ![HTML5](https://img.shields.io/badge/-HTML5-FF6347?style=for-the-badge&logo=html5&logoColor=white&labelColor=FF6347)
 ![CSS3](https://img.shields.io/badge/-CSS3-00BFFF?style=for-the-badge&logo=css3&logoColor=white&labelColor=00BFFF)
 
-<div align="center" > 
+
+
+<details>
+  <summary><h2 align="left">Meus Projetos</h2></summary>
+  
+  <div align="center" > 
   
 ![Ashutosh's github activity graph](https://ssr-contributions-svg.vercel.app/_/MacaulyV??chart=3dbar&gap=0.6&scale=6&flatten=2&animation=wave&animation_duration=1&animation_delay=0.05&animation_amplitude=20&animation_frequency=0.5&animation_mess_center=10_0&format=svg&weeks=30&theme=purple&dark=true) 
 </div>
 
-<details>
-  <summary><h2 align="left">Meus Projetos</h2></summary>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 ### Portal Salesforce
