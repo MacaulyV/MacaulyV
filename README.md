@@ -11,7 +11,6 @@
 </div>
 
 <div align="center" > 
-  <img src="https://github.com/user-attachments/assets/e26704a8-7276-433a-a289-a18740bfe591" alt="Coding GIF" width="400" align="right" loop autoplay>
 
 </div>
 
