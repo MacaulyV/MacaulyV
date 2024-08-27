@@ -32,8 +32,6 @@
 
 </div>
 
-<img width=70% src="https://raw.githubusercontent.com/MacaulyV/MacaulyV/838414b73554f4844018172f5dd15fde709dde97/Animation.svg"/>
-
  <details>
   <summary><h2 align="left">Mais sobre mim</h2></summary>
   <p>
@@ -84,6 +82,8 @@ Próximos passos de aprendizagem incluem:
 </details>
 
 <br>
+
+<img width=60% height=20% src="https://raw.githubusercontent.com/MacaulyV/MacaulyV/838414b73554f4844018172f5dd15fde709dde97/Animation.svg"/>
 
 ## 🚀 Todas as Tecnologias e Ferramentas
 
