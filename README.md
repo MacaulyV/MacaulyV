@@ -30,7 +30,7 @@
 
 💡 Explorando soluções de **IA com Python** para previsão em **Engenharia de Dados em Negocios**
 
-<br><br>
+<br>
 <p align="center">
   <a href="mailto:macaulyv@gmail.com">
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="gmail" height="27" width="40" />
@@ -38,6 +38,7 @@
   <a href="https://www.linkedin.com/in/macauly-vivaldo-da-silva-1a1514277" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
+       <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
 </p>
 
 </div>
