@@ -143,6 +143,8 @@ Próximos passos de aprendizagem incluem:
 
 <details>
   <summary><h2 align="left">Meus Projetos</h2></summary>
+  
+<div> 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
   
 ### Portal Salesforce
@@ -162,8 +164,8 @@ Próximos passos de aprendizagem incluem:
 - 🔭 I’m currently working on **Vexa Web App**
 
  <img align="left" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-  
-  <br><br>
+</div> 
+<br><br>
   
 ### Dashboard Climatica
 
