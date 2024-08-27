@@ -103,7 +103,7 @@ Próximos passos de aprendizagem incluem:
 
 <br>
 
-## 💻 Todas as Tecnologias e Ferramentas 
+<h2 align="center"> 🛠️ Todas as Tecnologias e Ferramentas 🛠️ </h2>
 
 ### Principais linguagens:
 ![Python](https://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=python&logoColor=ffffff&labelColor=000000)
