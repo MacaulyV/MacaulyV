@@ -117,7 +117,9 @@ Próximos passos de aprendizagem incluem:
 ![HTML5](https://img.shields.io/badge/-HTML5-FF6347?style=for-the-badge&logo=html5&logoColor=white&labelColor=FF6347)
 ![CSS3](https://img.shields.io/badge/-CSS3-00BFFF?style=for-the-badge&logo=css3&logoColor=white&labelColor=00BFFF)
 
-<img width=60% height=100% src="https://raw.githubusercontent.com/MacaulyV/MacaulyV/838414b73554f4844018172f5dd15fde709dde97/Animation.svg"/>
+<div align="center">
+<img width=70% height=100% src="https://raw.githubusercontent.com/MacaulyV/MacaulyV/838414b73554f4844018172f5dd15fde709dde97/Animation.svg"/>
+</div>
 
 <details>
   <summary><h2 align="left">Meus Projetos</h2></summary>
