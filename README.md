@@ -163,12 +163,12 @@ Próximos passos de aprendizagem incluem:
 
 - 🔭 I’m currently working on **Vexa Web App**
 
- <img align="left" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-</div><br><br> 
+</div><br>
   
 <h3 align="center">Dashboard Climatica</h3>
 
 <div align="center"> 
+<img align="left" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
   
 - 🔭 I’m currently working on **Vexa Web App**
 
