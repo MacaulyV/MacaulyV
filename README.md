@@ -50,7 +50,7 @@
 
 </p>
 
-</div>
+</div><br><br>
 
  <details>
   <summary align="center"><h2>👀 Mais sobre mim</h2></summary>
