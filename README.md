@@ -166,7 +166,7 @@ Próximos passos de aprendizagem incluem:
  <img align="left" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 </div><br><br> 
   
-<h3>Dashboard Climatica</h3>
+<h3 align="center">Dashboard Climatica</h3>
 
 <div align="center"> 
   
