@@ -5,6 +5,8 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FFFF&size=40&center=true&vCenter=true&width=1000&lines=Olá,+Meu+Nome+é+Macauly👋+;Eu+Sou+um+Dev+Full+Stack;Seja+Bem+Vindo!+:%29)](https://git.io/typing-svg)<br>
 
+<h2 align="center">⚡ Stats ⚡</h2>
+
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=MacaulyV&show_icons=true&include_all_commits=true&count_private=true&layout=compact&hide_border=true&title_color=5c1bf5&text_color=02c931&bg_color=0d1117" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MacaulyV&layout=compact&hide_border=true&title_color=5c1bf5&text_color=02c931&bg_color=0d1117" />
@@ -149,7 +151,7 @@ Próximos passos de aprendizagem incluem:
 <div> 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
   
-- 🔭 I’m currently working on **Vexa Web App**currently learning currently learning currently learning currently learning currently learning 
+- 🔭 I’m currently working on **Vexa Web App**
 
 - 🌱 I’m currently learning **DevOps**
 
