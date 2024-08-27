@@ -53,7 +53,7 @@
 </div>
 
  <details>
-  <summary align="center"><h2>👀 Mais sobre mim</h2></summary>
+  <summary><h2>👀 Mais sobre mim</h2></summary>
   <p>
 
 ### 👨‍💻 Desenvolvedor Full Stack em Formação:
