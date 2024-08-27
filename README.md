@@ -34,7 +34,7 @@
 <p align="center">
   <a href="mailto:macaulyv@gmail.com">
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="gmail" height="27" width="40" />
-  </a><br>
+  </a><br><br>
   <a href="https://github.com/MacaulyV" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
