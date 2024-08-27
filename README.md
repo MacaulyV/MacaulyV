@@ -161,6 +161,24 @@ Próximos passos de aprendizagem incluem:
 
 - 🔭 I’m currently working on **Vexa Web App**
 
+ <img align="left" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+  
+### Dashboard Climatica
+  
+- 🔭 I’m currently working on **Vexa Web App**
+
+- 🌱 I’m currently learning **DevOps**
+
+- 💬 Ask me about **Android , MEARN**
+
+- 📫 How to reach me ****
+
+- ⚡ Fun fact **I am Funny**
+  
+- 💬 Ask me about **Android , MEARN**
+
+- 🔭 I’m currently working on **Vexa Web App**
+
 </details>
 
 <div align="center">
