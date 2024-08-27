@@ -186,7 +186,7 @@ Próximos passos de aprendizagem incluem:
 
 - 🔭 I’m currently working on **Vexa Web App**
 
-</div><br><br>
+</div><br>
 </details>
 
 <div align="center">
