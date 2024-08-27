@@ -83,8 +83,6 @@ Próximos passos de aprendizagem incluem:
 
 <br>
 
-<img width=60% height=20% src="https://raw.githubusercontent.com/MacaulyV/MacaulyV/838414b73554f4844018172f5dd15fde709dde97/Animation.svg"/>
-
 ## 🚀 Todas as Tecnologias e Ferramentas
 
 ### Principais linguagens:
@@ -118,6 +116,8 @@ Próximos passos de aprendizagem incluem:
 ![Framer](https://img.shields.io/badge/-Framer-000000?style=for-the-badge&logo=framer&logoColor=00BFFF&labelColor=000000)
 ![HTML5](https://img.shields.io/badge/-HTML5-FF6347?style=for-the-badge&logo=html5&logoColor=white&labelColor=FF6347)
 ![CSS3](https://img.shields.io/badge/-CSS3-00BFFF?style=for-the-badge&logo=css3&logoColor=white&labelColor=00BFFF)
+
+<img width=60% height=100% src="https://raw.githubusercontent.com/MacaulyV/MacaulyV/838414b73554f4844018172f5dd15fde709dde97/Animation.svg"/>
 
 <details>
   <summary><h2 align="left">Meus Projetos</h2></summary>
