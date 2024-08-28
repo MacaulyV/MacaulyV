@@ -163,7 +163,7 @@ Próximos passos de aprendizagem incluem:
   
 - 💬 Ask me about **Android , MEARN**
   </div>
-<br><br>
+<br>
  <img src="https://skillicons.dev/icons?i=react,typescript,css,nextjs,java,nodejs" />
 
 </div><br><br><br><br>
