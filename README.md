@@ -163,7 +163,7 @@ Próximos passos de aprendizagem incluem:
   
 - 💬 Ask me about **Android , MEARN**
 <br><br>
- <img src="https://skillicons.dev/icons?i=react,typescript,nextjs,nodejs,css,java" />
+ <img src="https://skillicons.dev/icons?i=react,typescript,css,nextjs,java,nodejs" />
 
 </div><br><br><br><br>
 </details>
@@ -186,7 +186,7 @@ Próximos passos de aprendizagem incluem:
   
 - 💬 Ask me about **Android , MEARN**
 <br><br>
- <img src="https://skillicons.dev/icons?i=python,flask,react,typescript,nextjs,nodejs,css" />
+ <img src="https://skillicons.dev/icons?i=python,flask,nextjs,,react,typescript,css,nodejs" />
 
 </div><br>
 </details>
