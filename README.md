@@ -150,8 +150,8 @@ Próximos passos de aprendizagem incluem:
   
 <div> 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-  
-<br>- 🔭 I’m currently working on **Vexa Web App**
+  <div><br><br> 
+- 🔭 I’m currently working on **Vexa Web App**
 
 - 🌱 I’m currently learning **DevOps**
 
@@ -162,6 +162,7 @@ Próximos passos de aprendizagem incluem:
 - ⚡ Fun fact **I am Funny**
   
 - 💬 Ask me about **Android , MEARN**
+  </div>
 <br><br>
  <img src="https://skillicons.dev/icons?i=react,typescript,css,nextjs,java,nodejs" />
 
