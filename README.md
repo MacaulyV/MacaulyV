@@ -162,7 +162,7 @@ Próximos passos de aprendizagem incluem:
 - ⚡ Fun fact **I am Funny**
   
 - 💬 Ask me about **Android , MEARN**
-
+<br>
  <img src="https://skillicons.dev/icons?i=react,typescript,nextjs,nodejs,css,java" />
 
 </div><br><br><br><br>
