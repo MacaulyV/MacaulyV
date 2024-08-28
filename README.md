@@ -191,7 +191,6 @@ Próximos passos de aprendizagem incluem:
 </div><br>
 </details>
 <br>
-<br>
 
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
