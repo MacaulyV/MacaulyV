@@ -186,7 +186,7 @@ Próximos passos de aprendizagem incluem:
   
 - 💬 Ask me about **Android , MEARN**
 <br><br>
- <img src="https://skillicons.dev/icons?i=python,flask,nextjs,,react,typescript,css,nodejs" />
+ <img src="https://skillicons.dev/icons?i=python,flask,nextjs,react,typescript,css,nodejs" />
 
 </div><br>
 </details>
