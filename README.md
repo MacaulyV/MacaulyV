@@ -146,7 +146,7 @@ Próximos passos de aprendizagem incluem:
 <h2 align="center"> 📁 Meus Projetos</h2>
 
 <details>
-<summary align="center"><h3>Portal 2.0 Salesforce: Acessibilidade</h3></summary> 
+<summary align="center"><h3>Portal Salesforce: Acessibilidade</h3></summary> 
   
 <div> 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
@@ -169,7 +169,7 @@ Próximos passos de aprendizagem incluem:
 </details>
 
 <details>
-<summary align="center"><h3>Dashboard Climatica com: Weather API </h2></summary> 
+<summary align="center"><h3>Dashboard Climatica: Weather Api</h3></summary> 
 
 <div align="center"><br>
 <img align="left" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
@@ -189,6 +189,10 @@ Próximos passos de aprendizagem incluem:
 - 🔭 I’m currently working on **Vexa Web App**
 
 </div><br>
+</details>
+
+<details>
+<summary align="center"><h3>Portafolio:</h3></summary> 
 </details>
 
 <div align="center">
