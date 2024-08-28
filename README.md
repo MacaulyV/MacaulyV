@@ -150,7 +150,7 @@ Próximos passos de aprendizagem incluem:
   
 <div> 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-  <div>
+  <div><br>
 - 🔭 I’m currently working on **Vexa Web App**
 
 - 🌱 I’m currently learning **DevOps**
