@@ -188,11 +188,11 @@ Próximos passos de aprendizagem incluem:
 
 - 🔭 I’m currently working on **Vexa Web App**
 
-</div><br>
+</div>
 </details>
 
 <details>
-<summary align="center"><h3>Portafolio:</h3></summary> 
+<summary align="center"><h3>Portifolio:</h3></summary> 
 </details>
 
 <div align="center">
