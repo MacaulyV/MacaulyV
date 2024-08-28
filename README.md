@@ -60,11 +60,11 @@
 
 Sou um Desenvolvedor Full Stack em formação, com boa base de conhecimentos em desenvolvimento Front-end, Back-end e Ciência de Dados.
 
-🚀 Front-end: Desenvolvimento de interfaces modernas com **React**, **Next.js** e **TypeScript**
+🚀 **Front-end**: Desenvolvimento de interfaces modernas com **React**, **Next.js** e **TypeScript**
 
-🛠️ Back-end: Criação de sistemas utilizando **Java**, **Python** e **Flask** para design de APIs para o Front-end 
+🛠️ **Back-end**: Criação de sistemas utilizando **Java**, **Python** e **Flask** para design de APIs para o Front-end 
 
-📊 Ciência de Dados: Análise e visualização com **Python**, utilizando bibliotecas como **Matplotlib**, **Seaborn**, **Pandas** e **Scikit-learn**, além de conhecimentos em bancos de dados **Oracle** e **MySQL**
+📊 **Ciência de Dados**: Análise e visualização com **Python**, utilizando bibliotecas como **Matplotlib**, **Seaborn**, **Pandas** e **Scikit-learn**, além de conhecimentos em bancos de dados **Oracle** e **MySQL**
 
 ### 🔧 Conhecimentos Adicionais
 
