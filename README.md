@@ -193,7 +193,7 @@ Próximos passos de aprendizagem incluem:
 <br>
 
 <div align="center">
-  <h2>🐍 Minhas contribuições 🐍</h2>
+  <h2>🐍 Minhas Contribuições 🐍</h2>
  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
   <br>
 </div>
