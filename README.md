@@ -162,7 +162,7 @@ Próximos passos de aprendizagem incluem:
 - ⚡ Fun fact **I am Funny**
   
 - 💬 Ask me about **Android , MEARN**
-<br>
+<br><br>
  <img src="https://skillicons.dev/icons?i=react,typescript,nextjs,nodejs,css,java" />
 
 </div><br><br><br><br>
@@ -185,8 +185,8 @@ Próximos passos de aprendizagem incluem:
 - ⚡ Fun fact **I am Funny**
   
 - 💬 Ask me about **Android , MEARN**
-
-- 🔭 I’m currently working on **Vexa Web App**
+<br><br>
+ <img src="https://skillicons.dev/icons?i=python,flask,react,typescript,nextjs,nodejs,css" />
 
 </div><br>
 </details>
