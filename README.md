@@ -203,5 +203,5 @@ Próximos passos de aprendizagem incluem:
 
 </div>
 
- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5c1bf5&height=120&section=footer"/><br><br><br>  
+ <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5c1bf5&height=120&section=footer"/><br><br>
  <h1 align="center"> ⬇️ Todos os Projetos Abaixo</h1>
