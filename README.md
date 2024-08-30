@@ -30,7 +30,7 @@
 
 👯 Interessado em colaborar em projetos de **Desenvolvimento Web** e **Data Science**.
 
-💡 Explorando soluções de **IA com Python** para previsão em **Engenharia de Dados em Negocios**
+💡 Focando em Melhorar o Desenvolvimento de **IA com Python** para **Engenharia de Dados em Negocios**
 
 <br>
 <div>
@@ -149,6 +149,7 @@ Próximos passos de aprendizagem incluem:
 <div> 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
   <div><br>
+    
 - 🔭 I’m currently working on **Vexa Web App**
 
 - 🌱 I’m currently learning **DevOps**
