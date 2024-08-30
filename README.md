@@ -146,7 +146,8 @@ Próximos passos de aprendizagem incluem:
 <details>
 <summary align="center"><h3> ♿ Portal Salesforce: Acessibilidade</h3></summary><br><br> 
   
-<div> 
+<div>
+<br>  
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
   <div><br>   
     
@@ -154,7 +155,7 @@ Próximos passos de aprendizagem incluem:
 
 - 🎯 **Objetivo:** Tornar a plataforma da empresa **acessível**<br> de maneira intuitiva para todos os **públicos**.
 
-- 🛠 **Gestão de Projetos:** Gerenciado em grupo utilizando<br>**Trello** e a **metodologia Scrum.**
+- 🛠 **Gestão de Projetos:** Gerenciado em grupo<br>utilizando**Trello** e a **metodologia Scrum.**
 
 - 📅 **Sprints:** O projeto foi dividido em **4 sprints**,<br> com duração de **2 meses** cada.
   
