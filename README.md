@@ -164,7 +164,7 @@ Próximos passos de aprendizagem incluem:
  <img src="https://skillicons.dev/icons?i=react,typescript,css,nextjs,java,nodejs" />
  
 <h3> 🎯 Aplicabilidade:</h3>
- **No projeto final, desenvolvemos um novo layout para a empresa para testar as novas tecnologias integradas, que incluem:**
+ ** -  No projeto final, desenvolvemos um novo layout para a empresa para testar as novas tecnologias integradas, que incluem:**
  
 - 🤖 **Chatbot**: Integração com a **API do ChatGPT**, treinado com informações do layout para auxiliar os usuários em qualquer problema dentro do portal.
 - 🧏 **V-Libras:** Inclusão de um **plugin V-Libras** do **Gov.br** para auxiliar usuários com problemas de audição a utilizar o portal da empresa.
