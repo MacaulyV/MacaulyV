@@ -182,7 +182,7 @@ Próximos passos de aprendizagem incluem:
 
 - 🔎 **Pesquisa de Cidades:** O usuário pode inserir o nome de<br> uma **cidade** para acessar os **dados climáticos** detalhados.
 
-- 🌍 **Informações Climáticas Globais:**  Permite aos usuários visualizarem informações **climáticas** de qualquer lugar do<br> **mundo,** como **temperatura atual, sensação térmica,<br> umidade do ar e velocidade do vento** além da<br> **temperatura máxima e mínima** dos próximos seis dias.
+- 🌍 **Informações Climáticas Globais:**  Permite aos usuários visualizarem informações **climáticas** de qualquer lugar do<br> **mundo,** como **temperatura atual, sensação térmica,<br> umidade do ar e velocidade do vento** além da<br> temperatura máxima e mínima dos **próximos seis dias.**
 
 - 📍 **Geolocalização:** Integração de um botão que, com a<br> permissão do usuário, utiliza **geolocalização** para mostrar a **temperatura atual na região.**
 
