@@ -150,13 +150,13 @@ Próximos passos de aprendizagem incluem:
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
   <div>
     
-- 🎓 **Projeto Acadêmico** Desenvolvido para a **Salesforce**<br> durante minha formação na **FIAP**.
+- 🎓 **Projeto Acadêmico**  Desenvolvido para a **Salesforce**<br> durante minha formação na **FIAP**.
 
-- 🎯 **Objetivo:** Tornar a plataforma da empresa **acessível**<br> de maneira intuitiva para todos os **públicos**.
+- 🎯 **Objetivo:**  Tornar a plataforma da empresa **acessível**<br> de maneira intuitiva para todos os **públicos**.
 
-- 🛠 **Gestão de Projetos:** Gerenciei meu grupo<br>utilizando **Trello** e a **metodologia Scrum.**
+- 🛠 **Gestão de Projetos:**  Gerenciei meu grupo<br>utilizando **Trello** e a **metodologia Scrum.**
 
-- 📅 **Sprints:** O projeto foi dividido em **4 sprints**,<br> com duração de **2 meses** cada.
+- 📅 **Sprints:**  O projeto foi dividido em **4 sprints**,<br> com duração de **2 meses** cada.
   
 <h3> - 💻 Usamos as Tecnologias Seguintes</h3>
   </div>
@@ -167,9 +167,9 @@ Próximos passos de aprendizagem incluem:
 
   **No projeto final, desenvolvemos um novo layout para a empresa para testar as novas tecnologias integradas, que incluem:**
  
-- 🤖 **Chatbot**: Integração com a **API do ChatGPT**, treinado com informações do layout para auxiliar os usuários em qualquer problema dentro do portal.
-- 🧏 **V-Libras:** Inclusão de um **plugin V-Libras** do **Gov.br** para auxiliar usuários com problemas de audição a utilizar o portal da empresa.
-- 🔊 **Transcrição de texto em áudio:** **Adição da API do Google Cloud Speech** ao portal e criação de uma **mini interface** com menu navegável e intuitivo de fácil utilização para auxiliar usuários com problemas visuais a transcrever textos em áudio.
+- 🤖 **Chatbot**:  Integração com a **API do ChatGPT**, treinado com informações do layout para auxiliar os usuários em qualquer problema dentro do portal.
+- 🧏 **V-Libras:**  Inclusão de um **plugin V-Libras** do **Gov.br** para auxiliar usuários com problemas de audição a utilizar o portal da empresa.
+- 🔊 **Transcrição de texto em áudio:**  **Adição da API do Google Cloud Speech** ao portal e criação de uma **mini interface** com menu navegável e intuitivo de fácil utilização para auxiliar usuários com problemas visuais a transcrever textos em áudio.
   
 </div><br><br><br><br>
 </details>
@@ -180,9 +180,9 @@ Próximos passos de aprendizagem incluem:
 <div align="center"><br>
 <img align="left" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
   
-- 🔭 I’m currently working on **Vexa Web App**
+- 🖥 **Dashboard de Clima**:  Desenvolvi uma dashboard com um design de UI e UX admirável, utilizando a WeatherAPI.
 
-- 🌱 I’m currently learning **DevOps**
+- 🌍 **Informações Climáticas Globais:**  Permite aos usuários visualizarem informações climáticas de qualquer lugar do mundo, como temperatura atual, sensação térmica, umidade do ar e velocidade do vento.
 
 - 💬 Ask me about **Android , MEARN**
 
