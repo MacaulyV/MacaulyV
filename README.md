@@ -144,11 +144,11 @@ Próximos passos de aprendizagem incluem:
 <h2 align="center"> 📁 Meus Projetos</h2>
 
 <details>
-<summary align="center"><h3> ♿ Portal Salesforce: Acessibilidade</h3></summary> 
+<summary align="center"><h3> ♿ Portal Salesforce: Acessibilidade</h3></summary><br><br> 
   
 <div> 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-  <div>   
+  <div><br>   
 - 🎓 **Projeto Acadêmico** Desenvolvido para a **Salesforce** durante minha formação na **FIAP**.
 
 - 🎯 **Objetivo:** Tornar a plataforma da empresa **acessível** de maneira intuitiva para todos os **públicos**.
