@@ -179,14 +179,12 @@ Próximos passos de aprendizagem incluem:
 
 <div><br>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-  
-- 🖥 **Dashboard de Clima**:  Desenvolvi uma Dashboard com um **design de UI e UX admirável**, utilizando a **WeatherAPI.**
 
-- 🔎 **Pesquisa de Cidades:** O usuário pode inserir o nome de uma **cidade** para acessar os **dados climáticos** detalhados.
+- 🔎 **Pesquisa de Cidades:** O usuário pode inserir o nome de<br> uma **cidade** para acessar os **dados climáticos** detalhados.
 
-- 🌍 **Informações Climáticas Globais:**  Permite aos usuários visualizarem informações climáticas de qualquer **lugar do mundo,** como temperatura atual, sensação térmica, umidade do ar e velocidade do vento além da temperatura máxima e mínima dos próximos seis dias.
+- 🌍 **Informações Climáticas Globais:**  Permite aos usuários visualizarem informações climáticas de qualquer **lugar do mundo,**<br> como temperatura atual, sensação térmica, umidade do ar e velocidade do vento além da temperatura máxima e mínima<br> dos próximos seis dias.
 
-- 📍 **Geolocalização:** Integração de um botão que, com a permissão do usuário, utiliza **geolocalização** para mostrar a temperatura atual na região.
+- 📍 **Geolocalização:** Integração de um botão que, com a<br> permissão do usuário, utiliza **geolocalização** para mostrar a temperatura atual na região.
 
 - 🗺 **Minimapa Dinâmico:** Integração com a **API do Google Maps** para atualizar a posição do minimapa conforme a cidade é selecionada.
   
