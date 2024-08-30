@@ -152,11 +152,11 @@ Próximos passos de aprendizagem incluem:
     
 - 🎓 **Projeto Acadêmico** Desenvolvido para a **Salesforce**<br> durante minha formação na **FIAP**.
 
-- 🎯 **Objetivo:** Tornar a plataforma da empresa **acessível** de maneira intuitiva para todos os **públicos**.
+- 🎯 **Objetivo:** Tornar a plataforma da empresa **acessível**<br> de maneira intuitiva para todos os **públicos**.
 
-- 🛠 **Gestão de Projetos:** Gerenciado em grupo utilizando **Trello** e a **metodologia Scrum.**
+- 🛠 **Gestão de Projetos:** Gerenciado em grupo utilizando<br>**Trello** e a **metodologia Scrum.**
 
-- 📅 **Sprints:** O projeto foi dividido em **4 sprints**, com duração de **2 meses** cada.
+- 📅 **Sprints:** O projeto foi dividido em **4 sprints**,<br> com duração de **2 meses** cada.
   
 - <h3> 💻 Usamos as Tecnologias Seguintes</h3>
   </div>
