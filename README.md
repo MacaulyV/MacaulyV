@@ -147,8 +147,8 @@ Próximos passos de aprendizagem incluem:
 <summary align="center"><h3> ♿ Portal Salesforce: Acessibilidade</h3></summary> 
   
 <div> 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-  <div><br>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"><br><br>
+  <div>
     
 - 🎓 **Projeto Acadêmico** Desenvolvido para a **Salesforce** durante minha formação na **FIAP**.
 
