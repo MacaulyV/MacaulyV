@@ -171,7 +171,7 @@ Próximos passos de aprendizagem incluem:
 - 🧏 **V-Libras:**  Inclusão de um **plugin V-Libras** do **Gov.br** para auxiliar usuários com problemas de audição a utilizar o portal da empresa.
 - 🔊 **Transcrição de texto em áudio:**  **Adição da API do Google Cloud Speech** ao portal e criação de uma **mini interface** com menu navegável e intuitivo de fácil utilização para auxiliar usuários com problemas visuais a transcrever textos em áudio.
   
-</div><br><br><br><br>
+</div><br><br>
 </details>
 
 <details>
