@@ -149,7 +149,8 @@ Próximos passos de aprendizagem incluem:
 <div> 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
   <div><br>   
-- 🎓 **Projeto Acadêmico** Desenvolvido para a **Salesforce** durante minha formação na **FIAP**.
+    
+- 🎓 **Projeto Acadêmico** Desenvolvido para a **Salesforce**<br> durante minha formação na **FIAP**.
 
 - 🎯 **Objetivo:** Tornar a plataforma da empresa **acessível** de maneira intuitiva para todos os **públicos**.
 
