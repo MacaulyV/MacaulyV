@@ -158,7 +158,7 @@ Próximos passos de aprendizagem incluem:
 
 - 📅 **Sprints:** O projeto foi dividido em **4 sprints**, com duração de **2 meses** cada.
   
-- 🔧 **Usamos as Tecnologias Seguintes**
+- 💻 <h3>Usamos as Tecnologias Seguintes</h3>
   </div>
 <br>
  <img src="https://skillicons.dev/icons?i=react,typescript,css,nextjs,java,nodejs" />
