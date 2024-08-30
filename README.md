@@ -22,9 +22,9 @@
 # 🧑‍💻 Sobre Mim
 <br>
 
-🔭 Atualmente, estou aprimorando minhas habilidades em **Desenvolvimento Full Stack** e **Ciência de Dados**.
+🔭 Atualmente, estou me dedicando a aprimorar minhas habilidades em **Desenvolvimento Full Stack** e **Ciência de Dados**.
 
-🌱 Estudando **Microsoft Azure** para soluções em nuvem escaláveis e seguras.
+☁️ Estudando **Microsoft Azure** para soluções em nuvem escaláveis e seguras.
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas na **FIAP**.
 
@@ -62,7 +62,7 @@ Sou um Desenvolvedor Full Stack em formação, com boa base de conhecimentos em 
 
 🚀 **Front-end**: Desenvolvimento de interfaces modernas com **React**, **Next.js** e **TypeScript**
 
-🛠️ **Back-end**: Criação de sistemas utilizando **Java**, **Python** e **Flask** para design de APIs para o Front-end 
+🛠️ **Back-end**: Criação de sistemas utilizando **Java**, **Python** e **Flask** para Criação de APIs
 
 📊 **Ciência de Dados**: Análise e visualização com **Python**, utilizando bibliotecas como **Matplotlib**, **Seaborn**, **Pandas** e **Scikit-learn**, além de conhecimentos em bancos de dados **Oracle** e **MySQL**
 
@@ -79,11 +79,7 @@ Sou um Desenvolvedor Full Stack em formação, com boa base de conhecimentos em 
   - **Alura**: Python para Machine Learning e Ciência de Dados: Abrange técnicas de machine learning para processamento de dados.
 
 💼 **Experiência e Realizações:**
-- Gestão e participação em projetos acadêmicos desafiadores:
-  - Desenvolvimento de soluções para empresas como **Salesforce**, **Hapvida** e **NotreDame Intermédica**
-  - Utilização do **Trello** para gerenciamento de projetos, garantindo entregas pontuais e de qualidade.
-- Fortalecendo assim as habilidades em trabalho em equipe e gestão de projetos ultilizando Scrum
-- Desenvolvi habilidades na utilização de ferramentas para controle de versão, como Git, trabalhando em equipe.
+Durante o meu tempo na faculdade, tive a chance de trabalhar em **projetos** com meus colegas de equipe, onde juntos desenvolvemos soluções para empresas conhecidas como **Salesforce, Hapvida e NotreDame Intermédica.** Usei o **Trello** para manter meu grupo organizado e garantir que tudo fosse entregue no **prazo**, o que ajudou bastante no sucesso dos projetos e me fez melhorar minha habilidade de **trabalho em equipe**, além de praticar a metodologia **Scrum**.
 
 🌱 **O que estou aprendendo atualmente:**
 
