@@ -79,18 +79,19 @@ Sou um Desenvolvedor Full Stack em formação, com boa base de conhecimentos em 
   - **Alura**: Python para Machine Learning e Ciência de Dados: Abrange técnicas de machine learning para processamento de dados.
 
 💼 **Experiência e Realizações:**
+
   Durante o meu tempo na faculdade, tive a chance de trabalhar em **projetos** com meus colegas de equipe, onde juntos desenvolvemos soluções para empresas conhecidas como **Salesforce, Hapvida e NotreDame Intermédica.** Usei o **Trello** para manter meu grupo organizado e garantir que tudo fosse entregue no **prazo**, o que 
   ajudou bastante no sucesso dos projetos e me fez melhorar minha habilidade de **trabalho em equipe**, além de praticar a metodologia **Scrum**.
 
 🌱 **O que estou aprendendo atualmente:**
 
-- **Microsoft Azure**: Aprofundando-me em soluções de computação em nuvem para desenvolver aplicações escaláveis e robustas.
+- Atualmente, estou me dedicando a aprender mais sobre  **Microsoft Azure** para desenvolver soluções em nuvem escaláveis e seguras, focadas em  **DevOps**.
 - **Desenvolvimento Mobile com Kotlin**: Para desenvolvimento mobile nativo
 - **Inglês**: Dedicando 1 hora por dia para aprimorar minhas habilidades no idioma.
 
 Próximos passos de aprendizagem incluem:
 
-- **Cloud Computing (AWS)**: Aprofundar-me em serviços de nuvem AWS, com foco em arquiteturas de plataformas de dados para integração, ingestão, orquestração e processamento eficiente.
+- **Cloud Computing (AWS)**: Aprofundar-me em serviços de nuvem **AWS**.
 
 - **Engenharia de Dados**: Explorar tecnologias Big Data como Hadoop, Spark e Airflow para desenvolver pipelines de dados robustos e escaláveis. Além de SAS para análise avançada de dados.
  
