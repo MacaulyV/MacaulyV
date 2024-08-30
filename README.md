@@ -147,9 +147,8 @@ Próximos passos de aprendizagem incluem:
 <summary align="center"><h3> ♿ Portal Salesforce: Acessibilidade</h3></summary> 
   
 <div> 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"><br><br>
-  <div>
-    
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+  <div>   
 - 🎓 **Projeto Acadêmico** Desenvolvido para a **Salesforce** durante minha formação na **FIAP**.
 
 - 🎯 **Objetivo:** Tornar a plataforma da empresa **acessível** de maneira intuitiva para todos os **públicos**.
@@ -158,7 +157,7 @@ Próximos passos de aprendizagem incluem:
 
 - 📅 **Sprints:** O projeto foi dividido em **4 sprints**, com duração de **2 meses** cada.
   
-- 💬 **Usamos as Tecnologias Seguintes**
+- 🔧 **Usamos as Tecnologias Seguintes**
   </div>
 <br>
  <img src="https://skillicons.dev/icons?i=react,typescript,css,nextjs,java,nodejs" />
