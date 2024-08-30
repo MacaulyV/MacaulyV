@@ -79,7 +79,8 @@ Sou um Desenvolvedor Full Stack em formação, com boa base de conhecimentos em 
   - **Alura**: Python para Machine Learning e Ciência de Dados: Abrange técnicas de machine learning para processamento de dados.
 
 💼 **Experiência e Realizações:**
-Durante o meu tempo na faculdade, tive a chance de trabalhar em **projetos** com meus colegas de equipe, onde juntos desenvolvemos soluções para empresas conhecidas como **Salesforce, Hapvida e NotreDame Intermédica.** Usei o **Trello** para manter meu grupo organizado e garantir que tudo fosse entregue no **prazo**, o que ajudou bastante no sucesso dos projetos e me fez melhorar minha habilidade de **trabalho em equipe**, além de praticar a metodologia **Scrum**.
+  Durante o meu tempo na faculdade, tive a chance de trabalhar em **projetos** com meus colegas de equipe, onde juntos desenvolvemos soluções para empresas conhecidas como **Salesforce, Hapvida e NotreDame Intermédica.** Usei o **Trello** para manter meu grupo organizado e garantir que tudo fosse entregue no **prazo**, o que 
+  ajudou bastante no sucesso dos projetos e me fez melhorar minha habilidade de **trabalho em equipe**, além de praticar a metodologia **Scrum**.
 
 🌱 **O que estou aprendendo atualmente:**
 
