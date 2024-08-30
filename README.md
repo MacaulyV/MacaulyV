@@ -154,11 +154,11 @@ Próximos passos de aprendizagem incluem:
 
 - 🎯 **Objetivo:** Tornar a plataforma da empresa **acessível**<br> de maneira intuitiva para todos os **públicos**.
 
-- 🛠 **Gestão de Projetos:** Gerenciei meu grupo<br>utilizando**Trello** e a **metodologia Scrum.**
+- 🛠 **Gestão de Projetos:** Gerenciei meu grupo<br>utilizando **Trello** e a **metodologia Scrum.**
 
 - 📅 **Sprints:** O projeto foi dividido em **4 sprints**,<br> com duração de **2 meses** cada.
   
-- <h3> 💻 Usamos as Tecnologias Seguintes</h3>
+<h3> 💻 Usamos as Tecnologias Seguintes</h3>
   </div>
 <br>
  <img src="https://skillicons.dev/icons?i=react,typescript,css,nextjs,java,nodejs" />
