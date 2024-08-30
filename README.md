@@ -171,24 +171,24 @@ Próximos passos de aprendizagem incluem:
 - 🧏 **V-Libras:**  Inclusão de um **plugin V-Libras** do **Gov.br** para auxiliar usuários com problemas de audição a utilizar o portal da empresa.
 - 🔊 **Transcrição de texto em áudio:**  **Adição da API do Google Cloud Speech** ao portal e criação de uma **mini interface** com menu navegável e intuitivo de fácil utilização para auxiliar usuários com problemas visuais a transcrever textos em áudio.
   
-</div><br><br>
+</div><br>
 </details>
 
 <details>
 <summary align="center"><h3> ☀️ Dashboard Climatica: Weather API</h3></summary> 
 
-<div align="center"><br>
-<img align="left" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<div><br>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
   
-- 🖥 **Dashboard de Clima**:  Desenvolvi uma dashboard com um design de UI e UX admirável, utilizando a WeatherAPI.
+- 🖥 **Dashboard de Clima**:  Desenvolvi uma Dashboard com um **design de UI e UX admirável**, utilizando a **WeatherAPI.**
 
-- 🌍 **Informações Climáticas Globais:**  Permite aos usuários visualizarem informações climáticas de qualquer lugar do mundo, como temperatura atual, sensação térmica, umidade do ar e velocidade do vento.
+- 🔎 **Pesquisa de Cidades:** O usuário pode inserir o nome de uma **cidade** para acessar os **dados climáticos** detalhados.
 
-- 💬 Ask me about **Android , MEARN**
+- 🌍 **Informações Climáticas Globais:**  Permite aos usuários visualizarem informações climáticas de qualquer **lugar do mundo,** como temperatura atual, sensação térmica, umidade do ar e velocidade do vento além da temperatura máxima e mínima dos próximos seis dias.
 
-- 📫 How to reach me ****
+- 📍 **Geolocalização:** Integração de um botão que, com a permissão do usuário, utiliza **geolocalização** para mostrar a temperatura atual na região.
 
-- ⚡ Fun fact **I am Funny**
+- 🗺 **Minimapa Dinâmico:** Integração com a **API do Google Maps** para atualizar a posição do minimapa conforme a cidade é selecionada.
   
 - 💬 Ask me about **Android , MEARN**
 <br><br>
