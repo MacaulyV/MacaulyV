@@ -147,15 +147,14 @@ Próximos passos de aprendizagem incluem:
 <summary align="center"><h3> ♿ Portal Salesforce: Acessibilidade</h3></summary><br><br> 
   
 <div>
-<br>  
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-  <div><br>   
+  <div>
     
 - 🎓 **Projeto Acadêmico** Desenvolvido para a **Salesforce**<br> durante minha formação na **FIAP**.
 
 - 🎯 **Objetivo:** Tornar a plataforma da empresa **acessível**<br> de maneira intuitiva para todos os **públicos**.
 
-- 🛠 **Gestão de Projetos:** Gerenciado em grupo<br>utilizando**Trello** e a **metodologia Scrum.**
+- 🛠 **Gestão de Projetos:** Gerenciei meu grupo<br>utilizando**Trello** e a **metodologia Scrum.**
 
 - 📅 **Sprints:** O projeto foi dividido em **4 sprints**,<br> com duração de **2 meses** cada.
   
