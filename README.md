@@ -150,9 +150,17 @@ Próximos passos de aprendizagem incluem:
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
   <div><br>
     
-- 🔭 I’m currently working on **Vexa Web Appdddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd**
+- 🎓 Projeto Acadêmico: Desenvolvido para a Salesforce durante minha formação na FIAP.
 
+- 🎯 Objetivo: Tornar a plataforma da empresa acessível de maneira intuitiva para todos os públicos.
 
+- 💬 Ask me about **Android , MEARN**
+
+- 📫 How to reach me ****
+
+- ⚡ Fun fact **I am Funny**
+  
+- 💬 **Usamos as Tecnologias Seguintes**
   </div>
 <br>
  <img src="https://skillicons.dev/icons?i=react,typescript,css,nextjs,java,nodejs" />
