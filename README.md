@@ -186,9 +186,9 @@ Próximos passos de aprendizagem incluem:
 
 - 📍 **Geolocalização:** Integração de um botão que, com a<br> permissão do usuário, utiliza **geolocalização** para mostrar a temperatura atual na região.
 
-- 🗺 **Minimapa Dinâmico:** Integração com a **API do Google Maps** para atualizar a posição do minimapa conforme a cidade é selecionada.
-  
-<br><br>
+<h3> - 💻 Usamos as Tecnologias Seguintes</h3>
+
+<br>
  <img src="https://skillicons.dev/icons?i=python,flask,nextjs,react,typescript,css" />
 
 </div><br>
