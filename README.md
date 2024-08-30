@@ -190,7 +190,6 @@ Próximos passos de aprendizagem incluem:
 
 - 🗺 **Minimapa Dinâmico:** Integração com a **API do Google Maps** para atualizar a posição do minimapa conforme a cidade é selecionada.
   
-- 💬 Ask me about **Android , MEARN**
 <br><br>
  <img src="https://skillicons.dev/icons?i=python,flask,nextjs,react,typescript,css" />
 
