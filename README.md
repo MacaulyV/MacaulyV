@@ -138,7 +138,7 @@ Próximos passos de aprendizagem incluem:
   <div align="center" > 
 <br>
     
-![Ashutosh's github activity graph](https://github.com/user-attachments/assets/a3bc7fc5-f3f2-4e30-bbf5-8f06dd8b8fac/_/MacaulyV??chart=3dbar&gap=0.6&scale=6&flatten=2&animation=wave&animation_duration=1&animation_delay=0.05&animation_amplitude=20&animation_frequency=0.5&animation_mess_center=10_0&format=svg&weeks=30&theme=purple&dark=true) 
+![Ashutosh's github activity graph](https://github.com/user-attachments/assets/a3bc7fc5-f3f2-4e30-bbf5-8f06dd8b8fac) 
 </div>
 
 <h2 align="center"> 📁 Meus Projetos</h2>
