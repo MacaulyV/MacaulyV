@@ -145,7 +145,6 @@ Próximos passos de aprendizagem incluem:
 
 <details>
 <summary align="center"><h3> ♿ Portal Salesforce: Acessibilidade</h3></summary><br><br> 
-<img align="right" alt="Coding" width="400" height="270" src="https://github.com/user-attachments/assets/d0d0fa5d-58ea-4fc9-b15c-20002209d59b">
 <div>
 <img align="right" alt="Coding" width="400" height="270" src="https://github.com/user-attachments/assets/c2c23b4f-c88f-4035-b6d7-a6f0473b2431">
   <div>
