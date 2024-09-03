@@ -177,7 +177,7 @@ Próximos passos de aprendizagem incluem:
 <summary align="center"><h3> ☀️ Dashboard Climatica: Weather API</h3></summary> 
 
 <div><br>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="430" height="300" src="https://github.com/user-attachments/assets/fabb312e-ab53-4306-9822-fcacfa70f73e">
 
 - 🔎 **Pesquisa de Cidades:** O usuário pode inserir o nome de<br> uma **cidade** para acessar os **dados climáticos** detalhados.
 
