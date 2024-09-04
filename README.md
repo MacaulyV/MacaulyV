@@ -146,7 +146,7 @@ Próximos passos de aprendizagem incluem:
 <details>
 <summary align="center"><h3> ♿ Portal Salesforce: Acessibilidade</h3></summary><br><br> 
 <div>
-<img align="right" alt="Coding" width="430" height="300" src="https://github.com/user-attachments/assets/f8248ada-a83d-44a6-931c-c9e888f524c2">
+<img align="right" alt="Coding" width="430" height="240" src="https://github.com/user-attachments/assets/f8248ada-a83d-44a6-931c-c9e888f524c2">
   <div>
     
 - 🎓 **Projeto Acadêmico**  Desenvolvido para a **Salesforce**<br> durante minha formação na **FIAP**.
@@ -177,7 +177,7 @@ Próximos passos de aprendizagem incluem:
 <summary align="center"><h3> ☀️ Dashboard Climatica: Weather API</h3></summary> 
 
 <div><br>
-<img align="right" alt="Coding" width="400" height="270" src="https://github.com/user-attachments/assets/fabb312e-ab53-4306-9822-fcacfa70f73e">
+<img align="right" alt="Coding" width="400" height="210" src="https://github.com/user-attachments/assets/fabb312e-ab53-4306-9822-fcacfa70f73e">
 
 - 🔎 **Pesquisa de Cidades:** O usuário pode inserir o nome de<br> uma **cidade** para acessar os **dados climáticos** detalhados.
 
