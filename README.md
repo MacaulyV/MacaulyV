@@ -87,6 +87,7 @@ Colaborei em projetos para **Salesforce**, **Hapvida** e **NotreDame Intermédic
 
 ### Frameworks e Bibliotecas:
 ![React](https://img.shields.io/badge/-React-00BFFF?style=for-the-badge&logo=react&logoColor=white&labelColor=00BFFF)
+![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white&labelColor=6DB33F)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=ffffff&labelColor=000000)
 ![Flask](https://img.shields.io/badge/-Flask-FFFFFF?style=for-the-badge&logo=flask&logoColor=black&labelColor=FFFFFF)
 ![ScikitLearn](https://img.shields.io/badge/-Scikit%20Learn-FF8C00?style=for-the-badge&logo=scikit-learn&logoColor=ffffff&labelColor=FF8C00)&nbsp;
@@ -104,9 +105,8 @@ Colaborei em projetos para **Salesforce**, **Hapvida** e **NotreDame Intermédic
 
  ### Outros Conhecimentos:
 ![ORACLE](https://img.shields.io/badge/-ORACLE-FF0000?style=for-the-badge&logo=ORACLE&logoColor=white&labelColor=FF0000)
-![MySQL](https://img.shields.io/badge/-MySQL-4682B4?style=for-the-badge&logo=mysql&logoColor=white&labelColor=4682B4)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=7952B3)
 ![Figma](https://img.shields.io/badge/-Figma-8A2BE2?style=for-the-badge&logo=figma&logoColor=FFFFFF&labelColor=8A2BE2)
-![Framer](https://img.shields.io/badge/-Framer-000000?style=for-the-badge&logo=framer&logoColor=00BFFF&labelColor=000000)
 ![HTML5](https://img.shields.io/badge/-HTML5-FF6347?style=for-the-badge&logo=html5&logoColor=white&labelColor=FF6347)
 ![CSS3](https://img.shields.io/badge/-CSS3-00BFFF?style=for-the-badge&logo=css3&logoColor=white&labelColor=00BFFF)
 
