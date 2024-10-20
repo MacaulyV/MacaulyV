@@ -22,15 +22,15 @@
 # 🧑‍💻 Sobre Mim
 <br>
 
-Atualmente, estou me aprofundando em **Desenvolvimento Full Stack** e **Ciência de Dados**.
+💻 Sólidos conhecimentos em **Desenvolvimento Full Stack** e **Ciência de Dados**
 
-☁️ Tenho experiência com **Microsoft Azure** & **Docker**, onde desenvolvo soluções em nuvem seguras e otimizadas.
+☁️ Tenho experiência com **Microsoft Azure** e **Docker**, com foco em **Arquitetura** e **Deploy** de soluções em nuvem
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas na **FIAP**.
+🎯 Interessado em áreas de **Machine Learning**, **Ciência de Dados** e **Desenvolvimento Front-End**
 
-👯 Interessado em colaborar em projetos de **Desenvolvimento Web** e **Data Science**.
+🎓 Estudante de **Análise e Desenvolvimento de Sistemas** na **FIAP**, (2º Ano)
 
-💡 Focando em Melhorar o Desenvolvimento de **IA com Python** para **Engenharia de Dados em Negocios**
+
 
 <br>
 <div>
