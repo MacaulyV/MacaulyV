@@ -22,9 +22,9 @@
 # 🧑‍💻 Sobre Mim
 <br>
 
-🔭 Atualmente, estou me dedicando a aprimorar minhas habilidades em **Desenvolvimento Full Stack** e **Ciência de Dados**.
+Atualmente, estou me aprofundando em **Desenvolvimento Full Stack** e **Ciência de Dados**.
 
-☁️ Estudando **Microsoft Azure** para soluções em nuvem escaláveis e seguras.
+☁️ Tenho experiência com **Microsoft Azure** & **Docker**, onde desenvolvo soluções em nuvem seguras e otimizadas.
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas na **FIAP**.
 
