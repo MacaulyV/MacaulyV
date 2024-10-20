@@ -26,7 +26,7 @@
 
 🎯 Interessado em áreas de **Machine Learning**, **Ciência de Dados** e **Desenvolvimento Front-End**
 
-🎓 Estudante de **Análise e Desenvolvimento de Sistemas** na **FIAP**, (2º Ano)
+🎓 Estudante de **Análise e Desenvolvimento de Sistemas** na **FIAP**, **(2º Ano)**
 
 <br>
 <div>
@@ -71,7 +71,7 @@ Colaborei em projetos para **Salesforce**, **Hapvida** e **NotreDame Intermédic
 
 <br>
 
-<h2 align="center"> 🛠️ Todas as Tecnologias e Ferramentas 🛠️ </h2>
+<h2 align="center"> 🛠️ Todas as Tecnologias e Ferramentas </h2>
 
 ### Principais linguagens:
 ![Python](https://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=python&logoColor=ffffff&labelColor=000000)
@@ -165,15 +165,9 @@ Colaborei em projetos para **Salesforce**, **Hapvida** e **NotreDame Intermédic
 <br>
 
 <div align="center">
-  <h2>🐍 Minhas Contribuições 🐍</h2>
- <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
-  <br>
-</div>
-
-<div align="center">
 <br>
 <p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FMacaulyV&s=40&c=00FF7F&bg=00000000&no=5&ff=serif&tb=Visitas%3A++&ta=" /></p> 
 </div>
 
  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5c1bf5&height=120&section=footer"/><br><br>
- <h1 align="center"> ⬇️ Todos os Projetos Abaixo</h1>
+ <h1 align="center"> ⬇️ Todos os 📁 Projetos Abaixo</h1>
