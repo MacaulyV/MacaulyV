@@ -45,10 +45,6 @@
   <a href="https://www.linkedin.com/in/macauly-vivaldo-da-silva-1a1514277/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  <a href="https://github.com/MacaulyV" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="LinkedIn" height="30" width="40" />
-  </a> 
-
 </p>
 
 </div>
@@ -57,46 +53,24 @@
   <summary align="center"><h2>👀 Mais sobre mim</h2></summary>
   <p>
 
-### 👨‍💻 Desenvolvedor Full Stack em Formação:
+### 👨‍💻 Desenvolvedor Full Stack
 
-Sou um Desenvolvedor Full Stack em formação, com boa base de conhecimentos em desenvolvimento Front-end, Back-end e Ciência de Dados.
+Desenvolvedor Full Stack com sólida base em front-end, back-end e ciência de dados. Experiência em desenvolvimento de software e gestão de projetos.
 
-🚀 **Front-end**: Desenvolvimento de interfaces modernas com **React**, **Next.js** e **TypeScript**
+### 🚀 Habilidades Técnicas:
 
-🛠️ **Back-end**: Criação de sistemas utilizando **Java**, **Python** e **Flask** para Criação de APIs
+- **Front-end**: React, Next.js, TypeScript, JavaScript, Bootstrap, UI/UX Design (Figma)
+- **Back-end**: Java, Spring Boot, Python, Flask, APIs RESTful
+- **Ciência de Dados**: Python (Matplotlib, Seaborn, Pandas, Scikit-learn), SQL, Oracle
+- **DevOps**: Microsoft Azure, Docker
 
-📊 **Ciência de Dados**: Análise e visualização com **Python**, utilizando bibliotecas como **Matplotlib**, **Seaborn**, **Pandas** e **Scikit-learn**, além de conhecimentos em bancos de dados **Oracle** e **MySQL**
+### 📈 Experiência:
 
-### 🔧 Conhecimentos Adicionais
+Colaborei em projetos para **Salesforce**, **Hapvida** e **NotreDame Intermédica**, aplicando **Scrum** e gestão de equipe com **Trello**, garantindo entregas dentro do prazo e alta qualidade.
 
-- UX/UI Design com **Figma** para prototipação de alta qualidade
-- Animações avançadas web 3D com **Framer Motion**
+### 🌍 Idiomas:
+- **Inglês**: Estudo diário para atuar em um mercado global.
 
-🎓 **Educação:**
-- **FIAP** - Análise e Desenvolvimento de Sistemas (em andamento)
-- Cursos adicionais em plataformas como:
-
-  - **Devmedia**: Algoritmos e Desenvolvimento Web, Focado no desenvolvimento de aplicações web, cobrindo desde HTML/CSS /JavaScript e frameworks modernos como React e Next.js.
-  - **Alura**: Python para Machine Learning e Ciência de Dados: Abrange técnicas de machine learning para processamento de dados.
-
-💼 **Experiência e Realizações:**
-
-  Durante o meu tempo na faculdade, tive a chance de trabalhar em **projetos** com meus colegas de equipe, onde juntos desenvolvemos soluções para empresas conhecidas como **Salesforce, Hapvida e NotreDame Intermédica.** Usei o **Trello** para manter meu grupo organizado e garantir que tudo fosse entregue no **prazo**, o que 
-  ajudou bastante no sucesso dos projetos e me fez melhorar minha habilidade de **trabalho em equipe**, além de praticar a metodologia **Scrum**.
-
-🌱 **O que estou aprendendo atualmente:**
-
-- Atualmente, estou me dedicando a aprender mais sobre  **Microsoft Azure** para desenvolver soluções em nuvem escaláveis e seguras, focadas em  **DevOps**.
-- **Desenvolvimento Mobile com Kotlin**: Para desenvolvimento mobile nativo
-- **Inglês**: Dedicando 1 hora por dia para aprimorar minhas habilidades no idioma.
-
-Próximos passos de aprendizagem incluem:
-
-- **Cloud Computing (AWS)**: Aprofundar-me em serviços de nuvem **AWS**.
-
-- **Engenharia de Dados**: Explorar tecnologias Big Data como Hadoop, Spark e Airflow para desenvolver pipelines de dados robustos e escaláveis. Além de SAS para análise avançada de dados.
- 
-- **Spring Framework**: Aprofundar-me neste poderoso framework para Java, visando o desenvolvimento de aplicações empresariais robustas e escaláveis.
   </p>
 </details>
 
