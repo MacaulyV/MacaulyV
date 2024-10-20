@@ -31,8 +31,6 @@
 
 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** na **FIAP**, (2º Ano)
 
-
-
 <br>
 <div>
 <h2> ✉️  Contato</h2>
@@ -87,7 +85,7 @@ Colaborei em projetos para **Salesforce**, **Hapvida** e **NotreDame Intermédic
 
 ### Frameworks e Bibliotecas:
 ![React](https://img.shields.io/badge/-React-00BFFF?style=for-the-badge&logo=react&logoColor=white&labelColor=00BFFF)
-![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white&labelColor=6DB33F)
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white&labelColor=6DB33F)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=ffffff&labelColor=000000)
 ![Flask](https://img.shields.io/badge/-Flask-FFFFFF?style=for-the-badge&logo=flask&logoColor=black&labelColor=FFFFFF)
 ![ScikitLearn](https://img.shields.io/badge/-Scikit%20Learn-FF8C00?style=for-the-badge&logo=scikit-learn&logoColor=ffffff&labelColor=FF8C00)&nbsp;
