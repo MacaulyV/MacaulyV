@@ -170,4 +170,4 @@ Colaborei em projetos para **Salesforce**, **Hapvida** e **NotreDame Intermédic
 </div>
 
  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5c1bf5&height=120&section=footer"/><br><br>
- <h1 align="center"> ⬇️ Todos os 📁 Projetos Abaixo</h1>
+ <h1 align="center"> 📁 Todos os Projetos Abaixo ⬇️</h1>
