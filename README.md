@@ -24,7 +24,7 @@
 
 ☁️ Tenho experiência com **Microsoft Azure** e **Docker**, com foco em **Arquitetura** e **Deploy** de soluções em nuvem
 
-🎯 Interessado por áreas de **Machine Learning**, **Ciência de Dados** e **Desenvolvimento Front-End**
+🎯 Interessado em **Machine Learning**, **Ciência de Dados** e **Desenvolvimento Full Stack** (Front-end e Back-end Web).
 
 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** na **FIAP**, **(2º Ano)**
 
@@ -55,8 +55,11 @@ Desenvolvedor Full Stack com forte base em front-end, back-end e ciência de dad
 ### 🚀 Habilidades Técnicas:
 
 - **Front-end**: React, Next.js, TypeScript, JavaScript, Bootstrap, UI/UX Design (Figma)
-- **Back-end**: Java, Spring Boot, Python, Flask, APIs RESTful
-- **Ciência de Dados**: Python (Matplotlib, Seaborn, Pandas, Scikit-learn), SQL, Oracle
+
+- **Back-end**: Java, Spring Boot, Python, Flask, APIs RESTful e integração de APIs externas.
+
+- **Ciência de Dados**: Python (Matplotlib, Seaborn, Pandas, Scikit-learn), SQL, Oracle, MySQL
+
 - **DevOps**: Microsoft Azure, Docker
 
 ### 📈 Experiência:
