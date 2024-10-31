@@ -24,7 +24,7 @@
 
 ☁️ Tenho experiência com **Microsoft Azure** e **Docker**, com foco em **Arquitetura** e **Deploy** de soluções em nuvem
 
-🎯 Interessado em **Machine Learning**, **Ciência de Dados** e **Desenvolvimento Full Stack** (Front-end e Back-end Web).
+🎯 Interessado em **Machine Learning**, **Ciência de Dados** e **Desenvolvimento Full Stack** (Front-end e Back-end).
 
 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** na **FIAP**, **(2º Ano)**
 
@@ -103,6 +103,7 @@ Tive a oportunidade de colaborar em projetos para empresas como Salesforce, Hapv
 
  ### Outros Conhecimentos:
 ![ORACLE](https://img.shields.io/badge/-ORACLE-FF0000?style=for-the-badge&logo=ORACLE&logoColor=white&labelColor=FF0000)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white&labelColor=4479A1)
 ![Figma](https://img.shields.io/badge/-Figma-8A2BE2?style=for-the-badge&logo=figma&logoColor=FFFFFF&labelColor=8A2BE2)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=7952B3)
 ![HTML5](https://img.shields.io/badge/-HTML5-FF6347?style=for-the-badge&logo=html5&logoColor=white&labelColor=FF6347)
