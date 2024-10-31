@@ -24,7 +24,7 @@
 
 ☁️ Tenho experiência com **Microsoft Azure** e **Docker**, com foco em **Arquitetura** e **Deploy** de soluções em nuvem
 
-🎯 Interessado em áreas de **Machine Learning**, **Ciência de Dados** e **Desenvolvimento Front-End**
+🎯 Interessado por áreas de **Machine Learning**, **Ciência de Dados** e **Desenvolvimento Front-End**
 
 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** na **FIAP**, **(2º Ano)**
 
@@ -50,7 +50,7 @@
 
 ### 👨‍💻 Desenvolvedor Full Stack
 
-Desenvolvedor Full Stack com sólida base em front-end, back-end e ciência de dados. Experiência em desenvolvimento de software e gestão de projetos.
+Desenvolvedor Full Stack com forte base em front-end, back-end e ciência de dados, Experiência sólida em desenvolvimento de software e gestão de projetos.
 
 ### 🚀 Habilidades Técnicas:
 
@@ -61,10 +61,10 @@ Desenvolvedor Full Stack com sólida base em front-end, back-end e ciência de d
 
 ### 📈 Experiência:
 
-Colaborei em projetos para **Salesforce**, **Hapvida** e **NotreDame Intermédica**, aplicando **Scrum** e gestão de equipe com **Trello**, garantindo entregas dentro do prazo e alta qualidade.
+Tive a oportunidade de colaborar em projetos para empresas como Salesforce, Hapvida e NotreDame Intermédica, onde trabalhei tanto no desenvolvimento técnico das entregas quanto na gestão de equipe. Utilizei o Trello para organizar tarefas e promover o trabalho colaborativo, sempre focado em cumprir prazos e manter a qualidade do produto final.
 
 ### 🌍 Idiomas:
-- **Inglês**: Estudo diário para atuar em um mercado global.
+- **Inglês**: Intermediário (nível B1), com aprendizado contínuo diário.
 
   </p>
 </details>
