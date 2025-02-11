@@ -94,7 +94,6 @@ Tive a oportunidade de colaborar em projetos para empresas como Salesforce, Hapv
 ![Seaborn](https://img.shields.io/badge/-Seaborn-483D8B?style=for-the-badge&logo=python&logoColor=white&labelColor=483D8B)
 
 ### Ferramentas:
-# Meu Projeto
 
 [![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=ffffff)](https://code.visualstudio.com/)
 [![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=ffffff)](https://visualstudio.microsoft.com/)
