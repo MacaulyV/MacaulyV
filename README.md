@@ -18,23 +18,25 @@
 
 <div align="center" > 
 
-<details open>
+<details>
   <summary align="center"><h1>🧑‍💻 Sobre Mim</h1></summary>
+  <p>
 
-  <br>
+<br>
 
-  - 💻 **Desenvolvedor Full Stack**, com experiência prática no desenvolvimento de **aplicações web, integração de APIs e ciência de dados**.
-  
-  - 🚀 Trabalho com **React, TypeScript, Java (Spring Boot) e Python**, criando **soluções escaláveis e eficientes** para web e back-end.
-  
-  - ☁️ Experiência com **Microsoft Azure** e **Docker**, focado em **arquitetura, deploy e escalabilidade de aplicações na nuvem**.
-  
-  - 🎯 Interesse em **Machine Learning**, **Ciência de Dados** e **Desenvolvimento Full Stack** (Front-end e Back-end).
-  
-  - 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** na **FIAP (2º Ano)**, sempre buscando aprender e explorar novas tecnologias.
-  
-  - 📌 Já desenvolvi soluções para **Salesforce, Hapvida e NotreDame Intermédica**, além de criar a **ElectriXDrive Platform**, uma ferramenta para comparar veículos elétricos e a combustão.
+💻 **Desenvolvedor Full Stack**, com experiência prática no desenvolvimento de **aplicações web, integração de APIs e ciência de dados**.
 
+🚀 Trabalho com **React, TypeScript, Java (Spring Boot) e Python**, criando **soluções escaláveis e eficientes** para web e back-end.
+
+☁️ Experiência com **Microsoft Azure** e **Docker**, focado em **arquitetura, deploy e escalabilidade de aplicações na nuvem**.
+
+🎯 Interesse em **Machine Learning**, **Ciência de Dados** e **Desenvolvimento Full Stack** (Front-end e Back-end).
+
+🎓 Estudante de **Análise e Desenvolvimento de Sistemas** na **FIAP (2º Ano)**, sempre buscando aprender e explorar novas tecnologias.
+
+📌 Já desenvolvi soluções para **Salesforce, Hapvida e NotreDame Intermédica**, além de criar a **ElectriXDrive Platform**, uma ferramenta para comparar veículos elétricos e a combustão.
+
+  </p>
 </details>
 
 
