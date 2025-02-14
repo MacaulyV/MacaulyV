@@ -71,11 +71,13 @@
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-4682B4?style=for-the-badge&logo=python&logoColor=white&labelColor=4682B4)
 ![Seaborn](https://img.shields.io/badge/-Seaborn-483D8B?style=for-the-badge&logo=python&logoColor=white&labelColor=483D8B)
 
-### Ferramentas:
+### IDEs & Ferramentas
 
 [![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=ffffff)](https://code.visualstudio.com/)
 [![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=ffffff)](https://visualstudio.microsoft.com/)
 ![PyCharm](https://img.shields.io/badge/-PyCharm-32CD32?style=for-the-badge&logo=pycharm&logoColor=ffffff)
+![Rider](https://img.shields.io/badge/-Rider-000000?style=for-the-badge&logo=rider&logoColor=EC4C8A&labelColor=000000)
+![WebStorm](https://img.shields.io/badge/-WebStorm-00C4FF?style=for-the-badge&logo=webstorm&logoColor=ffffff&labelColor=00C4FF)
 ![Git](https://img.shields.io/badge/-Git-FF6347?style=for-the-badge&logo=git&logoColor=ffffff&labelColor=FF6347)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=github&labelColor=000000)&nbsp;
 ![IntelliJ](https://img.shields.io/badge/-IntelliJ%20IDEA-5c1bf5?style=for-the-badge&logo=intellij-idea&labelColor=5c1bf5)
