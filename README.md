@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2,DA70D6,EE82EE&height=120&section=header"/>
+<img width="100%" src="https://camo.githubusercontent.com/e9290293f9cd2218d168ab672dfdda2fc65f0859e85699da084e4e679cdac8ce/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d303a3238323861302c35303a4646303046462c3130303a323832386130266865696768743d3134302673656374696f6e3d686561646572" data-canonical-src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:2828a0,50:FF00FF,100:2828a0&amp;height=140&amp;section=header" style="max-width: 100%;">
 
 <br>
 
