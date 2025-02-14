@@ -19,10 +19,9 @@
 <div align="center">
 
  <details>
-  <summary align="center"><h2>👀 Mais sobre mim</h2></summary>
+  <summary align="center"><h1>🧑‍💻 Sobre Mim</h1></summary>
   <p>
 
-# 🧑‍💻 Sobre Mim
 <br>
 
 💻 Sólidos conhecimentos em **Desenvolvimento Full Stack** e **Ciência de Dados**
