@@ -23,29 +23,25 @@
 
   <br>
 
-  <div align="left" > 
+  <div align="left"> 
 
   ## 💻 Desenvolvedor Full Stack  
-  Experiência prática no desenvolvimento de **aplicações web, integração de APIs e ciência de dados**.  
-  Trabalho com **React, TypeScript, Java (Spring Boot) e Python**, criando **soluções escaláveis e eficientes** para web e back-end.
-
-  ## ☁️ Cloud & DevOps  
-  Experiência com **Microsoft Azure** e **Docker**, focado em **arquitetura, deploy e escalabilidade** de aplicações na nuvem.
+  Tenho experiência no desenvolvimento de **aplicações web, criação e integração de APIs e ciência de dados**, atuando com **React, TypeScript, Java (Spring Boot), Python e C# (.NET)** para construir **soluções escaláveis e seguras**.
+  Também possuo conhecimento em **Microsoft Azure e Docker**, com foco em **arquitetura e deploy de aplicações na nuvem**.  
 
   ## 🎯 Áreas de Interesse  
-   **Machine Learning** & **Ciência de Dados** 📊  
-   **Desenvolvimento Full Stack** (Front-end & Back-end) 💻  
-   **Soluções escaláveis e segurança de software** 🔐  
+  - **Machine Learning & Ciência de Dados** 📊  
+  - **Desenvolvimento Full Stack (Front-end & Back-end)** 💻  
+  - **Design e Experiência do Usuário** 🎨  
 
   ## 🎓 Formação  
   📚 Estudante de **Análise e Desenvolvimento de Sistemas** na **FIAP (2º Ano)**.  
-  Sempre em busca de aprendizado contínuo e novas tecnologias.
 
-  ## 🚀 Projetos & Experiência  
-   **Salesforce, Hapvida e NotreDame Intermédica** → Desenvolvimento de soluções digitais.  
-   **ElectriXDrive Platform** → Plataforma para comparar veículos elétricos e a combustão.  
+  ## 🚀 Projetos Acadêmicos & Experiência   
+  - **Salesforce, Hapvida e NotreDame Intermédica** → Desenvolvimento de um **portal acessível** para **Salesforce**, garantindo inclusão e usabilidade. Além disso, criei uma **solução independente** um **sistema de monitoramento de sintomas**, projetado para atender às necessidades de pacientes focando na otimização do atendimento e gestão de saúde. 
+  - **ElectriXDrive Platform** → Criação de uma **plataforma comparativa** para veículos elétricos e a combustão, auxiliando usuários na **tomada de decisão** sobre mobilidade sustentável, com análise de consumo energético e impacto ambiental.  
 
-</div>
+  </div>
 </details>
 
 <br>
