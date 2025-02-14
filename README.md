@@ -6,8 +6,8 @@
 <h2 align="center">⚡ Estatísticas ⚡</h2>
 
 <div align="center">  
-  <img width="55%" height="250px" src="https://github-readme-stats.vercel.app/api?username=MacaulyV&show_icons=true&include_all_commits=true&count_private=true&layout=compact&hide_border=true&title_color=FFB347&text_color=00BFFF&bg_color=0d1117" /> 
-  <img width="40%" height="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MacaulyV&layout=compact&hide_border=true&title_color=FFB347&text_color=00BFFF&bg_color=0d1117" />
+  <img width="50%" height="250px" src="https://github-readme-stats.vercel.app/api?username=MacaulyV&show_icons=true&include_all_commits=true&count_private=true&layout=compact&hide_border=true&title_color=FFB347&text_color=00BFFF&bg_color=0d1117" /> 
+  <img width="50%" height="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MacaulyV&layout=compact&hide_border=true&title_color=FFB347&text_color=00BFFF&bg_color=0d1117" />
 </div>
 
 <div align="center" > 
