@@ -19,7 +19,7 @@
 <div align="center" > 
 
 <details>
-  <summary align="left"><h1>🧑‍💻 Sobre Mim</h1></summary>
+  <summary align="center"><h2>🧑‍💻 Sobre Mim</h2></summary>
   <p align="left">
 
 💻 **Desenvolvedor Full Stack**, com experiência prática no desenvolvimento de **aplicações web, integração de APIs e ciência de dados**.
@@ -53,6 +53,7 @@
 </p>
 
 </div>
+<br>
 
 <h2 align="center"> 🛠️ Todas as Tecnologias e Ferramentas </h2>
 
