@@ -77,7 +77,7 @@
 
 [![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=ffffff)](https://code.visualstudio.com/)
 [![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=ffffff)](https://visualstudio.microsoft.com/)
-![PyCharm](https://img.shields.io/badge/-PyCharm-32CD32?style=for-the-badge&logo=pycharm&logoColor=1d1d1d)
+![PyCharm](https://img.shields.io/badge/-PyCharm-1d1d1d?style=for-the-badge&logo=pycharm&logoColor=ffffff&labelColor=1d1d1d)
 ![JetBrains Rider](https://img.shields.io/badge/-Rider-000000?style=for-the-badge&logo=jetbrains&logoColor=EC4C8A&labelColor=000000)
 ![JetBrains WebStorm](https://img.shields.io/badge/-WebStorm-00C4FF?style=for-the-badge&logo=jetbrains&logoColor=ffffff&labelColor=00C4FF)
 ![Git](https://img.shields.io/badge/-Git-FF6347?style=for-the-badge&logo=git&logoColor=ffffff&labelColor=FF6347)&nbsp;
