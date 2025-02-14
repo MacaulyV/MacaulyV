@@ -64,6 +64,8 @@
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white&labelColor=6DB33F)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=ffffff&labelColor=000000)
 ![Flask](https://img.shields.io/badge/-Flask-FFFFFF?style=for-the-badge&logo=flask&logoColor=black&labelColor=FFFFFF)
+![ASP.NET Core](https://img.shields.io/badge/-ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=ffffff&labelColor=512BD4)
+![ASP.NET MVC](https://img.shields.io/badge/-ASP.NET%20MVC-68217A?style=for-the-badge&logo=dotnet&logoColor=ffffff&labelColor=68217A)
 ![ScikitLearn](https://img.shields.io/badge/-Scikit%20Learn-FF8C00?style=for-the-badge&logo=scikit-learn&logoColor=ffffff&labelColor=FF8C00)&nbsp;
 ![Pandas](https://img.shields.io/badge/-Pandas-191970?style=for-the-badge&logo=pandas&logoColor=white&labelColor=191970)
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-4682B4?style=for-the-badge&logo=python&logoColor=white&labelColor=4682B4)
