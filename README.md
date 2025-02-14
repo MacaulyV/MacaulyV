@@ -87,7 +87,7 @@
 
  ### Outros Conhecimentos:
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=ffffff&labelColor=2496ED)
-![Microsoft Azure](https://img.shields.io/badge/-Microsoft%20Azure-0078
+![Microsoft Azure](https://img.shields.io/badge/-Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=ffffff&labelColor=0078D4)
 ![ORACLE](https://img.shields.io/badge/-ORACLE-FF0000?style=for-the-badge&logo=ORACLE&logoColor=white&labelColor=FF0000)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white&labelColor=4479A1)
 ![Figma](https://img.shields.io/badge/-Figma-8A2BE2?style=for-the-badge&logo=figma&logoColor=FFFFFF&labelColor=8A2BE2)
