@@ -156,5 +156,5 @@
 <p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FMacaulyV&s=40&c=00FF7F&bg=00000000&no=5&ff=serif&tb=Visitas%3A++&ta=" /></p> 
 </div>
 
- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5c1bf5&height=120&section=footer"/><br><br>
+ <img width=120% src="https://capsule-render.vercel.app/api?type=waving&color=0:2828a0,50:0f168c,100:2828a0&height=140&section=footer"/><br><br>
  <h1 align="center"> 📁 Todos os Projetos Abaixo ⬇️</h1>
