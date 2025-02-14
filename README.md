@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2828a0,50:230864,100:2828a0&height=140&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2828a0,50:050026,100:2828a0&height=140&section=header"/>
 <br>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF8C00&size=40&center=true&vCenter=true&width=1000&lines=Olá,+Meu+Nome+é+Macauly👋+;Eu+Sou+um+Dev+Full+Stack;Seja+Bem+Vindo!+:%29)](https://git.io/typing-svg)<br>
@@ -6,7 +6,7 @@
 <h2 align="center">⚡ Estatísticas ⚡</h2>
 
 <div align="center">  
-  <img width="53%" height="195px" src="https://github-readme-stats.vercel.app/api?username=MacaulyV&show_icons=true&include_all_commits=true&count_private=true&layout=compact&hide_border=true&border_radius=15&title_color=FFB347&text_color=00BFFF&bg_color=030020" /> 
+  <img width="53%" height="195px" src="https://github-readme-stats.vercel.app/api?username=MacaulyV&show_icons=true&include_all_commits=true&count_private=true&layout=compact&hide_border=true&border_radius=15&title_color=FFB347&text_color=00BFFF&bg_color=050026" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MacaulyV&layout=compact&hide_border=true&border_radius=15&title_color=FFB347&text_color=00BFFF&bg_color=050026" />
 </div>
 
