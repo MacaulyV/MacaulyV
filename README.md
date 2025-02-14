@@ -23,6 +23,8 @@
 
   <br>
 
+  <div align="left" > 
+
   ## 💻 Desenvolvedor Full Stack  
   Experiência prática no desenvolvimento de **aplicações web, integração de APIs e ciência de dados**.  
   Trabalho com **React, TypeScript, Java (Spring Boot) e Python**, criando **soluções escaláveis e eficientes** para web e back-end.
@@ -43,6 +45,7 @@
    **Salesforce, Hapvida e NotreDame Intermédica** → Desenvolvimento de soluções digitais.  
    **ElectriXDrive Platform** → Plataforma para comparar veículos elétricos e a combustão.  
 
+</div>
 </details>
 
 <br>
