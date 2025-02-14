@@ -19,7 +19,7 @@
 <div align="center" > 
 
 <details open>
-  <summary align="center"><h1>🧑‍💻 Sobre Mim</h1></summary>
+  <summary align="left"><h1>🧑‍💻 Sobre Mim</h1></summary>
 
   <br>
 
