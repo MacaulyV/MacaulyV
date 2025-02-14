@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2828a0,50:0f168c,100:2828a0&height=140&section=header"/>
+<img width="120%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2828a0,50:0f168c,100:2828a0&height=140&section=header"/>
 <br>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF8C00&size=40&center=true&vCenter=true&width=1000&lines=Olá,+Meu+Nome+é+Macauly👋+;Eu+Sou+um+Dev+Full+Stack;Seja+Bem+Vindo!+:%29)](https://git.io/typing-svg)<br>
@@ -18,19 +18,23 @@
 
 <div align="center">
 
- <details>
+<details>
   <summary align="center"><h1>🧑‍💻 Sobre Mim</h1></summary>
   <p>
 
 <br>
 
-💻 Sólidos conhecimentos em **Desenvolvimento Full Stack** e **Ciência de Dados**
+💻 **Desenvolvedor Full Stack**, com experiência prática no desenvolvimento de **aplicações web, integração de APIs e ciência de dados**.
 
-☁️ Tenho experiência com **Microsoft Azure** e **Docker**, com foco em **Arquitetura** e **Deploy** de soluções em nuvem
+🚀 Trabalho com **React, TypeScript, Java (Spring Boot) e Python**, criando **soluções escaláveis e eficientes** para web e back-end.
 
-🎯 Interessado em **Machine Learning**, **Ciência de Dados** e **Desenvolvimento Full Stack** (Front-end e Back-end).
+☁️ Experiência com **Microsoft Azure** e **Docker**, focado em **arquitetura, deploy e escalabilidade de aplicações na nuvem**.
 
-🎓 Estudante de **Análise e Desenvolvimento de Sistemas** na **FIAP**, **(2º Ano)**
+🎯 Interesse em **Machine Learning**, **Ciência de Dados** e **Desenvolvimento Full Stack** (Front-end e Back-end).
+
+🎓 Estudante de **Análise e Desenvolvimento de Sistemas** na **FIAP (2º Ano)**, sempre buscando aprender e explorar novas tecnologias.
+
+📌 Já desenvolvi soluções para **Salesforce, Hapvida e NotreDame Intermédica**, além de criar a **ElectriXDrive Platform**, uma ferramenta para comparar veículos elétricos e a combustão.
 
   </p>
 </details>
