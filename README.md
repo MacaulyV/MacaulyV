@@ -21,32 +21,24 @@
 <details open>
   <summary align="center"><h2>🧑‍💻 Sobre Mim</h2></summary>
 
-  <br>
 
-  <div align="left" > 
 
-  ## 💻 Desenvolvedor Full Stack  
-  Experiência prática no desenvolvimento de **aplicações web, integração de APIs e ciência de dados**.  
-  Trabalho com **React, TypeScript, Java (Spring Boot) e Python**, criando **soluções escaláveis e eficientes** para web e back-end.
+  <div align="left"> 
 
-  ## ☁️ Cloud & DevOps  
-  Experiência com **Microsoft Azure** e **Docker**, focado em **arquitetura, deploy e escalabilidade** de aplicações na nuvem.
+  💻 **Desenvolvedor Full Stack**, com experiência prática no desenvolvimento de **aplicações web, integração de APIs e ciência de dados**.  
+  Trabalho com **React, TypeScript, Java (Spring Boot) e Python**, criando **soluções escaláveis e eficientes** para web e back-end.  
+  Também tenho experiência com **Microsoft Azure** e **Docker**, focado em **arquitetura, deploy e escalabilidade** de aplicações na nuvem.
 
-  ## 🎯 Áreas de Interesse  
-   **Machine Learning** & **Ciência de Dados** 📊  
-   **Desenvolvimento Full Stack** (Front-end & Back-end) 💻  
-   **Soluções escaláveis e segurança de software** 🔐  
+  🎯 Tenho interesse em **Machine Learning**, **Ciência de Dados**, **Soluções escaláveis** e **segurança de software**.  
+  Atualmente, sou estudante de **Análise e Desenvolvimento de Sistemas** na **FIAP (2º Ano)**, sempre buscando aprimorar minhas habilidades e explorar novas tecnologias.
 
-  ## 🎓 Formação  
-  📚 Estudante de **Análise e Desenvolvimento de Sistemas** na **FIAP (2º Ano)**.  
-  Sempre em busca de aprendizado contínuo e novas tecnologias.
+  🚀 **Projetos & Experiência**:  
+  - **Salesforce, Hapvida e NotreDame Intermédica** → Desenvolvimento de soluções digitais.  
+  - **ElectriXDrive Platform** → Plataforma para comparar veículos elétricos e a combustão.  
 
-  ## 🚀 Projetos & Experiência  
-   **Salesforce, Hapvida e NotreDame Intermédica** → Desenvolvimento de soluções digitais.  
-   **ElectriXDrive Platform** → Plataforma para comparar veículos elétricos e a combustão.  
-
-</div>
+  </div>
 </details>
+
 
 <br>
 <div>
