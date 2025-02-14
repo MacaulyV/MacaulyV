@@ -52,12 +52,12 @@
 <h2 align="center"> 🛠️ Todas as Tecnologias e Ferramentas </h2>
 
 ### Principais linguagens:
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=ffffff&labelColor=3776AB)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=ffffff&labelColor=3178C6)
-![Javascript](https://img.shields.io/badge/-Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=000000&labelColor=F7DF1E)
-![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=openjdk&logoColor=ffffff&labelColor=007396)
-![C#](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=csharp&logoColor=ffffff&labelColor=239120)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=ffffff&labelColor=4479A1)
+![Python](https://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=python&logoColor=ffffff&labelColor=000000)
+![TypeScript](https://img.shields.io/badge/-TypeScript-1E90FF?style=for-the-badge&logo=typescript&logoColor=ffffff&labelColor=1E90FF)
+![Javascript](https://img.shields.io/badge/-Javascript-FFD700?style=for-the-badge&logo=Javascript&logoColor=000000&labelColor=FFD700)
+![Java](https://img.shields.io/badge/-Java-1C1C1C?style=for-the-badge&logo=coffeescript&logoColor=FF4500&labelColor=1C1C1C)
+![C#](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=csharp&logoColor=ffffff&labelColor=31047b)
+![SQL](https://img.shields.io/badge/-SQL-FFFFFF?style=for-the-badge&logo=mysql&logoColor=000000&labelColor=FFFFFF)
 
 ### Frameworks e Bibliotecas:
 ![React](https://img.shields.io/badge/-React-00BFFF?style=for-the-badge&logo=react&logoColor=white&labelColor=00BFFF)
