@@ -16,6 +16,8 @@
 ![Ashutosh's github activity graph](https://ssr-contributions-svg.vercel.app/_/MacaulyV??chart=3dbar&gap=0.6&scale=6&flatten=2&animation=wave&animation_duration=1&animation_delay=0.05&animation_amplitude=20&animation_frequency=0.5&animation_wave_center=10_0&format=svg&weeks=30&theme=purple&empty_color=222222)
 </div>
 
+<div align="center" > 
+
 <details>
   <summary align="center"><h1>🧑‍💻 Sobre Mim</h1></summary>
   <p align="left">
@@ -51,36 +53,6 @@
 </p>
 
 </div>
-
- <details>
-  <summary align="center"><h2>👀 Mais sobre mim</h2></summary>
-  <p>
-
-### 👨‍💻 Desenvolvedor Full Stack
-
-Desenvolvedor Full Stack com forte base em front-end, back-end e ciência de dados, Experiência sólida em desenvolvimento de software e gestão de projetos.
-
-### 🚀 Habilidades Técnicas:
-
-- **Front-end**: React, Next.js, TypeScript, JavaScript, Bootstrap, UI/UX Design (Figma)
-
-- **Back-end**: Java, Spring Boot, Python, Flask, APIs RESTful e integração de APIs externas.
-
-- **Ciência de Dados**: Python (Matplotlib, Seaborn, Pandas, Scikit-learn), SQL, Oracle, MySQL
-
-- **DevOps**: Microsoft Azure, Docker
-
-### 📈 Experiência:
-
-Tive a oportunidade de colaborar em projetos para empresas como Salesforce, Hapvida e NotreDame Intermédica, onde trabalhei tanto no desenvolvimento técnico das entregas quanto na gestão de equipe. Utilizei o Trello para organizar tarefas e promover o trabalho colaborativo, sempre focado em cumprir prazos e manter a qualidade do produto final.
-
-### 🌍 Idiomas:
-- **Inglês**: Intermediário (nível B1), com aprendizado contínuo diário.
-
-  </p>
-</details>
-
-<br>
 
 <h2 align="center"> 🛠️ Todas as Tecnologias e Ferramentas </h2>
 
