@@ -31,17 +31,17 @@
   Experiência com **Microsoft Azure** e **Docker**, focado em **arquitetura, deploy e escalabilidade** de aplicações na nuvem.
 
   ## 🎯 Áreas de Interesse  
-  - **Machine Learning** & **Ciência de Dados** 📊  
-  - **Desenvolvimento Full Stack** (Front-end & Back-end) 💻  
-  - **Soluções escaláveis e segurança de software** 🔐  
+   **Machine Learning** & **Ciência de Dados** 📊  
+   **Desenvolvimento Full Stack** (Front-end & Back-end) 💻  
+   **Soluções escaláveis e segurança de software** 🔐  
 
   ## 🎓 Formação  
   📚 Estudante de **Análise e Desenvolvimento de Sistemas** na **FIAP (2º Ano)**.  
   Sempre em busca de aprendizado contínuo e novas tecnologias.
 
   ## 🚀 Projetos & Experiência  
-  - **Salesforce, Hapvida e NotreDame Intermédica** → Desenvolvimento de soluções digitais.  
-  - **ElectriXDrive Platform** → Plataforma para comparar veículos elétricos e a combustão.  
+   **Salesforce, Hapvida e NotreDame Intermédica** → Desenvolvimento de soluções digitais.  
+   **ElectriXDrive Platform** → Plataforma para comparar veículos elétricos e a combustão.  
 
 </details>
 
