@@ -56,7 +56,7 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-1E90FF?style=for-the-badge&logo=typescript&logoColor=ffffff&labelColor=1E90FF)
 ![Javascript](https://img.shields.io/badge/-Javascript-FFD700?style=for-the-badge&logo=Javascript&logoColor=000000&labelColor=FFD700)
 ![Java](https://img.shields.io/badge/-Java-1C1C1C?style=for-the-badge&logo=coffeescript&logoColor=FF4500&labelColor=1C1C1C)
-![C#](https://img.shields.io/badge/-C#-1C1C1C?style=for-the-badge&logo=coffeescript&logoColor=FF4500&labelColor=31047b)
+![C#](https://img.shields.io/badge/-C%23-31047b?style=for-the-badge&logo=csharp&logoColor=ffffff&labelColor=31047b)
 ![SQL](https://img.shields.io/badge/-SQL-FFFFFF?style=for-the-badge&logo=mysql&logoColor=000000&labelColor=FFFFFF)
 
 ### Frameworks e Bibliotecas:
