@@ -63,6 +63,8 @@
 ![React](https://img.shields.io/badge/-React-00BFFF?style=for-the-badge&logo=react&logoColor=white&labelColor=00BFFF)
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white&labelColor=6DB33F)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=ffffff&labelColor=000000)
+![Node.js](https://img.shields.io/badge/-Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=ffffff&labelColor=43853D)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=ffffff&labelColor=38BDF8)
 ![Flask](https://img.shields.io/badge/-Flask-FFFFFF?style=for-the-badge&logo=flask&logoColor=black&labelColor=FFFFFF)
 ![ASP.NET Core](https://img.shields.io/badge/-ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=ffffff&labelColor=512BD4)
 ![ASP.NET MVC](https://img.shields.io/badge/-ASP.NET%20MVC-68217A?style=for-the-badge&logo=dotnet&logoColor=ffffff&labelColor=68217A)
