@@ -89,24 +89,20 @@
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=ffffff&labelColor=2496ED)
 ![Microsoft Azure](https://img.shields.io/badge/-Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=ffffff&labelColor=0078D4)
 ![ORACLE](https://img.shields.io/badge/-ORACLE-FF0000?style=for-the-badge&logo=ORACLE&logoColor=white&labelColor=FF0000)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white&labelColor=4479A1)
 ![Figma](https://img.shields.io/badge/-Figma-8A2BE2?style=for-the-badge&logo=figma&logoColor=FFFFFF&labelColor=8A2BE2)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=7952B3)
 ![HTML5](https://img.shields.io/badge/-HTML5-FF6347?style=for-the-badge&logo=html5&logoColor=white&labelColor=FF6347)
 ![CSS3](https://img.shields.io/badge/-CSS3-00BFFF?style=for-the-badge&logo=css3&logoColor=white&labelColor=00BFFF)
 
 
-  <div align="center" > 
+<div align="center" > 
 <br>
     
 ![Ashutosh's github activity graph](https://ssr-contributions-svg.vercel.app/_/MacaulyV??chart=3dbar&gap=0.6&scale=6&flatten=2&animation=wave&animation_duration=1&animation_delay=0.05&animation_amplitude=20&animation_frequency=0.5&animation_wave_center=10_0&format=svg&weeks=30&theme=purple&dark=true&empty_color=222222)    
 </div>
 <br>
 
-<div align="center">
-<br>
-<p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FMacaulyV&s=40&c=00FF7F&bg=00000000&no=5&ff=serif&tb=Visitas%3A++&ta=" /></p> 
-</div>
+
 
  <img width=120% src="https://capsule-render.vercel.app/api?type=waving&color=0:2828a0,50:0f168c,100:2828a0&height=140&section=footer"/><br><br>
  <h1 align="center"> 📁 Todos os Projetos Abaixo ⬇️</h1>
