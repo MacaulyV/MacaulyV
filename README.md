@@ -18,6 +18,10 @@
 
 <div align="center">
 
+ <details>
+  <summary align="center"><h2>👀 Mais sobre mim</h2></summary>
+  <p>
+
 # 🧑‍💻 Sobre Mim
 <br>
 
@@ -28,6 +32,9 @@
 🎯 Interessado em **Machine Learning**, **Ciência de Dados** e **Desenvolvimento Full Stack** (Front-end e Back-end).
 
 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** na **FIAP**, **(2º Ano)**
+
+  </p>
+</details>
 
 <br>
 <div>
