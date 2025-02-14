@@ -13,32 +13,37 @@
 
 <div align="center" > 
   
-![Ashutosh's github activity graph](https://ssr-contributions-svg.vercel.app/_/MacaulyV??chart=3dbar&gap=0.6&scale=6&flatten=2&animation=wave&animation_duration=1&animation_delay=0.05&animation_amplitude=20&animation_frequency=0.5&animation_wave_center=10_0&format=svg&weeks=30&theme=purple&dark=true&empty_color=222222)    
+![Ashutosh's github activity graph](https://ssr-contributions-svg.vercel.app/_/MacaulyV??chart=3dbar&gap=0.6&scale=6&flatten=2&animation=wave&animation_duration=1&animation_delay=0.05&animation_amplitude=20&animation_frequency=0.5&animation_wave_center=10_0&format=svg&weeks=30&theme=purple&empty_color=222222)
 </div>
 
 <div align="center" > 
 
-<details>
+<details open>
   <summary align="center"><h1>🧑‍💻 Sobre Mim</h1></summary>
-  <p>
 
-<br>
+  <br>
 
-💻 **Desenvolvedor Full Stack**, com experiência prática no desenvolvimento de **aplicações web, integração de APIs e ciência de dados**.
+  ## 💻 Desenvolvedor Full Stack  
+  Experiência prática no desenvolvimento de **aplicações web, integração de APIs e ciência de dados**.  
+  Trabalho com **React, TypeScript, Java (Spring Boot) e Python**, criando **soluções escaláveis e eficientes** para web e back-end.
 
-🚀 Trabalho com **React, TypeScript, Java (Spring Boot) e Python**, criando **soluções escaláveis e eficientes** para web e back-end.
+  ## ☁️ Cloud & DevOps  
+  Experiência com **Microsoft Azure** e **Docker**, focado em **arquitetura, deploy e escalabilidade** de aplicações na nuvem.
 
-☁️ Experiência com **Microsoft Azure** e **Docker**, focado em **arquitetura, deploy e escalabilidade de aplicações na nuvem**.
+  ## 🎯 Áreas de Interesse  
+  - **Machine Learning** & **Ciência de Dados** 📊  
+  - **Desenvolvimento Full Stack** (Front-end & Back-end) 💻  
+  - **Soluções escaláveis e segurança de software** 🔐  
 
-🎯 Interesse em **Machine Learning**, **Ciência de Dados** e **Desenvolvimento Full Stack** (Front-end e Back-end).
+  ## 🎓 Formação  
+  📚 Estudante de **Análise e Desenvolvimento de Sistemas** na **FIAP (2º Ano)**.  
+  Sempre em busca de aprendizado contínuo e novas tecnologias.
 
-🎓 Estudante de **Análise e Desenvolvimento de Sistemas** na **FIAP (2º Ano)**, sempre buscando aprender e explorar novas tecnologias.
+  ## 🚀 Projetos & Experiência  
+  - **Salesforce, Hapvida e NotreDame Intermédica** → Desenvolvimento de soluções digitais.  
+  - **ElectriXDrive Platform** → Plataforma para comparar veículos elétricos e a combustão.  
 
-📌 Já desenvolvi soluções para **Salesforce, Hapvida e NotreDame Intermédica**, além de criar a **ElectriXDrive Platform**, uma ferramenta para comparar veículos elétricos e a combustão.
-
-  </p>
 </details>
-
 
 <br>
 <div>
