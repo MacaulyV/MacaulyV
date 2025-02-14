@@ -92,59 +92,6 @@
 ![Ashutosh's github activity graph](https://ssr-contributions-svg.vercel.app/_/MacaulyV??chart=3dbar&gap=0.6&scale=6&flatten=2&animation=wave&animation_duration=1&animation_delay=0.05&animation_amplitude=20&animation_frequency=0.5&animation_wave_center=10_0&format=svg&weeks=30&theme=purple&dark=true&empty_color=222222)    
 </div>
 
-<h2 align="center"> 📁 Meus Projetos</h2>
-
-<details>
-<summary align="center"><h3> ♿ Portal Salesforce: Acessibilidade</h3></summary><br><br> 
-<div>
-<img align="right" alt="Coding" width="430" height="240" src="https://github.com/user-attachments/assets/f8248ada-a83d-44a6-931c-c9e888f524c2">
-  <div>
-    
-- 🎓 **Projeto Acadêmico**  Desenvolvido para a **Salesforce**<br> durante minha formação na **FIAP**.
-
-- 🎯 **Objetivo:**  Tornar a plataforma da empresa **acessível**<br> de maneira intuitiva para todos os **públicos**.
-
-- 🛠 **Gestão de Projetos:**  Gerenciei meu grupo<br>utilizando **Trello** e a **metodologia Scrum.**
-
-- 📅 **Sprints:**  O projeto foi dividido em **4 sprints**,<br> com duração de **2 meses** cada.
-  
-<h3> - 💻 Usamos as Tecnologias Seguintes</h3>
-  </div>
-<br>
- <img src="https://skillicons.dev/icons?i=react,typescript,css,nextjs,java,nodejs" />
- 
-<h3> 🎯 Aplicabilidade:</h3>
-
-  **No projeto final, desenvolvemos um novo layout para a empresa para testar as novas tecnologias integradas, que incluem:**
- 
-- 🤖 **Chatbot**:  Integração com a **API do ChatGPT**, treinado com informações do layout para auxiliar os usuários em qualquer problema dentro do portal.
-- 🧏 **V-Libras:**  Inclusão de um **plugin V-Libras** do **Gov.br** para auxiliar usuários com problemas de audição a utilizar o portal da empresa.
-- 🔊 **Transcrição de texto em áudio:**  **Adição da API do Google Cloud Speech** ao portal e criação de uma **mini interface** com menu navegável e intuitivo de fácil utilização para auxiliar usuários com problemas visuais a transcrever textos em áudio.
-  
-</div><br>
-</details>
-
-<details>
-<summary align="center"><h3> ☀️ Dashboard Climatica: Weather API</h3></summary> 
-
-<div><br>
-<img align="right" alt="Coding" width="400" height="240" src="https://github.com/user-attachments/assets/fabb312e-ab53-4306-9822-fcacfa70f73e">
-
-- 🔎 **Pesquisa de Cidades:** O usuário pode inserir o nome de<br> uma **cidade** para acessar os **dados climáticos** detalhados.
-
-- 🌍 **Informações Climáticas Globais:**  Permite aos usuários visualizarem informações **climáticas** de qualquer lugar do<br> **mundo,** como **temperatura atual, sensação térmica,<br> umidade do ar e velocidade do vento** além da<br> temperatura máxima e mínima dos **próximos seis dias.**
-
-- 📍 **Geolocalização:** Integração de um botão que, com a<br> permissão do usuário, utiliza **geolocalização** para mostrar a **temperatura atual na região.**
-
-<h3> - 💻 Usamos as Tecnologias Seguintes</h3>
-
-<br>
- <img src="https://skillicons.dev/icons?i=python,flask,nextjs,react,typescript,css" />
-
-</div><br>
-</details>
-<br>
-
 <div align="center">
 <br>
 <p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FMacaulyV&s=40&c=00FF7F&bg=00000000&no=5&ff=serif&tb=Visitas%3A++&ta=" /></p> 
