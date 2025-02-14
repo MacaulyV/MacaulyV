@@ -92,19 +92,6 @@
 
   <div align="center" > 
 <br>
-
-<div>
-<h2> ✉️  Contato</h2>
-</div>
-
-<p align="center">
-  <a href="mailto:macaulyv@gmail.com">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="gmail" height="27" width="40" />
-  </a>
-  <a href="https://www.linkedin.com/in/macauly-vivaldo-da-silva-1a1514277/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-</p>
     
 ![Ashutosh's github activity graph](https://ssr-contributions-svg.vercel.app/_/MacaulyV??chart=3dbar&gap=0.6&scale=6&flatten=2&animation=wave&animation_duration=1&animation_delay=0.05&animation_amplitude=20&animation_frequency=0.5&animation_wave_center=10_0&format=svg&weeks=30&theme=purple&dark=true&empty_color=222222)    
 </div>
