@@ -27,8 +27,8 @@
 
   ## 💻 Desenvolvedor Full Stack  
 
-  Sou um desenvolvedor full stack focado na criação de aplicações bem estruturadas e eficientes. Tenho experiência acadêmica no desenvolvimento de projetos web e back-end, atuando na criação e integração de APIs. Gosto de aprender novas tecnologias e aplicá-las para resolver problemas de forma prática. Também já desenvolvi modelos de **IA/ML**, trabalhei com 
-  **análise de dados** e explorei práticas de **DevOps** em projetos acadêmicos e pessoais.
+  Atuo no desenvolvimento de aplicações bem estruturadas e eficientes, com experiência acadêmica em projetos web e back-end, incluindo a criação e integração de APIs. Gosto de aprender novas tecnologias e aplicá-las para resolver problemas de forma prática. Também já desenvolvi modelos de **IA/ML**, trabalhei com **análise de dados** e explorei práticas de 
+  **DevOps** em projetos acadêmicos e pessoais.
 
 
   ## 🎯 Áreas de Interesse  
@@ -41,7 +41,7 @@
 
   ## 🚀 Projetos Acadêmicos & Experiência   
   - **Salesforce, Hapvida e NotreDame Intermédica** → Desenvolvimento de um **portal acessível** para **Salesforce**, garantindo inclusão e usabilidade. Além disso, criei uma **solução independente** um **sistema de monitoramento de sintomas**, projetado para atender às necessidades de pacientes focando na otimização do atendimento e gestão de saúde. 
-  - **ElectriXDrive Platform** → Criação de uma **plataforma comparativa** para veículos elétricos e a combustão, auxiliando usuários na **tomada de decisão** sobre mobilidade sustentável, com análise de consumo energético e impacto ambiental.  
+  - **OdontoPrev** → Atualmente, estou desenvolvendo um **projeto baseado em IA para otimizar serviços odontológicos**. O foco está na análise inteligente de dados para aprimorar o acompanhamento de pacientes, identificar padrões de uso e auxiliar na prevenção de sinistros odontológicos, melhorando a experiência dos beneficiários.  
 
   </div>
 </details>
