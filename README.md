@@ -30,13 +30,13 @@
   Projetos web e back-end fazem parte do meu foco de desenvolvimento, com experiência acadêmica na criação e integração de APIs. Gosto de aprender novas tecnologias e aplicá-las para resolver problemas de forma prática. Também já desenvolvi modelos de **IA/ML**, trabalhei com **análise de dados** e explorei práticas de **DevOps** em projetos acadêmicos e 
   pessoais.
 
+  ## 🎓 Formação  
+  📚 Estudante de **Análise e Desenvolvimento de Sistemas** na **FIAP (2º Ano)**.  
+
   ## 🎯 Áreas de Interesse  
   - **Machine Learning & Ciência de Dados** 📊  
   - **Desenvolvimento Full Stack (Front-end & Back-end)** 💻  
   - **Design e Experiência do Usuário** 🎨  
-
-  ## 🎓 Formação  
-  📚 Estudante de **Análise e Desenvolvimento de Sistemas** na **FIAP (2º Ano)**.  
 
   ## 🚀 Projetos Acadêmicos & Experiência   
   - **Salesforce, Hapvida e NotreDame Intermédica** → Desenvolvimento de um **portal acessível** para **Salesforce**, garantindo inclusão e usabilidade. Além disso, criei uma **solução independente** um **sistema de monitoramento de sintomas**, projetado para atender às necessidades de pacientes focando na otimização do atendimento e gestão de saúde. 
@@ -94,6 +94,11 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=7952B3)
 ![HTML5](https://img.shields.io/badge/-HTML5-FF6347?style=for-the-badge&logo=html5&logoColor=white&labelColor=FF6347)
 ![CSS3](https://img.shields.io/badge/-CSS3-00BFFF?style=for-the-badge&logo=css3&logoColor=white&labelColor=00BFFF)
+
+### 📖 Estudando neste momento:
+
+![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=white&labelColor=1E1E1E)
+![Microservices](https://img.shields.io/badge/-Microservices-FF4500?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=FF4500)
 
 
 <div align="center" > 
