@@ -26,8 +26,10 @@
   <div align="left"> 
 
   ## 💻 Desenvolvedor Full Stack  
-  Tenho experiência no desenvolvimento de **aplicações web, criação e integração de APIs e ciência de dados**, atuando com **React, TypeScript, Java (Spring Boot), Python e C# (.NET)** para construir **soluções escaláveis e seguras**.
-  Também possuo conhecimento em **Microsoft Azure e Docker**, com foco em **arquitetura e deploy de aplicações na nuvem**.  
+
+  Sou um desenvolvedor full stack focado na criação de aplicações bem estruturadas e eficientes. Tenho experiência acadêmica no desenvolvimento de projetos web e back-end, atuando na criação e integração de APIs. Gosto de aprender novas tecnologias e aplicá-las para resolver problemas de forma prática. Também já desenvolvi modelos de **IA/ML**, trabalhei com 
+  **análise de dados** e explorei práticas de **DevOps** em projetos acadêmicos e pessoais.
+
 
   ## 🎯 Áreas de Interesse  
   - **Machine Learning & Ciência de Dados** 📊  
