@@ -52,7 +52,7 @@
 
 <h2 align="center"> 🛠️ Todas as Tecnologias e Ferramentas </h2>
 
-### Principais linguagens:
+### 🖥️ Principais linguagens:
 ![Python](https://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=python&logoColor=ffffff&labelColor=000000)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-1E90FF?style=for-the-badge&logo=typescript&logoColor=ffffff&labelColor=1E90FF)
 ![Javascript](https://img.shields.io/badge/-Javascript-FFD700?style=for-the-badge&logo=Javascript&logoColor=000000&labelColor=FFD700)
@@ -60,7 +60,7 @@
 ![C#](https://img.shields.io/badge/-C%23-31047b?style=for-the-badge&logo=csharp&logoColor=ffffff&labelColor=31047b)
 ![SQL](https://img.shields.io/badge/-SQL-FFFFFF?style=for-the-badge&logo=mysql&logoColor=000000&labelColor=FFFFFF)
 
-### Frameworks e Bibliotecas:
+### 📚 Frameworks e Bibliotecas:
 ![React](https://img.shields.io/badge/-React-00BFFF?style=for-the-badge&logo=react&logoColor=white&labelColor=00BFFF)
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white&labelColor=6DB33F)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=ffffff&labelColor=000000)
@@ -74,7 +74,7 @@
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-4682B4?style=for-the-badge&logo=python&logoColor=white&labelColor=4682B4)
 ![Seaborn](https://img.shields.io/badge/-Seaborn-483D8B?style=for-the-badge&logo=python&logoColor=white&labelColor=483D8B)
 
-### IDEs & Ferramentas
+### 🛠 IDEs & Ferramentas
 
 [![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=ffffff)](https://code.visualstudio.com/)
 [![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=ffffff)](https://visualstudio.microsoft.com/)
@@ -86,7 +86,7 @@
 ![IntelliJ](https://img.shields.io/badge/-IntelliJ%20IDEA-5c1bf5?style=for-the-badge&logo=intellij-idea&labelColor=5c1bf5)
 ![Eclipse IDE](https://img.shields.io/badge/-Eclipse%20IDE-000080?style=for-the-badge&logo=eclipseide&labelColor=000080)
 
- ### Outros Conhecimentos:
+ ### 🔧 Outros Conhecimentos:
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=ffffff&labelColor=2496ED)
 ![Microsoft Azure](https://img.shields.io/badge/-Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=ffffff&labelColor=0078D4)
 ![ORACLE](https://img.shields.io/badge/-ORACLE-FF0000?style=for-the-badge&logo=ORACLE&logoColor=white&labelColor=FF0000)
