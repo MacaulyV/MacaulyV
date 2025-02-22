@@ -27,7 +27,8 @@
 
   ## 💻 Desenvolvedor Full Stack  
 
-  Atuo no desenvolvimento de aplicações web e back-end, com experiência acadêmica na criação e integração de APIs. Gosto de aprender novas tecnologias e aplicá-las para resolver problemas de forma prática. Também já desenvolvi modelos de **IA/ML**, trabalhei com **análise de dados** e explorei práticas de **DevOps** em projetos acadêmicos e pessoais.
+  Projetos web e back-end fazem parte do meu foco de desenvolvimento, com experiência acadêmica na criação e integração de APIs. Gosto de aprender novas tecnologias e aplicá-las para resolver problemas de forma prática. Também já desenvolvi modelos de **IA/ML**, trabalhei com **análise de dados** e explorei práticas de **DevOps** em projetos acadêmicos e 
+  pessoais.
 
   ## 🎯 Áreas de Interesse  
   - **Machine Learning & Ciência de Dados** 📊  
