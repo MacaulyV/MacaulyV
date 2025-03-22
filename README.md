@@ -50,7 +50,7 @@
 </div>
 <br>
 
-<h2 align="center"> 🔹 "Todas as tecnologias e ferramentas que utilizo ou já utilizei. </h2>
+<h2 align="center"> 🔹 Ferramentas que Uso e Já Usei </h2>
 
 ### 🖥️ Principais linguagens:
 ![Python](https://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=python&logoColor=ffffff&labelColor=000000)
