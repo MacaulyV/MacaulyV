@@ -62,6 +62,7 @@
 
 ### 📚 Frameworks e Bibliotecas:
 ![React](https://img.shields.io/badge/-React-00BFFF?style=for-the-badge&logo=react&logoColor=white&labelColor=00BFFF)
+![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=white&labelColor=1E1E1E)
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white&labelColor=6DB33F)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=ffffff&labelColor=000000)
 ![Node.js](https://img.shields.io/badge/-Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=ffffff&labelColor=43853D)
@@ -94,12 +95,6 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=7952B3)
 ![HTML5](https://img.shields.io/badge/-HTML5-FF6347?style=for-the-badge&logo=html5&logoColor=white&labelColor=FF6347)
 ![CSS3](https://img.shields.io/badge/-CSS3-00BFFF?style=for-the-badge&logo=css3&logoColor=white&labelColor=00BFFF)
-
-### 📖 Estudando neste momento:
-
-![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=white&labelColor=1E1E1E)
-![Microservices](https://img.shields.io/badge/-Microservices-FF4500?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=FF4500)
-
 
 <div align="center" > 
 <br>
